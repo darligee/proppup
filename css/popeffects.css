@@ -1,0 +1,108 @@
+.prop-index-cra-plus:hover{
+	border-radius: 50%;
+	box-shadow: 1.5px 1.5px 1.5px 1.5px  rgba(0,0,0,0.2)  !important;
+}
+.prop-index-cra-btn-one:hover{
+	transition: background-color 0.5s ease !important;
+	moz-transition: background-color 0.5s ease !important;
+	-webkit-transition: background-color 0.5s ease !important;
+	-ms-transition: background-color 0.5s ease !important;
+	border-color: rgba(255, 255, 255, 0.55) !important;
+	background-color: #C7BDB2  !important;
+	color: #333030 !important;
+	box-shadow: 5px 8px 4px #e0dada  !important;
+
+}
+.prop-index-cra-btn-two:hover{
+	transition: background-color 0.5s ease !important;
+	moz-transition: background-color 0.5s ease !important;
+	-webkit-transition: background-color 0.5s ease !important;
+	-ms-transition: background-color 0.5s ease !important;
+	border-color: rgba(255, 255, 255, 0.55) !important;
+	background-color:#C7BDB2 !important;
+	box-shadow: 5px 8px 4px #e0dada  !important;	
+	color: #333030 !important;	
+}
+
+.pop-line:hover{
+	background-color: #c10202 !important;
+	transition: color 0.5s ease !important;
+
+}
+.navbar-header:hover{
+	color: #ffffff;
+}
+.no-shadow:hover{
+	color: #ffffff !important;	
+}
+.pop-nav-text{
+	color: #ffffff;
+}
+.pop-nav-text:hover{
+	color: #c10202 !important;
+	moz-transition: color 0.5s ease !important;
+	-webkit-transition: color 0.5s ease !important;
+	-ms-transition: color 0.5s ease !important;
+}
+.cra-btn li:hover{
+	color:#c10202 !important;
+	font-size: 10px !important;
+}
+a:hover{
+	color: #09c !important;
+}
+.div-four-plus:hover{
+	background-color:#ffffff !important;
+	transition: background-color 0.5s ease !important;
+	moz-transition: background-color 0.5s ease !important;
+	-webkit-transition: background-color 0.5s ease !important;
+	-ms-transition: background-color 0.5s ease !important;
+}
+.div-four-icon:hover{
+	background-color: #ffffff !important;
+	transition: background-color 0.5s ease !important;
+	moz-transition: background-color 0.5s ease !important;
+	-webkit-transition: background-color 0.5s ease !important;
+	-ms-transition: background-color 0.5s ease !important;
+}
+.div-four-link:hover{
+	color: #ffffff !important;
+	transition: color 0.5s ease !important;
+	moz-transition: color 0.5s ease !important;
+	-webkit-transition: color 0.5s ease !important;
+	-ms-transition:color 0.5s ease !important;
+}
+.footer-li :hover{
+	color: #c10202 !important;
+	transition: color 0.4s ease !important;
+	moz-transition: color 0.4s ease !important;
+	-webkit-transition:color 0.4s ease !important;
+	box-shadow: 3px 5px 2px 2px #d7d7d7  !important;	
+	-ms-transition: color 0.4s ease !important;	
+}
+.nav-link li :hover{
+	color: #c10202 !important;
+	z-index: 200000 !important;
+}
+.hid-div-part-two p :hover{
+	background: #c10202 !important;
+	border-color: #ffffff !important;
+	color: #ffffff !important;
+} 
+.pop-cra-plus :hover{
+	color: #c10202 !important;
+	transition: color 0.4s ease !important;
+	moz-transition: color 0.4s ease !important;
+	-webkit-transition:color 0.4s ease !important;
+	box-shadow: 3px 5px 2px 2px #d7d7d7  !important;	
+	-ms-transition: color 0.4s ease !important;	
+}
+.plus :hover{
+	background-color: #ffffff !important;
+	transition: background-color 0.4s ease !important;
+	moz-transition: background-color 0.4s ease !important;
+	-webkit-transition:background-color 0.4s ease !important;
+	box-shadow: 3px 5px 2px 2px #c10202  !important;	
+	-ms-transition: background-color 0.4s ease !important;	
+}
+

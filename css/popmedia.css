@@ -1,0 +1,3263 @@
+/* ----------- Mobile Phones ----------- */
+
+/* ----------- iPhone 4 and 4S ----------- */
+
+
+/* Portrait */
+@media  
+  and (min-width: 320px) 
+  and (max-width: 480px)
+  and (-webkit-min-pixel-ratio: 2)
+  and (orientation: portrait) {
+    .header-host{
+      padding: 15px 1px ;
+    }
+    .pop-logo{
+      width: 30% ;
+    }
+    .nav-container{
+      width: 50% ;
+    }
+    .pop-nav-line{
+      padding: 8px 2px ;
+      margin-right: 0 ;
+      margin-top: 5px ;
+      margin-bottom: 0 ;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px ;
+      height: unset ;
+      font-size: 14px ;
+    }
+    .pop-line{
+          width: 25px ;
+    }
+    .pop-slide-div{
+      height: 520px ;
+      margin-top: 10px ;
+
+    }
+    .shift-cra{
+      width: 260px ;
+      height: 260px ;
+      top: 45% ;
+      margin-left: -130px ;
+      margin-top: -130px ;
+      background-size: contain ;
+    }
+    .plus{
+      top: 42% ;
+      left: 42% ;
+      width: 50px ;
+      height: 50px ;
+    }
+    .pop-cra-plus{
+      top: 39.9% ;
+      left: 45.5% ;
+      width: 20px;
+      height: 20px ;
+      font-size: 45px ;
+      margin-left: unset ;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset;
+      left: unset;
+      right: 58% ;
+      top: 54% ;
+      font-size: 30px ;
+    }
+    .cra-btn{
+      left: 13.5% ;
+      margin-left: unset;
+      top: 95% ;
+      font-size: 6px ;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      left: 5% ;
+      top: 80% ;
+      padding: 5px 10px 5px 10px ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      padding: 5px 10px 5px 10px ;
+      left: unset ;
+      right: 5% ;
+      top: 80% ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .intro{
+      padding-top: 50px;
+      padding-bottom:  50px;
+    }
+    .intro-text-one{
+      font-size: 30pt ;
+    }
+    .intro-text-two{
+      font-size: 12pt ;
+    }
+    .div-three-text-one{
+      font-size: 12em ;
+      margin:unset ;
+    }
+    .div-three-text-two{
+      padding-left: unset ; 
+      line-height: unset ;
+      font-size:30px ;
+    }
+    .div-five{
+      padding: 100px 0 ;
+    }
+    .div-five h1 {
+        font-size: 50pt ;
+        padding-top: 20px ;
+    }
+    .footer{
+      padding: 0 15px ;
+      text-align: center ;
+    }
+    .footer-li-host{
+      text-align: center ;
+      margin-left: 10px;
+    }
+    .footer-li{
+      font-size: 25px ;
+      padding: 20px 20px ;
+    }
+    .footer-address-host{
+      float: unset ;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset ;
+      padding: 10px 15px ;
+    }
+    .footer-li-container{
+      float: unset;
+    }
+    .hid-div-part-one{
+      width: 80% ;
+    }
+    .hid-div-part-two{
+      width: unset ;
+    }
+    .hid-div-logo{
+      margin-left: 2em ;
+    }
+    .nav-link{
+      margin-top:5em ;
+      margin-left: -10px ;
+    }
+
+}
+@media  
+  and (min-width: 320px) 
+  and (max-width: 568px)
+  and (-webkit-min-pixel-ratio: 2)
+  and (orientation: portrait) {
+    .header-host{
+      padding: 15px 1px ;
+    }
+    .pop-logo{
+      width: 30% ;
+    }
+    .nav-container{
+      width: 50% ;
+    }
+    .pop-nav-line{
+      padding: 8px 2px ;
+      margin-right: 0 ;
+      margin-top: 5px ;
+      margin-bottom: 0 ;
+
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px ;
+      height: unset ;
+      font-size: 14px ;
+    }
+    .pop-line{
+          width: 25px ;
+    }
+    .pop-slide-div{
+      height: 520px ;
+      margin-top: 10px ;
+
+    }
+    .shift-cra{
+      width: 260px ;
+      height: 260px ;
+      top: 45% ;
+      margin-left: -130px ;
+      margin-top: -130px ;
+      background-size: contain ;
+    }
+    .plus{
+      top: 42% ;
+      left: 42% ;
+      width: 50px ;
+      height: 50px ;
+    }
+      .pop-cra-plus{
+        top: 39.9% ;
+        left: 45.5% ;
+        width: 20px;
+        height: 20px ;
+        font-size: 45px ;
+        margin-left: unset ;
+      }
+      .pop-cra-text-ontop{
+        margin-left: unset;
+        left: unset;
+        right: 58% ;
+        top: 60% ;
+        font-size: 30px ;
+      }
+      .cra-btn{
+        left: 13.5% ;
+        margin-left: unset;
+        top: 95% ;
+        font-size: 6px ;
+      }
+      .cra-div-btn-one{
+        letter-spacing: 1.5px ;
+        font-weight: unset ;
+        left: 5% ;
+        top: 80% ;
+        padding: 5px 10px 5px 10px ;
+        margin-left: unset ;
+        font-size: 12px ;
+      }
+      .cra-div-btn-two{
+        letter-spacing: 1.5px ;
+        font-weight: unset ;
+        padding: 5px 10px 5px 10px ;
+        left: unset ;
+        right: 5% ;
+        top: 80% ;
+        margin-left: unset ;
+        font-size: 12px ;
+      }
+      .pop-cra-text-ontop{
+        margin-left: unset;
+        left: unset;
+        right: 58% ;
+        top: 60% ;
+        font-size: 30px ;
+      }
+      .cra-btn{
+        left: 13.5% ;
+        margin-left: unset;
+        top: 95% ;
+        font-size: 6px ;
+      }
+      .cra-div-btn-one{
+        letter-spacing: 1.5px ;
+        font-weight: unset ;
+        left: 5% ;
+        top: 80% ;
+        padding: 5px 10px 5px 10px ;
+        margin-left: unset ;
+        font-size: 12px ;
+      }
+      .cra-div-btn-two{
+        letter-spacing: 1.5px ;
+        font-weight: unset ;
+        padding: 5px 10px 5px 10px ;
+        left: unset ;
+        right: 5% ;
+        top: 80% ;
+        margin-left: unset ;
+        font-size: 12px ;
+      }
+      .intro{
+        padding-top: 50px;
+        padding-bottom:  50px;
+      }
+      .intro-text-one{
+        font-size: 30pt ;
+      }
+      .intro-text-two{
+        font-size: 12pt ;
+      }
+      .div-three-text-one{
+        font-size: 12em ;
+        margin:unset ;
+      }
+      .div-three-text-two{
+        padding-left: unset ; 
+        line-height: unset ;
+        font-size:30px ;
+      }
+      .div-five{
+        padding: 100px 0 ;
+      }
+      .div-five h1 {
+          font-size: 50pt ;
+          padding-top: 20px ;
+      }
+      .footer{
+        padding: 0 15px ;
+        text-align: center ;
+      }
+      .footer-li-host{
+        text-align: center ;
+      }
+      .footer-li{
+        font-size: 25px ;
+        padding: 20px 20px ;
+      }
+      .footer-address-host{
+        float: unset ;
+        text-align: center;
+      }
+      .footer-address{
+        float: unset ;
+        padding: 10px 15px ;
+      }
+      .footer-li-container{
+        float: unset;
+      }
+      .hid-div-part-one{
+        width: 80% ;
+      }
+      .hid-div-part-two{
+        width: unset ;
+      }
+      .hid-div-logo{
+        margin-left: 2em ;
+      }
+      .nav-link{
+        margin-top:5em ;
+        margin-left: -10px ;
+      }
+}
+/* Landscape */
+@media  
+  and (min-width: 320px) 
+  and (max-width: 480px)
+  and (-webkit-min-pixel-ratio: 2)
+  and (orientation: landscape) { 
+    .header-host{
+      padding: 15px 5px ;
+    }
+    .nav-container{
+      width: 50% ;
+    }
+    .pop-nav-line{
+      padding: 8px 2px ;
+      margin-right: 0 ;
+      margin-top: 5px ;
+      margin-bottom: 0 ;
+
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px ;
+      height: unset ;
+      font-size: 14px ;
+    }
+    .pop-line{
+          width: 25px ;
+    }
+    .pop-slide-div{
+      height: 520px ;
+      margin-top: 10px ;
+
+    }
+    .shift-cra{
+      width: 260px ;
+      height: 260px ;
+      top: 45% ;
+      margin-left: -130px ;
+      margin-top: -130px ;
+      background-size: contain ;
+    }
+    .plus{
+      top: 42% ;
+      left: 42% ;
+      width: 50px ;
+      height: 50px ;
+    }
+   .pop-cra-plus{
+      top: 39.9% ;
+      left: 45.5% ;
+      width: 20px;
+      height: 20px ;
+      font-size: 45px ;
+      margin-left: unset ;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset;
+      left: unset;
+      right: 58% ;
+      top: 54% ;
+      font-size: 30px ;
+    }
+    .cra-btn{
+      left: 13.5% ;
+      margin-left: unset;
+      top: 95% ;
+      font-size: 6px ;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      left: 5% ;
+      top: 80% ;
+      padding: 5px 10px 5px 10px ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      padding: 5px 10px 5px 10px ;
+      left: unset ;
+      right: 5% ;
+      top: 80% ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .intro{
+      padding-top: 50px;
+      padding-bottom:  50px;
+    }
+    .intro-text-one{
+      font-size: 30pt ;
+    }
+    .intro-text-two{
+      font-size: 12pt ;
+    }
+    .div-three-text-one{
+      font-size: 12em ;
+      margin:unset ;
+    }
+    .div-three-text-two{
+      padding-left: unset ; 
+      line-height: unset ;
+      font-size:30px ;
+    }
+    .div-five{
+      padding: 100px 0 ;
+    }
+    .div-five h1 {
+        font-size: 50pt ;
+        padding-top: 20px ;
+    }
+    .footer{
+      padding: 0 15px ;
+      text-align: center ;
+    }
+    .footer-li-host{
+      text-align: center ;
+    }
+    .footer-li{
+      font-size: 25px ;
+      padding: 20px 20px ;
+    }
+    .footer-address-host{
+      float: unset ;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset ;
+      padding: 10px 15px ;
+    }
+    .footer-li-container{
+      float: unset;
+    }
+    .hid-div-part-one{
+      width: 80% ;
+    }
+    .hid-div-part-two{
+      width: unset ;
+    }
+    .hid-div-logo{
+      margin-left: 2em ;
+    }
+    .nav-link{
+      margin-top:5em ;
+      margin-left: -10px ;
+    }
+
+
+}
+
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait */
+@media  
+  and (min-width: 320px) 
+  and (max-width: 568px)
+  and (-webkit-min-pixel-ratio: 2)
+  and (orientation: portrait) {
+    .header-host{
+      padding: 15px 1px ;
+    }
+    .pop-logo{
+      width: 30% ;
+    }
+    .nav-container{
+      width: 50% ;
+    }
+    .pop-nav-line{
+      padding: 8px 2px ;
+      margin-right: 0 ;
+      margin-top: 5px ;
+      margin-bottom: 0 ;
+
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px ;
+      height: unset ;
+      font-size: 14px ;
+    }
+    .pop-line{
+          width: 25px ;
+    }
+    .pop-slide-div{
+      height: 520px ;
+      margin-top: 10px ;
+
+    }
+    .shift-cra{
+      width: 260px ;
+      height: 260px ;
+      top: 45% ;
+      margin-left: -130px ;
+      margin-top: -130px ;
+      background-size: contain ;
+    }
+    .plus{
+      top: 42% ;
+      left: 42% ;
+      width: 50px ;
+      height: 50px ;
+    }
+    .pop-cra-plus{
+      top: 39.9% ;
+      left: 45.5% ;
+      width: 20px;
+      height: 20px ;
+      font-size: 45px ;
+      margin-left: unset ;
+      }
+    .pop-cra-text-ontop{
+      margin-left: unset;
+      left: unset;
+      right: 58% ;
+      top: 54% ;
+      font-size: 30px ;
+    }
+    .cra-btn{
+      left: 13.5% ;
+      margin-left: unset;
+      top: 95% ;
+      font-size: 6px ;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      left: 5% ;
+      top: 80% ;
+      padding: 5px 10px 5px 10px ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      padding: 5px 10px 5px 10px ;
+      left: unset ;
+      right: 5% ;
+      top: 80% ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .intro{
+      padding-top: 50px;
+      padding-bottom:  50px;
+    }
+    .intro-text-one{
+      font-size: 30pt ;
+    }
+    .intro-text-two{
+      font-size: 12pt ;
+    }
+    .div-three-text-one{
+      font-size: 12em ;
+      margin:unset ;
+    }
+    .div-three-text-two{
+      padding-left: unset ; 
+      line-height: unset ;
+      font-size:30px ;
+    }
+
+    .div-five{
+      padding: 100px 0 ;
+    }
+    .div-five h1 {
+        font-size: 50pt ;
+        padding-top: 20px ;
+    }
+    .footer{
+      padding: 0 15px ;
+      text-align: center ;
+    }
+    .footer-li-host{
+      text-align: center ;
+    }
+    .footer-li{
+      font-size: 25px ;
+      padding: 20px 20px ;
+    }
+    .footer-address-host{
+      float: unset ;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset ;
+      padding: 10px 15px ;
+    }
+    .footer-li-container{
+      float: unset;
+    }
+    .hid-div-part-one{
+      width: 80% ;
+    }
+    .hid-div-part-two{
+      width: unset ;
+    }
+    .hid-div-logo{
+      margin-left: 2em ;
+    }
+    .nav-link{
+      margin-top:5em ;
+      margin-left: -10px ;
+    }
+
+}
+
+/* Landscape */
+@media  
+  and (min-width: 320px) 
+  and (max-width: 568px)
+  and (-webkit-min-pixel-ratio: 2)
+  and (orientation: landscape) {
+     .header-host{
+      padding: 15px 5px ;
+    }
+    .pop-logo{
+      width: 25% ;
+    }
+    .nav-container{
+      width: 50% ;
+    }
+    .pop-nav-line{
+      padding: 10px 0px ;
+      margin-right: 0 ;
+      margin-top: 10px ;
+      margin-bottom: 0 ;
+
+    }
+    .pop-nav-text{
+      padding: 18px 10px 0px ;
+      height: unset ;
+      font-size: 20px ;
+    }
+    .pop-line{
+          width: 40px ;
+    }
+    .pop-slide-div{
+      height: 400px ;
+      margin-top: 30px ;
+    }
+    .shift-cra{
+      width: 260px ;
+      top: 45% ;
+      height: 260px ;
+      margin-left: -130px ;
+      margin-top: -130px ;
+      background-size: contain ;
+    }
+    .plus{
+      top: 42% ;
+      left: 45.5% ;
+      width: 50px ;
+      height: 50px ;
+    }
+    .pop-cra-plus{
+      top: 39% ;
+      left: 47.5% ;
+      width: 20px;
+      height: 20px ;
+      font-size: 45px ;
+      margin-left: unset ;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset;
+      left: unset;
+      right: 58% ;
+      top: 54% ;
+      font-size: 35px ;
+    }
+    .cra-btn{
+      left: 72% ;
+      margin-left: unset;
+      top: 45% ;
+      font-size: 6px ;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 3.5px ;
+      font-weight: unset ;
+      left: 10% ;
+      top: 35% ;
+      padding: 10px 28px 10px 12px ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 3.5px ;
+      font-weight: unset ;
+      padding: 10px 12px 10px 55px ;
+      left: unset ;
+      right: 10% ;
+      top: 56% ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .cra-btn li{
+      margin-right: 15px ;
+    }
+    .intro{
+      padding-top: 0 ;
+      padding-bottom:  50px;
+    }
+    .intro-text-one{
+      font-size: 30pt ;
+    }
+    .intro-text-two{
+      font-size: 12pt ;
+    }
+    .div-three-text-one{
+      font-size: 16em ;
+      margin:unset ;
+    }
+    .div-three-text-two{
+      padding-left: 5px ; 
+      line-height: unset ;
+      font-size:40px ;
+    }
+    .div-four-txt-h4{
+      font-size: 18px ;
+    }
+    .div-five{
+      padding: 100px 0 ;
+    }
+    .div-five h1 {
+        font-size: 50pt ;
+        padding-top: 20px ;
+    }
+    .footer{
+      padding: 20px 15px ;
+      text-align: center ;
+    }
+    .footer-li-host{
+      text-align: center ;
+      margin: 10px 20px 10px 20px ;
+      overflow: hidden ;
+    }
+    .footer-li{
+      font-size: 30px ;
+      padding: 20px 58px ;
+    }
+    .footer-address-host{
+      float: unset ;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset ;
+      padding: 10px 15px ;
+    }
+    .footer-address h4{
+      font-size: 18pt ;
+    }
+    .footer-address p{
+      font-size: 14pt ;
+
+    }
+
+    .footer-li-container{
+      float: unset;
+    }
+    .hid-div-part-one{
+      width: 60% ;
+    }
+    .hid-div-part-two{
+      width: 30% ;
+    }
+    .nav-plus{
+      left: 50% ;
+    }
+    .hid-div-logo{
+      margin-left: 2em ;
+    }
+    .nav-link{
+      margin-top:5em ;
+      margin-left: -10px ;
+    }
+
+}
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait */
+@media  
+  and (min-width: 375px) 
+  and (max-width: 667px) 
+  and (-webkit-min-pixel-ratio: 2)
+  and (orientation: portrait) { 
+        .header-host{
+          padding: 15px 1px ;
+        }
+        .pop-logo{
+          width: 30% ;
+        }
+        .nav-container{
+          width: 50% ;
+        }
+        .pop-nav-line{
+          padding: 8px 2px ;
+          margin-right: 0 ;
+          margin-top: 5px ;
+          margin-bottom: 0 ;
+
+        }
+        .pop-nav-text{
+          padding: 12px 12px 0px ;
+          height: unset ;
+          font-size: 16px ;
+        }
+        .pop-line{
+              width: 33px ;
+        }
+        .pop-slide-div{
+          height: 520px ;
+          margin-top: 15px ;
+
+        }
+        .shift-cra{
+          width: 280px ;
+          height: 280px ;
+          top: 45% ;
+          margin-left: -140px ;
+          margin-top: -140px ;
+          background-size: contain ;
+        }
+        .plus{
+          top: 40% ;
+          left: 42.5% ;
+          width: 60px ;
+          height: 60px ;
+        }
+       .pop-cra-plus{
+      top: 38.9% ;
+      left: 46.8% ;
+      width: 20px;
+      height: 20px ;
+      font-size: 45px ;
+      margin-left: unset ;
+    }
+        .pop-cra-text-ontop{
+          margin-left: unset;
+          left: unset;
+          right: 58% ;
+          top: 54% ;
+          font-size: 30px ;
+        }
+        .cra-btn{
+          left: 19% ;
+          margin-left: unset;
+          top: 95% ;
+          font-size: 8px ;
+        }
+        .cra-div-btn-one{
+          letter-spacing: 1.5px ;
+          font-weight: unset ;
+          left: 5% ;
+          top: 80% ;
+          padding: 8px 13px 8px 13px ;
+          margin-left: unset ;
+          font-size: 12px ;
+        }
+        .cra-div-btn-two{
+          letter-spacing: 1.5px ;
+          font-weight: unset ;
+          padding: 8px 13px 8px 13px ;
+          left: unset ;
+          right: 5% ;
+          top: 80% ;
+          margin-left: unset ;
+          font-size: 12px ;
+        }
+        .intro{
+          padding-top: 50px;
+          padding-bottom:  50px;
+        }
+        .intro-text-one{
+          font-size: 30pt ;
+        }
+        .intro-text-two{
+          font-size: 12pt ;
+        }
+        .div-three-text-one{
+          font-size: 12em ;
+          margin:unset ;
+        }
+        .div-three-text-two{
+          padding-left: unset ; 
+          line-height: unset ;
+          font-size:30px ;
+        }
+
+        .div-five{
+          padding: 100px 0 ;
+        }
+        .div-five h1 {
+            font-size: 50pt ;
+            padding-top: 20px ;
+        }
+        .footer{
+          padding: 0 15px ;
+          text-align: center ;
+        }
+        .footer-li-host{
+          text-align: center ;
+          margin-left: unset ;
+        }
+        .footer-li{
+          font-size: 25px ;
+          padding: 30px 35px ;
+        }
+        .footer-address-host{
+          float: unset ;
+          text-align: center;
+        }
+        .footer-address{
+          float: unset ;
+          margin-bottom: 10px 
+          padding: 10px 15px ;
+        }
+        .footer-address p{
+          font-size: 12pt ;
+        }
+        .footer-li-container{
+          float: unset;
+          margin-left: unset ;
+        }
+        .hid-div-part-one{
+          width: 80% ;
+        }
+        .hid-div-part-two{
+          width: unset ;
+        }
+        .hid-div-logo{
+          margin-left: 2em ;
+        }
+        .nav-link{
+          margin-top:5em ;
+          margin-left: -10px ;
+        }
+}
+
+/* Landscape */
+@media  
+  and (min-width: 375px) 
+  and (max-width: 667px) 
+  and (-webkit-min-pixel-ratio: 2)
+  and (orientation: landscape) { 
+        .header-host{
+          padding: 15px 5px ;
+        }
+        .pop-logo{
+          width: 21% ;
+        }
+        .nav-container{
+          width: 50% ;
+        }
+        .pop-nav-line{
+          padding: 10px 0px ;
+          margin-right: 0 ;
+          margin-top: 10px ;
+          margin-bottom: 0 ;
+
+        }
+        .pop-nav-text{
+          padding: 18px 10px 0px ;
+          height: unset ;
+          font-size: 20px ;
+        }
+        .pop-line{
+              width: 40px ;
+        }
+        .pop-slide-div{
+          height: 400px ;
+          margin-top: 30px ;
+        }
+        .shift-cra{
+          width: 260px ;
+          top: 45% ;
+          height: 260px ;
+          margin-left: -130px ;
+          margin-top: -130px ;
+          background-size: contain ;
+        }
+        .plus{
+          top: 40.2% ;
+          left: 46.3% ;
+          width: 50px ;
+          height: 50px ;
+        }
+       .pop-cra-plus{
+      top: 37.3% ;
+      left: 48.1% ;
+      width: 20px ;
+      height: 20px ;
+      font-size: 45px ;
+      margin-left: unset ;
+    }
+        .pop-cra-text-ontop{
+          margin-left: unset;
+          left: unset;
+          right: 54% ;
+          top: 55.5% ;
+          font-size: 38px ;
+        }
+        .cra-btn{
+          left: 72% ;
+          margin-left: unset;
+          top: 45% ;
+          font-size: 6px ;
+        }
+        .cra-div-btn-one{
+          letter-spacing: 3.5px ;
+          font-weight: unset ;
+          left: 12% ;
+          top: 35% ;
+          padding: 13px 55px 13px 15px ;
+          margin-left: unset ;
+          font-size: 12px ;
+        }
+        .cra-div-btn-two{
+          letter-spacing: 3.5px ;
+          font-weight: unset ;
+          padding: 13px 15px 13px 78px ;
+          left: unset ;
+          right: 12% ;
+          top: 56% ;
+          margin-left: unset ;
+          font-size: 12px ;
+        }
+        .cra-btn li{
+          margin-right: 15px ;
+        }
+        .intro{
+          padding-top: 0 ;
+          padding-bottom:  50px;
+        }
+        .intro-text-one{
+          font-size: 30pt ;
+        }
+        .intro-text-two{
+          font-size: 12pt ;
+        }
+        .div-three-text-one{
+          font-size: 16em ;
+          margin:unset ;
+        }
+        .div-three-text-two{
+          padding-left: 5px ; 
+          line-height: unset ;
+          font-size:40px ;
+        }
+        .div-four-txt-h4{
+          font-size: 18px ;
+        }
+        .div-five{
+          padding: 100px 0 ;
+        }
+        .div-five h1 {
+            font-size: 50pt ;
+            padding-top: 20px ;
+        }
+        .footer{
+          padding: 20px 15px ;
+          text-align: center ;
+        }
+        .footer-li-host{
+          text-align: center ;
+          margin: 10px 20px 10px 68px ;
+          overflow: hidden ;
+        }
+        .footer-li{
+          font-size: 30px ;
+          padding: 20px 58px ;
+        }
+        .footer-address-host{
+          float: unset ;
+          text-align: center;
+        }
+        .footer-address{
+          float: unset ;
+          padding: 10px 15px ;
+        }
+        .footer-address h4{
+          font-size: 18pt ;
+        }
+        .footer-address p{
+          font-size: 14pt ;
+
+        }
+
+        .footer-li-container{
+          float: unset;
+        }
+        .hid-div-part-one{
+          width: 60% ;
+        }
+        .hid-div-part-two{
+          width: 30% ;
+        }
+        .nav-plus{
+          left: 50% ;
+        }
+        .hid-div-logo{
+          margin-left: 2em ;
+        }
+        .nav-link{
+          margin-top:5em ;
+          margin-left: -10px ;
+        }
+
+}
+
+/* ----------- Galaxy S5 HTC One ----------- */
+
+/* Portrait */
+@media  
+  and (width: 360px) 
+  and (height: 640px) 
+  and (-webkit-pixel-ratio: 3) 
+  and (orientation: portrait) {
+    .header-host{
+      padding: 15px 5px ;
+    }
+    .nav-container{
+      width: 50% ;
+    }
+    .pop-nav-line{
+      padding: 8px 2px ;
+      margin-right: 0 ;
+      margin-top: 5px ;
+      margin-bottom: 0 ;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px ;
+      height: unset ;
+      font-size: 14px ;
+    }
+    .pop-line{
+          width: 25px ;
+    }
+    .pop-slide-div{
+      height: 520px ;
+      margin-top: 10px ;
+
+    }
+    .shift-cra{
+      width: 300px ;
+      height: 300px ;
+      margin-left: -149.5px ;
+      top: 45% ;
+      margin-top: -130px ;
+      background-size: contain ;
+    }
+    .plus{
+      top: 44.4% ;
+      left: 42.4% ;
+      width: 55px ;
+      height: 55px ;
+    }
+       .pop-cra-plus{
+      top: 43.6% ;
+      left: 46.8% ;
+      width: 20px;
+      height: 20px ;
+      font-size: 40px ;
+      margin-left: unset ;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset;
+      left: unset;
+      right: 54% ;
+      top: 56.5% ;
+      font-size: 40px ;
+    }
+    .cra-btn{
+      left: 18.6% ;
+      margin-left: unset;
+      top: 95% ;
+      font-size: 6px ;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      left: 5% ;
+      top: 85% ;
+      padding: 10px 15px 10px 15px ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      padding: 10px 15px 10px 15px ;
+      left: unset ;
+      right: 5% ;
+      top: 85% ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .intro{
+      padding-top: 50px;
+      padding-bottom:  50px;
+    }
+    .intro-text-one{
+      font-size: 30pt ;
+    }
+    .intro-text-two{
+      font-size: 12pt ;
+    }
+    .div-three-text-one{
+      font-size: 12em ;
+      margin:unset ;
+    }
+    .div-three-text-two{
+      padding-left: unset ; 
+      line-height: unset ;
+      font-size:30px ;
+    }
+    .div-five{
+      padding: 100px 0 ;
+    }
+    .div-five h1 {
+        font-size: 50pt ;
+        padding-top: 20px ;
+    }
+    .footer{
+      padding: 0 15px ;
+      text-align: center ;
+    }
+    .footer-li-host{
+      text-align: center ;
+    }
+    .footer-li{
+      font-size: 30px ;
+      padding: 20px 20px ;
+    }
+    .footer-address-host{
+      float: unset ;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset ;
+      padding: 10px 15px ;
+    }
+    .footer-li-container{
+      float: unset;
+      padding-left: 2.5em ;
+    }
+    .hid-div-part-one{
+      width: 80% ;
+    }
+    .hid-div-part-two{
+      width: unset ;
+    }
+    .hid-div-logo{
+      margin-left: 2em ;
+    }
+    .nav-link{
+      margin-top:5em ;
+      margin-left: -10px ;
+    }
+
+
+}
+
+/* Landscape */
+@media  
+  and (width: 360px) 
+  and (height: 640px) 
+  and (-webkit-pixel-ratio: 3) 
+  and (orientation: landscape) {
+    .header-host{
+      padding: 15px 5px ;
+    }
+    .nav-container{
+      width: 50% ;
+    }
+    .pop-nav-line{
+      padding: 8px 2px ;
+      margin-right: 0 ;
+      margin-top: 5px ;
+      margin-bottom: 0 ;
+
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px ;
+      height: unset ;
+      font-size: 14px ;
+    }
+    .pop-line{
+          width: 25px ;
+    }
+    .pop-slide-div{
+      height: 520px ;
+      margin-top: 10px ;
+
+    } 
+    .shift-cra{
+      width: 260px ;
+      height: 260px ;
+      top: 45% ;
+      margin-left: -130px ;
+      margin-top: -130px ;
+      background-size: contain ;
+    }
+    .plus{
+      top: 42% ;
+      left: 42% ;
+      width: 50px ;
+      height: 50px ;
+    }
+       .pop-cra-plus{
+      top: 44.5% ;
+      left: 48.2% ;
+      width: 20px;
+      height: 20px ;
+      font-size: 43px ;
+      margin-left: unset ;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset;
+      left: unset;
+      right: 58% ;
+      top: 54% ;
+      font-size: 30px ;
+    }
+    .cra-btn{
+      left: 13.5% ;
+      margin-left: unset;
+      top: 95% ;
+      font-size: 6px ;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      left: 5% ;
+      top: 80% ;
+      padding: 5px 10px 5px 10px ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      padding: 5px 10px 5px 10px ;
+      left: unset ;
+      right: 5% ;
+      top: 80% ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .intro{
+      padding-top: 50px;
+      padding-bottom:  50px;
+    }
+    .intro-text-one{
+      font-size: 30pt ;
+    }
+    .intro-text-two{
+      font-size: 12pt ;
+    }
+    .div-three-text-one{
+      font-size: 12em ;
+      margin:unset ;
+    }
+    .div-three-text-two{
+      padding-left: unset ; 
+      line-height: unset ;
+      font-size:30px ;
+    }
+    .div-five{
+      padding: 100px 0 ;
+    }
+    .div-five h1 {
+        font-size: 50pt ;
+        padding-top: 20px ;
+    }
+    .footer{
+      padding: 0 15px ;
+      text-align: center ;
+    }
+    .footer-li-host{
+      text-align: center ;
+    }
+    .footer-li{
+      font-size: 25px ;
+      padding: 20px 20px ;
+    }
+    .footer-address-host{
+      float: unset ;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset ;
+      padding: 10px 15px ;
+    }
+    .footer-li-container{
+      float: unset;
+    }
+    .hid-div-part-one{
+      width: 80% ;
+    }
+    .hid-div-part-two{
+      width: unset ;
+    }
+    .hid-div-logo{
+      margin-left: 2em ;
+    }
+    .nav-link{
+      margin-top:5em ;
+      margin-left: -10px ;
+    }
+
+}
+
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait */
+@media  (min-width: 414px) 
+  and (max-width: 736px) 
+  and (-webkit-min-pixel-ratio: 3)
+  and (orientation: portrait) { 
+        .header-host{
+          padding: 15px 1px ;
+        }
+        .pop-logo{
+          width: 30% ;
+        }
+        .nav-container{
+          width: 50% ;
+        }
+        .pop-nav-line{
+          padding: 14px 2px 8px 2px ;
+          margin-right: 0 ;
+          margin-top: 5px ;
+          margin-bottom: 0 ;
+
+        }
+        .pop-nav-text{
+          padding: 16px 12px 0px ;
+          height: unset ;
+          font-size: 18px ;
+        }
+        .pop-line{
+              width: 33px ;
+        }
+        .pop-slide-div{
+          height: 510px ;
+          margin-top: 15px ;
+
+        }
+        .shift-cra{
+          width: 300px ;
+          height: 300px ;
+          top: 50% ;
+          margin-left: -150px ;
+          margin-top: -150px ;
+          background-size: contain ;
+        }
+        .plus{
+          top: 45% ;
+          left: 42.5% ;
+          width: 60px ;
+          height: 60px ;
+        }
+         .pop-cra-plus{
+        top: 44% ;
+        left: 46.5% ;
+        width: 20px;
+        height: 20px ;
+        font-size: 45px ;
+        margin-left: unset ;
+      }
+        .pop-cra-text-ontop{
+          margin-left: unset;
+          left: unset;
+          right: 58% ;
+          top: 60% ;
+          font-size: 38px ;
+        }
+        .cra-btn{
+          left: 22.2% ;
+          margin-top: 15px ;
+          margin-left: unset;
+          top: 95% ;
+          font-size: 8px ;
+        }
+        .cra-div-btn-one{
+          letter-spacing: 1.5px ;
+          font-weight: unset ;
+          left: 5% ;
+          top: 84% ;
+          padding: 10px 15px 10px 15px ;
+          margin-left: unset ;
+          font-size: 12px ;
+        }
+        .cra-div-btn-two{
+          letter-spacing: 1.5px ;
+          font-weight: unset ;
+          padding: 10px 15px 10px 15px ;
+          left: unset ;
+          right: 5% ;
+          top: 84% ;
+          margin-left: unset ;
+          font-size: 12px ;
+        }
+        .intro{
+          padding-top: 50px;
+          padding-bottom:  50px;
+        }
+        .intro-text-one{
+          font-size: 30pt ;
+        }
+        .intro-text-two{
+          font-size: 12pt ;
+        }
+        .div-three-text-one{
+          font-size: 12em ;
+          margin:unset ;
+        }
+        .div-three-text-two{
+          padding-left: unset ; 
+          line-height: unset ;
+          font-size:30px ;
+        }
+
+        .div-five{
+          padding: 100px 0 ;
+        }
+        .div-five h1 {
+            font-size: 50px ;
+            padding-top: 20px ;
+        }
+        .footer{
+          padding: 0 15px ;
+          text-align: center ;
+        }
+        .footer-li-host{
+          text-align: center ;
+          margin-left: 15px ;
+        }
+        .footer-li{
+          font-size: 25px ;
+          padding: 30px 35px ;
+        }
+        .footer-address-host{
+          float: unset ;
+          text-align: center;
+        }
+        .footer-address{
+          float: unset ;
+          margin-bottom: 10px 
+          padding: 10px 15px ;
+        }
+        .footer-address p{
+          font-size: 12pt ;
+        }
+        .footer-li-container{
+          float: unset;
+          margin-left: unset ;
+        }
+        .hid-div-part-one{
+          width: 80% ;
+        }
+        .hid-div-part-two{
+          width: unset ;
+        }
+        .hid-div-logo{
+          margin-left: 2em ;
+        }
+        .nav-link{
+          margin-top:5em ;
+          margin-left: -10px ;
+        }
+}
+
+/* Landscape */
+@media  
+  and (min-width: 414px) 
+  and (max-width: 736px) 
+  and (-webkit-min-pixel-ratio: 3)
+  and (orientation: landscape) { 
+         .header-host{
+          padding: 15px 5px ;
+        }
+        .pop-logo{
+          width: 18% ;
+        }
+        .nav-container{
+          width: 50% ;
+        }
+        .pop-nav-line{
+          padding: 10px 0px ;
+          margin-right: 0 ;
+          margin-top: 10px ;
+          margin-bottom: 0 ;
+
+        }
+        .pop-nav-text{
+          padding: 18px 10px 0px ;
+          height: unset ;
+          font-size: 20px ;
+        }
+        .pop-line{
+              width: 40px ;
+        }
+        .pop-slide-div{
+          height: 400px ;
+          margin-top: 30px ;
+        }
+        .shift-cra{
+          width: 310px ;
+          top: 45% ;
+          height: 310px ;
+          margin-left: -155px ;
+          margin-top: -130px ;
+          background-size: contain ;
+        }
+        .plus{
+          top: 45.5% ;
+          left: 46.5% ;
+          width: 60px ;
+          height: 60px ;
+        }
+        .pop-cra-plus{
+        top: 43.3% ;
+        left: 48.5% ;
+        width: 20px ;
+        height: 20px ;
+        font-size: 50px ;
+        margin-left: unset ;
+      }
+        .pop-cra-text-ontop{
+          margin-left: unset;
+          left: unset;
+          right: 54% ;
+          top: 60% ;
+          font-size: 45px ;
+        }
+        .cra-btn{
+          left: 72% ;
+          margin-left: unset;
+          top: 45% ;
+          font-size: 6px ;
+        }
+        .cra-div-btn-one{
+          letter-spacing: 3.5px ;
+          font-weight: unset ;
+          left: 12% ;
+          top: 35% ;
+          padding: 16px 55px 16px 15px ;
+          margin-left: unset ;
+          font-size: 12px ;
+        }
+        .cra-div-btn-two{
+          letter-spacing: 3.5px ;
+          font-weight: unset ;
+          padding: 16px 15px 16px 78px ;
+          left: unset ;
+          right: 8% ;
+          top: 58% ;
+          margin-left: unset ;
+          font-size: 12px ;
+        }
+        .cra-btn li{
+          margin-right: 15px ;
+        }
+        .intro{
+          padding-top: 0 ;
+          padding-bottom:  50px;
+        }
+        .intro-text-one{
+          font-size: 30pt ;
+        }
+        .intro-text-two{
+          font-size: 12pt ;
+        }
+        .div-three-text-one{
+          font-size: 16em ;
+          margin:unset ;
+        }
+        .div-three-text-two{
+          padding-left: 5px ; 
+          line-height: unset ;
+          font-size:40px ;
+        }
+        .div-four-txt-h4{
+          font-size: 18px ;
+        }
+        .div-five{
+          padding: 100px 0 ;
+        }
+        .div-five h1 {
+            font-size: 50pt ;
+            padding-top: 20px ;
+        }
+        .footer{
+          padding: 20px 15px ;
+          text-align: center ;
+        }
+        .footer-li-host{
+          text-align: center ;
+          margin: 10px 20px 10px 68px ;
+          overflow: hidden ;
+        }
+        .footer-li{
+          font-size: 30px ;
+          padding: 20px 58px ;
+        }
+        .footer-address-host{
+          float: unset ;
+          text-align: center;
+        }
+        .footer-address{
+          float: unset ;
+          padding: 10px 15px ;
+        }
+        .footer-address h4{
+          font-size: 18pt ;
+        }
+        .footer-address p{
+          font-size: 14pt ;
+
+        }
+
+        .footer-li-container{
+          float: unset;
+          padding-left: 50px ;
+        }
+        .hid-div-part-one{
+          width: 60% ;
+        }
+        .hid-div-part-two{
+          width: 30% ;
+        }
+        .nav-plus{
+          left: 50% ;
+        }
+        .hid-div-logo{
+          margin-left: 2em ;
+        }
+        .nav-link{
+          margin-top:5em ;
+          margin-left: -10px ;
+        }
+}
+/* ----------- Galaxy S3 ----------- */
+
+/* Portrait */
+@media  
+  and (width: 320px) 
+  and (height: 640px) 
+  and (-webkit-pixel-ratio: 2) 
+  and (orientation: portrait) {
+    .header-host{
+      padding: 15px 5px ;
+    }
+    .pop-logo{
+      width: 30% ;
+    }
+    .nav-container{
+      width: 50% ;
+    }
+    .pop-nav-line{
+      padding: 8px 2px ;
+      margin-right: 0 ;
+      margin-top: 5px ;
+      margin-bottom: 0 ;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px ;
+      height: unset ;
+      font-size: 14px ;
+    }
+    .pop-line{
+          width: 25px ;
+    }
+    .pop-slide-div{
+      height: 520px ;
+      margin-top: 10px ;
+    }
+    .shift-cra{
+      width: 260px ;
+      height: 260px ;
+      top: 45% ;
+      margin-left: -130px ;
+      margin-top: -130px ;
+      background-size: contain ;
+    }
+    .plus{
+      top: 42% ;
+      left: 42% ;
+      width: 50px ;
+      height: 50px ;
+    }
+     .pop-cra-plus{
+    top: 39.9% ;
+    left: 45.5% ;
+    width: 20px;
+    height: 20px ;
+    font-size: 45px ;
+    margin-left: unset ;
+  }
+    .pop-cra-text-ontop{
+      margin-left: unset;
+      left: unset;
+      right: 58% ;
+      top: 54% ;
+      font-size: 30px ;
+    }
+    .cra-btn{
+      left: 13.5% ;
+      margin-left: unset;
+      top: 95% ;
+      font-size: 6px ;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      left: 5% ;
+      top: 80% ;
+      padding: 5px 10px 5px 10px ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      padding: 5px 10px 5px 10px ;
+      left: unset ;
+      right: 5% ;
+      top: 80% ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .intro{
+      padding-top: 50px;
+      padding-bottom:  50px;
+    }
+    .intro-text-one{
+      font-size: 30pt ;
+    }
+    .intro-text-two{
+      font-size: 12pt ;
+    }
+    .div-three-text-one{
+      font-size: 12em ;
+      margin:unset ;
+    }
+    .div-three-text-two{
+      padding-left: unset ; 
+      line-height: unset ;
+      font-size:30px ;
+    }
+    .div-five{
+      padding: 100px 0 ;
+    }
+    .div-five h1 {
+        font-size: 50pt ;
+        padding-top: 20px ;
+    }
+    .footer{
+      padding: 0 15px ;
+      text-align: center ;
+    }
+    .footer-li-host{
+      text-align: center ;
+    }
+    .footer-li{
+      font-size: 25px ;
+      padding: 20px 20px ;
+    }
+    .footer-address-host{
+      float: unset ;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset ;
+      padding: 10px 15px ;
+    }
+    .footer-li-container{
+      float: unset;
+    }
+    .hid-div-part-one{
+      width: 80% ;
+    }
+    .hid-div-part-two{
+      width: unset ;
+    }
+    .hid-div-logo{
+      margin-left: 2em ;
+    }
+    .nav-link{
+      margin-top:5em ;
+      margin-left: -10px ;
+    }
+
+
+}
+
+/* Landscape */
+@media  
+  and (width: 320px) 
+  and (height: 640px) 
+  and (-webkit-pixel-ratio: 2) 
+  and (orientation: landscape) {
+
+}
+
+/* ----------- Galaxy S4 ----------- */
+
+
+/* Portrait */
+@media  
+  and (width: 320px) 
+  and (height: 640px) 
+  and (-webkit-pixel-ratio: 3) 
+  and (orientation: portrait) {
+    .header-host{
+      padding: 15px 5px ;
+    }
+    .pop-logo{
+      width: 30% ;
+    }
+    .nav-container{
+      width: 50% ;
+    }
+    .pop-nav-line{
+      padding: 8px 2px ;
+      margin-right: 0 ;
+      margin-top: 5px ;
+      margin-bottom: 0 ;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px ;
+      height: unset ;
+      font-size: 14px ;
+    }
+    .pop-line{
+          width: 25px ;
+    }
+    .pop-slide-div{
+      height: 520px ;
+      margin-top: 10px ;
+
+    }
+    .shift-cra{
+      width: 260px ;
+      height: 260px ;
+      margin-left: -130px ;
+      top: 45% ;
+      margin-top: -130px ;
+      background-size: contain ;
+    }
+    .plus{
+      top: 42% ;
+      left: 42% ;
+      width: 50px ;
+      height: 50px ;
+    }
+       .pop-cra-plus{
+      top: 39.9% ;
+      left: 45.5% ;
+      width: 20px;
+      height: 20px ;
+      font-size: 45px ;
+      margin-left: unset ;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset;
+      left: unset;
+      right: 58% ;
+      top: 54% ;
+      font-size: 30px ;
+    }
+    .cra-btn{
+      left: 13.5% ;
+      margin-left: unset;
+      top: 95% ;
+      font-size: 6px ;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      left: 5% ;
+      top: 80% ;
+      padding: 5px 10px 5px 10px ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      padding: 5px 10px 5px 10px ;
+      left: unset ;
+      right: 5% ;
+      top: 80% ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .intro{
+      padding-top: 50px;
+      padding-bottom:  50px;
+    }
+    .intro-text-one{
+      font-size: 30pt ;
+    }
+    .intro-text-two{
+      font-size: 12pt ;
+    }
+    .div-three-text-one{
+      font-size: 12em ;
+      margin:unset ;
+    }
+    .div-three-text-two{
+      padding-left: unset ; 
+      line-height: unset ;
+      font-size:30px ;
+    }
+    .div-five{
+      padding: 100px 0 ;
+    }
+    .div-five h1 {
+        font-size: 50pt ;
+        padding-top: 20px ;
+    }
+    .footer{
+      padding: 0 15px ;
+      text-align: center ;
+    }
+    .footer-li-host{
+      text-align: center ;
+    }
+    .footer-li{
+      font-size: 25px ;
+      padding: 20px 20px ;
+    }
+    .footer-address-host{
+      float: unset ;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset ;
+      padding: 10px 15px ;
+    }
+    .footer-li-container{
+      float: unset;
+    }
+    .hid-div-part-one{
+      width: 80% ;
+    }
+    .hid-div-part-two{
+      width: unset ;
+    }
+    .hid-div-logo{
+      margin-left: 2em ;
+    }
+    .nav-link{
+      margin-top:5em ;
+      margin-left: -10px ;
+    }
+
+}
+
+/* Landscape */
+@media  
+  and (width: 320px) 
+  and (height: 640px) 
+  and (-webkit-pixel-ratio: 3) 
+  and (orientation: landscape) {
+
+    .header-host{
+      padding: 15px 5px ;
+    }
+    .pop-logo{
+      width: 30% ;
+    }
+    .nav-container{
+      width: 50% ;
+    }
+    .pop-nav-line{
+      padding: 8px 2px ;
+      margin-right: 0 ;
+      margin-top: 5px ;
+      margin-bottom: 0 ;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px ;
+      height: unset ;
+      font-size: 14px ;
+    }
+    .pop-line{
+          width: 25px ;
+    }
+    .pop-slide-div{
+      height: 520px ;
+      margin-top: 10px ;
+
+    }
+    .shift-cra{
+      width: 260px ;
+      height: 260px ;
+      margin-left: -130px ;
+      top: 45% ;
+      margin-top: -130px ;
+      background-size: contain ;
+    }
+    .plus{
+      top: 42% ;
+      left: 42% ;
+      width: 50px ;
+      height: 50px ;
+    }
+       .pop-cra-plus{
+      top: 39.9% ;
+      left: 45.5% ;
+      width: 20px;
+      height: 20px ;
+      font-size: 45px ;
+      margin-left: unset ;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset;
+      left: unset;
+      right: 58% ;
+      top: 54% ;
+      font-size: 30px ;
+    }
+    .cra-btn{
+      left: 13.5% ;
+      margin-left: unset;
+      top: 95% ;
+      font-size: 6px ;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      left: 5% ;
+      top: 80% ;
+      padding: 5px 10px 5px 10px ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      padding: 5px 10px 5px 10px ;
+      left: unset ;
+      right: 5% ;
+      top: 80% ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .intro{
+      padding-top: 50px;
+      padding-bottom:  50px;
+    }
+    .intro-text-one{
+      font-size: 30pt ;
+    }
+    .intro-text-two{
+      font-size: 12pt ;
+    }
+    .div-three-text-one{
+      font-size: 12em ;
+      margin:unset ;
+    }
+    .div-three-text-two{
+      padding-left: unset ; 
+      line-height: unset ;
+      font-size:30px ;
+    }
+
+    .div-five{
+      padding: 100px 0 ;
+    }
+    .div-five h1 {
+        font-size: 50pt ;
+        padding-top: 20px ;
+    }
+    .footer{
+      padding: 0 15px ;
+      text-align: center ;
+    }
+    .footer-li-host{
+      text-align: center ;
+    }
+    .footer-li{
+      font-size: 25px ;
+      padding: 20px 20px ;
+    }
+    .footer-address-host{
+      float: unset ;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset ;
+      padding: 10px 15px ;
+    }
+    .footer-li-container{
+      float: unset;
+    }
+    .hid-div-part-one{
+      width: 80% ;
+    }
+    .hid-div-part-two{
+      width: unset ;
+    }
+    .hid-div-logo{
+      margin-left: 2em ;
+    }
+    .nav-link{
+      margin-top:5em ;
+      margin-left: -10px ;
+    }
+
+}
+
+
+/* ----------- Tablets ----------- */
+/* ----------- iPad mini ----------- */
+
+/* Portrait */
+@media  
+  and (min-width: 768px) 
+  and (max-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-pixel-ratio: 1) {
+      .pop-slide-div{
+        height: 660px ;
+        margin-top: 30px ;
+      }
+      .shift-cra{
+        width: 400px ;
+        top: 45% ;
+        height: 400px ;
+        margin-left: -205px ;
+        margin-top: -130px ;
+        background-size: contain ;
+      }
+      .plus{
+        top: 51% ;
+        left: 44.5% ;
+        width: 80px ;
+        height: 80px ;
+      }
+      .pop-cra-plus{
+      top: 49.8% ;
+      left: 47.4% ;
+      width: 20px ;
+      height: 20px ;
+      font-size: 60px ;
+      margin-left: unset ;
+    }
+      .pop-cra-text-ontop{
+        margin-left: unset;
+        left: unset;
+        right: 54% ;
+        top: 66% ;
+        font-size: 65px ;
+      }
+      .cra-btn{
+        left: 78% ;
+        margin-left: unset;
+        top: 55% ;
+        font-size: 8px ;
+      }
+      .cra-div-btn-one{
+        letter-spacing: 3.5px ;
+        font-weight: unset ;
+        left: 6% ;
+        top: 40% ;
+        padding: 20px 78px 20px 20px ;
+        margin-left: unset ;
+        font-size: 14px ;
+      }
+      .cra-div-btn-two{
+        letter-spacing: 3.5px ;
+        font-weight: unset ;
+        padding: 20px 20px 20px 100px ;
+        left: unset ;
+        right: 6% ;
+        top: 67% ;
+        margin-left: unset ;
+        font-size: 14px ;
+      }
+      .cra-btn li{
+        margin-right: 15px ;
+      }
+      .footer{
+        padding: 20px 15px ;
+        text-align: center ;
+      }
+      .footer-li-host{
+        text-align: center ;
+        margin: 10px 20px 10px 120px ;
+        overflow: hidden ;
+        width: 100% ;
+      }
+      .footer-li{
+        font-size: 30px ;
+        padding: 20px 58px ;
+      }
+      .footer-address-host{
+        float: unset ;
+        text-align: center;
+      }
+      .footer-address{
+        float: unset ;
+        padding: 10px 15px ;
+      }
+      .footer-address h4{
+        font-size: 18pt ;
+      }
+      .footer-address p{
+        font-size: 14pt ;
+
+      }
+}
+
+/* Landscape */
+@media  
+  and (min-width: 768px) 
+  and (max-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-pixel-ratio: 1) {
+    .cra-btn{
+      margin-left: 280px;
+    }
+}
+
+/* ----------- iPad Pro ----------- */
+
+/* Portrait */
+@media  
+  and (min-width: 1024px) 
+  and (max-width: 1366px) {
+      .pop-slide-div{
+        height: 800px ;
+        margin-top: 30px ;
+      }
+      .plus{
+        top: 61.5% ;
+        left: 44.3% ;
+        width: 95px ;
+        height: 95px ;
+      }
+      .shift-cra{
+        width: 600px ;
+        top: 45% ;
+        height: 600px ;
+        margin-left: -310px ;
+        margin-top: -130px ;
+        background-size: contain ;
+      }
+        .pop-cra-plus{
+        top: 59.3% ;
+        left: 46.7% ;
+        width: 20px ;
+        height: 20px ;
+        font-size: 82px ;
+        margin-left: unset ;
+      }
+      .pop-cra-text-ontop{
+        margin-left: unset;
+        left: unset;
+        right: 56.5% ;
+        top: 79.8% ;
+        font-size: 80px ;
+      }
+      .cra-btn{
+        left: 82% ;
+        margin-left: unset;
+        top: 67% ;
+        font-size: 10px ;
+      }
+      .cra-div-btn-one{
+        letter-spacing: 3.5px ;
+        font-weight: unset ;
+        left: 4% ;
+        top: 50% ;
+        padding: 30px 78px 30px 35px ;
+        margin-left: unset ;
+        font-size: 16px ;
+      }
+      .cra-div-btn-two{
+        letter-spacing: 3.5px ;
+        font-weight: unset ;
+        padding: 30px 35px 30px 100px ;
+        left: unset ;
+        right: 4% ;
+        top: 75% ;
+        margin-left: unset ;
+        font-size: 16px ;
+      }
+      .footer-li-container{
+        float: unset;
+        padding-left: unset ;
+        width: 100 ;
+      }
+      .footer-li-host{
+        text-align: center ;
+        margin: 15px 235px 15px 235px ;
+        width: 100 ;
+        overflow: hidden ;
+      }
+      .footer-address-host{
+        float: unset ;
+        text-align: center;
+        width: 100% ;
+      }
+      .footer-li{
+        font-size: 40px ;
+        padding: 20px 60px ;
+      }
+      .foot-add-one{
+        float: left ;
+      }
+      .foot-add-two{
+        float: right ;
+      }
+      .footer-address{
+        padding: 10px 0px ;
+      }
+      .footer-address h4{
+        font-size: 25pt ;
+      }
+      .footer-address p{
+        font-size: 20pt ;
+        padding-top: 10px ;
+
+      }
+
+}
+
+
+/* ==========================================================================
+   Mobile styles
+   ========================================================================== */
+/* Landscape phones and down */
+
+@media (min-width: 240px) and (max-width: 320px) { 
+
+  .header-host{
+    padding: 15px 1px ;
+  }
+  .pop-logo{
+    width: 30% ;
+  }
+  .nav-container{
+    width: 50% ;
+  }
+  .pop-nav-line{
+    padding: 8px 2px ;
+    margin-right: 0 ;
+    margin-top: 5px ;
+    margin-bottom: 0 ;
+  }
+  .pop-nav-text{
+    padding: 10px 10px 0px ;
+    height: unset ;
+    font-size: 14px ;
+  }
+  .pop-line{
+        width: 25px ;
+  }
+  .pop-slide-div{
+    height: 520px ;
+    margin-top: 10px ;
+
+  }
+  .shift-cra{
+    width: 260px ;
+    height: 260px ;
+    top: 45% ;
+    margin-left: -130px ;
+    margin-top: -130px ;
+    background-size: contain ;
+  }
+  .plus{
+    top: 42% ;
+    left: 42% ;
+    width: 50px ;
+    height: 50px ;
+  }
+  .pop-cra-plus{
+    top: 39.9% ;
+    left: 45.5% ;
+    width: 20px;
+    height: 20px ;
+    font-size: 45px ;
+    margin-left: unset ;
+  }
+  .pop-cra-text-ontop{
+    margin-left: unset;
+    left: unset;
+    right: 58% ;
+    top: 54% ;
+    font-size: 30px ;
+  }
+  .cra-btn{
+    left: 13.5% ;
+    margin-left: unset;
+    top: 95% ;
+    font-size: 6px ;
+  }
+  .cra-div-btn-one{
+    letter-spacing: 1.5px ;
+    font-weight: unset ;
+    left: 5% ;
+    top: 80% ;
+    padding: 8px 11px 8px 11px ;
+    margin-left: unset ;
+    font-size: 12px ;
+  }
+  .cra-div-btn-two{
+    letter-spacing: 1.5px ;
+    font-weight: unset ;
+    padding: 8px 11px 8px 11px ;
+    left: unset ;
+    right: 5% ;
+    top: 80% ;
+    margin-left: unset ;
+    font-size: 12px ;
+  }
+  .intro{
+    padding-top: 50px;
+    padding-bottom:  50px;
+  }
+  .intro-text-one{
+    font-size: 30pt ;
+  }
+  .intro-text-two{
+    font-size: 12pt ;
+  }
+  .div-three-text-one{
+    font-size: 15em ;
+    margin:unset ;
+  }
+  .div-three-text-two{
+    padding-left: unset ; 
+    line-height: unset ;
+    font-size:30px ;
+  }
+  .div-five{
+    padding: 100px 0 ;
+  }
+  .div-five h1 {
+      font-size: 50pt ;
+      padding-top: 20px ;
+  }
+  .footer{
+    padding: 0 15px ;
+    text-align: center ;
+  }
+  .footer-li-host{
+    text-align: center ;
+    margin-left: 15px;
+  }
+  .footer-li{
+    font-size: 25px ;
+    padding: 20px 20px ;
+  }
+  .footer-address-host{
+    float: unset ;
+    text-align: center;
+  }
+  .footer-address{
+    float: unset ;
+    padding: 10px 15px ;
+  }
+  .footer-li-container{
+    float: unset;
+    width: 100% ;
+  }
+  .hid-div-part-one{
+    width: 80% ;
+  }
+  .hid-div-part-two{
+    width: unset ;
+  }
+  .hid-div-logo{
+    margin-left: 2em ;
+  }
+  .nav-link{
+    margin-top:5em ;
+    margin-left: -10px ;
+  }
+
+}
+@media (min-width: 360px) { 
+
+  .header-host{
+    padding: 15px 1px ;
+  }
+  .pop-logo{
+    width: 30% ;
+  }
+  .nav-container{
+    width: 50% ;
+  }
+  .pop-nav-line{
+    padding: 8px 2px ;
+    margin-right: 0 ;
+    margin-top: 5px ;
+    margin-bottom: 0 ;
+  }
+  .pop-nav-text{
+    padding: 10px 10px 0px ;
+    height: unset ;
+    font-size: 14px ;
+  }
+  .pop-line{
+        width: 25px ;
+  }
+  .pop-slide-div{
+    height: 520px ;
+    margin-top: 10px ;
+
+  }
+  .shift-cra{
+    width: 260px ;
+    height: 260px ;
+    top: 45% ;
+    margin-left: -130px ;
+    margin-top: -130px ;
+    background-size: contain ;
+  }
+  .plus{
+    top: 42% ;
+    left: 42% ;
+    width: 50px ;
+    height: 50px ;
+  }
+  .pop-cra-plus{
+    top: 39.9% ;
+    left: 45.5% ;
+    width: 20px;
+    height: 20px ;
+    font-size: 45px ;
+    margin-left: unset ;
+  }
+  .pop-cra-text-ontop{
+    margin-left: unset;
+    left: unset;
+    right: 58% ;
+    top: 54% ;
+    font-size: 33px ;
+  }
+  .cra-btn{
+    left: 19.5% ;
+    margin-left: unset;
+    top: 95% ;
+    font-size: 6px ;
+  }
+  .cra-div-btn-one{
+    letter-spacing: 1.5px ;
+    font-weight: unset ;
+    left: 5% ;
+    top: 80% ;
+    padding: 10px 15px 10px 15px ;
+    margin-left: unset ;
+    font-size: 12px ;
+  }
+  .cra-div-btn-two{
+    letter-spacing: 1.5px ;
+    font-weight: unset ;
+    padding: 10px 15px 10px 15px ;
+    left: unset ;
+    right: 5% ;
+    top: 80% ;
+    margin-left: unset ;
+    font-size: 12px ;
+  }
+  .intro{
+    padding-top: 50px;
+    padding-bottom:  50px;
+  }
+  .intro-text-one{
+    font-size: 30pt ;
+  }
+  .intro-text-two{
+    font-size: 12pt ;
+  }
+  .div-three-text-one{
+    font-size: 17em ;
+    margin:unset ;
+  }
+  .div-three-text-two{
+    padding-left: unset ; 
+    line-height: unset ;
+    font-size:30px ;
+  }
+  .div-five{
+    padding: 100px 0 ;
+  }
+  .div-five h1 {
+      font-size: 50pt ;
+      padding-top: 20px ;
+  }
+  .footer{
+    padding: 0 15px ;
+    text-align: center ;
+  }
+  .footer-li-host{
+    text-align: center ;
+    margin-left: 11% ;
+    width: 100% ;
+    overflow: hidden;
+  }
+  .footer-li{
+    font-size: 25px ;
+    padding: 20px 20px ;
+  }
+  .footer-address-host{
+    float: unset ;
+    text-align: center;
+  }
+  .footer-address{
+    float: unset ;
+    padding: 10px 15px ;
+  }
+  .footer-li-container{
+    width: 100%;
+  }
+  .hid-div-part-one{
+    width: 80% ;
+  }
+  .hid-div-part-two{
+    width: unset ;
+  }
+  .hid-div-logo{
+    margin-left: 2em ;
+  }
+  .nav-link{
+    margin-top:5em ;
+    margin-left: -10px ;
+  }
+
+}
+
+/* Landscape phone to portrait tablet */
+@media (min-width: 481px){ 
+
+  .header-host{
+    padding: 15px 1px ;
+  }
+  .pop-logo{
+    width: 30% ;
+  }
+  .nav-container{
+    width: 50% ;
+  }
+  .pop-nav-line{
+    padding: 8px 2px ;
+    margin-right: 0 ;
+    margin-top: 5px ;
+    margin-bottom: 0 ;
+
+  }
+  .pop-nav-text{
+    padding: 10px 10px 0px ;
+    height: unset ;
+    font-size: 14px ;
+  }
+  .pop-line{
+        width: 25px ;
+  }
+  .pop-slide-div{
+    height: 520px ;
+    margin-top: 10px ;
+
+  }
+  .shift-cra{
+    width: 260px ;
+    height: 260px ;
+    top: 45% ;
+    margin-left: -130px ;
+    margin-top: -130px ;
+    background-size: contain ;
+  }
+  .plus{
+    top: 42% ;
+    left: 42% ;
+    width: 50px ;
+    height: 50px ;
+  }
+    .pop-cra-plus{
+      top: 39.9% ;
+      left: 45.5% ;
+      width: 20px;
+      height: 20px ;
+      font-size: 45px ;
+      margin-left: unset ;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset;
+      left: unset;
+      right: 58% ;
+      top: 60% ;
+      font-size: 30px ;
+    }
+    .cra-btn{
+      left: 18.9% ;
+      margin-left: unset;
+      top: 95% ;
+      font-size: 6px ;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      left: 5% ;
+      top: 80% ;
+      padding: 5px 10px 5px 10px ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      padding: 5px 10px 5px 10px ;
+      left: unset ;
+      right: 5% ;
+      top: 80% ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset;
+      left: unset;
+      right: 58% ;
+      top: 60% ;
+      font-size: 30px ;
+    }
+    .cra-btn{
+      left: 17% ;
+      margin-left: unset;
+      top: 95% ;
+      font-size: 6px ;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      left: 5% ;
+      top: 80% ;
+      padding: 10px 15px 10px 15px ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px ;
+      font-weight: unset ;
+      padding: 10px 15px 10px 15px ;
+      left: unset ;
+      right: 5% ;
+      top: 80% ;
+      margin-left: unset ;
+      font-size: 12px ;
+    }
+    .intro{
+      padding-top: 50px;
+      padding-bottom:  50px;
+    }
+    .intro-text-one{
+      font-size: 30pt ;
+    }
+    .intro-text-two{
+      font-size: 12pt ;
+    }
+    .div-three-text-one{
+      font-size: 12em ;
+      margin:unset ;
+    }
+    .div-three-text-two{
+      padding-left: unset ; 
+      line-height: unset ;
+      font-size:30px ;
+    }
+    .div-five{
+      padding: 100px 0 ;
+    }
+    .div-five h1 {
+        font-size: 50pt ;
+        padding-top: 20px ;
+    }
+    .footer{
+      padding: 0 15px ;
+      text-align: center ;
+    }
+    .footer-li-host{
+      text-align: center ;
+      margin-left: 35px ;
+      width: 100% 
+    }
+    
+    .footer-li{
+      font-size: 25px ;
+      padding: 20px 20px ;
+    }
+    .footer-address-host{
+      float: unset ;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset ;
+      padding: 10px 15px ;
+    }
+    .footer-li-container{
+      float: unset;
+    }
+    .hid-div-part-one{
+      width: 80% ;
+    }
+    .hid-div-part-two{
+      width: unset ;
+    }
+    .hid-div-logo{
+      margin-left: 2em ;
+    }
+    .nav-link{
+      margin-top:5em ;
+      margin-left: -10px ;
+    }
+
+}
+@media (min-width: 640px) {
+
+}
+
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 991px) {
+   .header-host{
+     padding: 15px 1px ;
+   }
+   .pop-logo{
+     width: 17.5% ;
+   }
+   .nav-container{
+     width: 50% ;
+   }
+   .navbar-header{
+     margin-top: 15px ;
+   }
+   .pop-nav-line{
+     padding: 8px 2px ;
+     margin-right: 0 ;
+     margin-top: 5px ;
+     margin-bottom: 0 ;
+
+   }
+   .pop-nav-text{
+     padding: 10px 10px 0px ;
+     height: unset ;
+     font-size: 19px ;
+   }
+   .pop-line{
+         width: 30px ;
+   }
+   .pop-slide-div{
+     height: 520px ;
+     margin-top: 10px ;
+
+   }
+    .pop-slide-div{
+      height: 660px ;
+      margin-top: 30px ;
+    }
+    .shift-cra{
+      width: 485px ;
+      top: 30% ;
+      height: 485px ;
+      margin-left: -238px ;
+      margin-top: -130px ;
+      background-size: contain ;
+    }
+    .plus{
+      top: 43.5% ;
+      left: 46.8% ;
+      width: 60px ;
+      height: 60px ;
+    }
+    .pop-cra-plus{
+      top: 42.3% ;
+      left: 49% ;
+      width: 20px ;
+      height: 20px ;
+      font-size: 47px ;
+      margin-left: unset ;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset;
+      left: unset;
+      right: 54% ;
+      top: 66% ;
+      font-size: 65px ;
+    }
+    .cra-btn{
+      left: 82.5% ;
+      margin-left: unset;
+      top: 48% ;
+      font-size: 8px ;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 3.5px ;
+      font-weight: unset ;
+      left: 2% ;
+      top: 30% ;
+      padding: 20px 78px 20px 20px ;
+      margin-left: unset ;
+      font-size: 14px ;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 3.5px ;
+      font-weight: unset ;
+      padding: 20px 20px 20px 100px ;
+      left: unset ;
+      right: 2% ;
+      top: 63% ;
+      margin-left: unset ;
+      font-size: 14px ;
+    }
+    .cra-btn li{
+      margin-right: 15px ;
+    }
+    .div-three-text-one {
+        font-size: 25em ;
+        margin: unset ;
+    }
+    .div-three-text-two {
+        padding-left: unset ;
+        line-height: unset ;
+        font-size: 45px ;
+     }
+    .footer{
+      padding: 20px 15px ;
+      text-align: center ;
+    }
+    .footer-li-host{
+      text-align: center ;
+      margin: 10px 20px 10px 120px ;
+      overflow: hidden ;
+      width: 100% ;
+    }
+    .footer-li{
+      font-size: 30px ;
+      padding: 20px 58px ;
+    }
+    .footer-address-host{
+      float: unset ;
+      text-align: center;
+      width: 100% ;
+    }
+    .foot-add-one{
+      padding: 10px 15px ;
+      width: 50% ;
+      float: left ;
+    }
+    .foot-add-two{
+      padding: 10px 15px ;
+      width: 50% ;
+      float: right ;
+
+    }
+    .footer-address h4{
+      font-size: 18pt ;
+    }
+    .footer-address p{
+      font-size: 14pt ;
+
+    }
+
+}
+
+
+
+/* Desktops and laptops ----------- */
+@media (min-width: 992px) and (max-width: 1199px) {
+   .header-host{
+     padding: 15px 1px ;
+   }
+   .pop-logo{
+     width: 17.5% ;
+   }
+   .nav-container{
+     width: 50% ;
+   }
+   .navbar-header{
+     margin-top: 15px ;
+   }
+   .pop-nav-line{
+     padding: 8px 2px ;
+     margin-right: 0 ;
+     margin-top: 5px ;
+     margin-bottom: 0 ;
+
+   }
+   .pop-nav-text{
+     padding: 10px 10px 0px ;
+     height: unset ;
+     font-size: 19px ;
+   }
+   .pop-line{
+         width: 30px ;
+   }
+   .pop-slide-div{
+     height: 520px ;
+     margin-top: 10px ;
+
+   }
+    .pop-slide-div{
+      height: 660px ;
+      margin-top: 30px ;
+    }
+    .shift-cra{
+      width: 485px ;
+      top: 30% ;
+      height: 485px ;
+      margin-left: -238px ;
+      margin-top: -130px ;
+      background-size: contain ;
+    }
+    .plus{
+      top: 43.5% ;
+      left: 46.8% ;
+      width: 60px ;
+      height: 60px ;
+    }
+    .pop-cra-plus{
+      top: 42.3% ;
+      left: 49% ;
+      width: 20px ;
+      height: 20px ;
+      font-size: 47px ;
+      margin-left: unset ;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset;
+      left: unset;
+      right: 54% ;
+      top: 66% ;
+      font-size: 65px ;
+    }
+    .cra-btn{
+      left: 82.5% ;
+      margin-left: unset;
+      top: 48% ;
+      font-size: 8px ;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 3.5px ;
+      font-weight: unset ;
+      left: 2% ;
+      top: 30% ;
+      padding: 20px 78px 20px 20px ;
+      margin-left: unset ;
+      font-size: 14px ;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 3.5px ;
+      font-weight: unset ;
+      padding: 20px 20px 20px 100px ;
+      left: unset ;
+      right: 2% ;
+      top: 63% ;
+      margin-left: unset ;
+      font-size: 14px ;
+    }
+    .cra-btn li{
+      margin-right: 15px ;
+    }
+    .div-three-text-one {
+        font-size: 25em ;
+        margin: unset ;
+    }
+    .div-three-text-two {
+        padding-left: unset ;
+        line-height: unset ;
+        font-size: 45px ;
+     }
+    .footer{
+      padding: 20px 15px ;
+      text-align: center ;
+    }
+    .footer-li-host{
+      text-align: center ;
+      margin: 10px 20px 10px 120px ;
+      overflow: hidden ;
+      width: 100% ;
+    }
+    .footer-li{
+      font-size: 30px ;
+      padding: 20px 58px ;
+    }
+    .footer-address-host{
+      float: unset ;
+      text-align: center;
+      width: 100% ;
+    }
+    .foot-add-one{
+      padding: 10px 15px ;
+      width: 50% ;
+      float: left ;
+    }
+    .foot-add-two{
+      padding: 10px 15px ;
+      width: 50% ;
+      float: right ;
+
+    }
+    .footer-address h4{
+      font-size: 18pt ;
+    }
+    .footer-address p{
+      font-size: 14pt ;
+
+    }
+}
+     
+
+
+/* Large s ----------- */
+@media (min-width: 1200px) and (max-width: 3000px) {
+
+}  

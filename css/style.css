@@ -1,0 +1,3294 @@
+
+@font-face{
+	font-family: 'popfontone';
+	src:
+	local('Muli-Black'),
+	local('Muli-Black'),
+	url('../fonts/Muli-Black.ttf')
+	format('opentype');
+}
+@font-face{
+	font-family: 'popfonttwo';
+
+	src:
+	local('Muli-BlackItalic'),
+	local('Muli-Black-Italic'),
+	url('../fonts/Muli-BlackItalic.ttf')
+	format('opentype');
+}
+@font-face{
+	font-family: 'popfontthree';
+
+	src:
+	local('Muli-Bold'),
+	local('Muli-Bold'),
+	url('../fonts/Muli-Bold.ttf')
+	format('opentype');
+}
+@font-face{
+	font-family: 'popfontfour';
+
+	src:
+	local('Muli-BoldItalic'),
+	local('Muli-Bold-Italic'),
+	url('../fonts/Muli-BoldItalic.ttf')
+	format('opentype');
+}
+@font-face{
+	font-family: 'popfontfive';
+
+	src:
+	local('Muli-ExtraBold'),
+	local('Muli-ExtraBold'),
+	url('../fonts/Muli-ExtraBold.ttf')
+	format('opentype');
+}
+@font-face{
+	font-family: 'popfontsix';
+
+	src:
+	local('Muli-ExtraBoldItalic'),
+	local('Muli-ExtraBoldItalic'),
+	url('../fonts/Muli-ExtraBoldItalic.ttf')
+	format('opentype');
+}@font-face{
+	font-family: 'popfontseven';
+
+	src:
+	local('Muli-ExtraLight'),
+	local('Muli-ExtraLight'),
+	url('../fonts/Muli-ExtraLight.ttf')
+	format('opentype');
+}@font-face{
+	font-family: 'popfonteight';
+
+	src:
+	local('Muli-ExtraLightItalic'),
+	local('Muli-ExtraLightItalic'),
+	url('../fonts/Muli-ExtraLightItalic.ttf')
+	format('opentype');
+}@font-face{
+	font-family: 'popfontnine';
+
+	src:
+	local('Muli-Italic'),
+	local('Muli-Italic'),
+	url('../fonts/Muli-Italic.ttf')
+	format('opentype');
+}
+@font-face{
+	font-family: 'popfontten';
+
+	src:
+	local('Muli-Light'),
+	local('Muli-Light'),
+	url('../fonts/Muli-light.ttf')
+	format('opentype');
+}@font-face{
+	font-family: 'popfonteleven';
+
+	src:
+	local('Muli-Regular'),
+	local('Muli-Regular'),
+	url('../fonts/Muli-Regular.ttf')
+	format('opentype');
+}
+@font-face{
+	font-family: 'popfonttwelve';
+
+	src:
+	local('Muli-SemiBold'),
+	local('Muli-SemiBold'),
+	url('../fonts/Muli-SemiBold.ttf')
+	format('opentype');
+}@font-face{
+	font-family: 'popfontthirteen';
+
+	src:
+	local('Muli-SemiBoldItalic'),
+	local('Muli-SemiBoldItalic'),
+	url('../fonts/Muli-SemiBoldItalic.ttf')
+	format('opentype');
+}
+
+.shift-cra{
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.plus p {
+    margin: 0 0 20px !important;
+    font-weight: 200;
+}
+.intro{
+ 	padding-top: 100px;
+ 	padding-bottom: 100px;
+ 	background-color: #fff;
+ 	width: 100%;
+
+ }
+
+.cra-btn li{
+	float: left;
+	margin-right: 40px;
+}
+.div-three{
+	position:relative; 
+	width:100%; 
+	background-size:cover;
+	margin: 0 !important; 
+	padding: 0 !important;"
+}
+.div-four{
+	 background-image: url(../img/d01-03.png);
+	 background-size: contain;
+	 background-repeat: no-repeat;
+}
+.div-five{
+	background-color: #eee;
+	padding:130px 0 ;
+}
+.div-five h1{
+	font-size: 80pt;
+	margin: 0;
+}
+.div-five h3{
+	font-size: 20pt;
+	margin: 0;
+}
+.div-four h1{
+	line-height: 1.5em;
+	font-weight: bolder;
+	font-size: 35pt;
+}
+a{
+	cursor: pointer;
+	text-decoration: none;
+}
+.navbar-toggle .icon-bar{
+	background-color: #756B6B;
+}
+.navbar-brand{
+	font-family: 'popfontthree', sans-serif;
+	color:#756B6B;
+	cursor: pointer;
+}
+.navbar-toggle{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.navbar-toggle .icon-bar + .icon-bar{
+	margin-top: 8px;
+}
+.navbar-toggle .icon-bar{
+	width: 35px;
+}
+.nav-plus{
+	background-color:transparent;
+	color:#da0209;
+	border-width: 2px;
+	border-style: solid;
+	border-color:#da0209;
+	 border-radius:50%; 
+	 text-align:center;
+	 width: 60px;
+	 position: absolute;
+	 top: 50%;
+	 left: 45%;
+	 font-family: 'popfonteleven', sans-serif; 
+	 height:60px;
+	 cursor: pointer;
+	font-size:40px;
+}
+.nav-link{
+	margin-left: 2.1em;
+	margin-top: 9em;
+}
+.nav-link li{
+	font-family: 'popfontfive', sans-serif; 
+	text-decoration: none;
+	font-size: 40px;
+	color: #c9c6c6;
+	list-style-type: none;
+}
+body{
+	overflow: auto !important;
+}
+
+/* ----------- Mobile Phones ----------- */
+
+/* ----------- iPhone 4 and 4S ----------- */
+
+
+/* Portrait */
+/*@media only screen 
+  and (min-width: 320px) 
+  and (max-width: 480px){
+    .header-host{
+      padding: 15px 1px !important;
+    }
+    .pop-logo{
+      width: 30% !important;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 14px !important;
+    }
+    .pop-line{
+          width: 25px !important;
+    }
+    .pop-slide-div{
+      height: 520px !important;
+      margin-top: 10px !important;
+
+    }
+    .shift-cra{
+      width: 260px !important;
+      height: 260px !important;
+      top: 45% !important;
+      margin-left: -130px !important;
+      margin-top: -130px !important;
+      background-size: contain !important;
+    }
+    .plus{
+      top: 42% !important;
+      left: 42% !important;
+      width: 50px !important;
+      height: 50px !important;
+    }
+    .pop-cra-plus{
+      top: 39.9% !important;
+      left: 45.5% !important;
+      width: 20px;
+      height: 20px !important;
+      font-size: 45px !important;
+      margin-left: unset !important;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset!important;
+      left: unset!important;
+      right: 58% !important;
+      top: 54% !important;
+      font-size: 30px !important;
+    }
+    .cra-btn{
+      left: 13.5% !important;
+      margin-left: unset!important;
+      top: 95% !important;
+      font-size: 6px !important;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      left: 5% !important;
+      top: 80% !important;
+      padding: 5px 10px 5px 10px !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      padding: 5px 10px 5px 10px !important;
+      left: unset !important;
+      right: 5% !important;
+      top: 80% !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .intro{
+      padding-top: 50px!important;
+      padding-bottom:  50px!important;
+    }
+    .intro-text-one{
+      font-size: 30pt !important;
+    }
+    .intro-text-two{
+      font-size: 12pt !important;
+    }
+    .div-three-text-one{
+      font-size: 12em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:30px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+      margin-left: 10px!important;
+    }
+    .footer-li{
+      font-size: 25px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+    }
+    .hid-div-part-one{
+      width: 80% !important;
+    }
+    .hid-div-part-two{
+      width: unset !important;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:5em !important;
+      margin-left: -10px !important;
+    }
+
+}
+@media only screen 
+  and (min-width: 320px) 
+  and (max-width: 568px){
+    .header-host{
+      padding: 15px 1px !important;
+    }
+    .pop-logo{
+      width: 30% !important;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 14px !important;
+    }
+    .pop-line{
+          width: 25px !important;
+    }
+    .pop-slide-div{
+      height: 520px !important;
+      margin-top: 10px !important;
+
+    }
+    .shift-cra{
+      width: 260px !important;
+      height: 260px !important;
+      top: 45% !important;
+      margin-left: -130px !important;
+      margin-top: -130px !important;
+      background-size: contain !important;
+    }
+    .plus{
+      top: 42% !important;
+      left: 42% !important;
+      width: 50px !important;
+      height: 50px !important;
+    }
+      .pop-cra-plus{
+        top: 39.9% !important;
+        left: 45.5% !important;
+        width: 20px;
+        height: 20px !important;
+        font-size: 45px !important;
+        margin-left: unset !important;
+      }
+      .pop-cra-text-ontop{
+        margin-left: unset!important;
+        left: unset!important;
+        right: 58% !important;
+        top: 60% !important;
+        font-size: 30px !important;
+      }
+      .cra-btn{
+        left: 13.5% !important;
+        margin-left: unset!important;
+        top: 95% !important;
+        font-size: 6px !important;
+      }
+      .cra-div-btn-one{
+        letter-spacing: 1.5px !important;
+        font-weight: unset !important;
+        left: 5% !important;
+        top: 80% !important;
+        padding: 5px 10px 5px 10px !important;
+        margin-left: unset !important;
+        font-size: 12px !important;
+      }
+      .cra-div-btn-two{
+        letter-spacing: 1.5px !important;
+        font-weight: unset !important;
+        padding: 5px 10px 5px 10px !important;
+        left: unset !important;
+        right: 5% !important;
+        top: 80% !important;
+        margin-left: unset !important;
+        font-size: 12px !important;
+      }
+      .pop-cra-text-ontop{
+        margin-left: unset!important;
+        left: unset!important;
+        right: 58% !important;
+        top: 60% !important;
+        font-size: 30px !important;
+      }
+      .cra-btn{
+        left: 13.5% !important;
+        margin-left: unset!important;
+        top: 95% !important;
+        font-size: 6px !important;
+      }
+      .cra-div-btn-one{
+        letter-spacing: 1.5px !important;
+        font-weight: unset !important;
+        left: 5% !important;
+        top: 80% !important;
+        padding: 5px 10px 5px 10px !important;
+        margin-left: unset !important;
+        font-size: 12px !important;
+      }
+      .cra-div-btn-two{
+        letter-spacing: 1.5px !important;
+        font-weight: unset !important;
+        padding: 5px 10px 5px 10px !important;
+        left: unset !important;
+        right: 5% !important;
+        top: 80% !important;
+        margin-left: unset !important;
+        font-size: 12px !important;
+      }
+      .intro{
+        padding-top: 50px!important;
+        padding-bottom:  50px!important;
+      }
+      .intro-text-one{
+        font-size: 30pt !important;
+      }
+      .intro-text-two{
+        font-size: 12pt !important;
+      }
+      .div-three-text-one{
+        font-size: 12em !important;
+        margin:unset !important;
+      }
+      .div-three-text-two{
+        padding-left: unset !important; 
+        line-height: unset !important;
+        font-size:30px !important;
+      }
+      .div-five{
+        padding: 100px 0 !important;
+      }
+      .div-five h1 {
+          font-size: 50pt !important;
+          padding-top: 20px !important;
+      }
+      .footer{
+        padding: 0 15px !important;
+        text-align: center !important;
+      }
+      .footer-li-host{
+        text-align: center !important;
+      }
+      .footer-li{
+        font-size: 25px !important;
+        padding: 20px 20px !important;
+      }
+      .footer-address-host{
+        float: unset !important;
+        text-align: center;
+      }
+      .footer-address{
+        float: unset !important;
+        padding: 10px 15px !important;
+      }
+      .footer-li-container{
+        float: unset!important;
+      }
+      .hid-div-part-one{
+        width: 80% !important;
+      }
+      .hid-div-part-two{
+        width: unset !important;
+      }
+      .hid-div-logo{
+        margin-left: 2em !important;
+      }
+      .nav-link{
+        margin-top:5em !important;
+        margin-left: -10px !important;
+      }
+}*/
+/* Landscape */
+/*@media only screen 
+  and (min-width: 320px) 
+  and (max-width: 480px){ 
+    .header-host{
+      padding: 15px 5px !important;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 14px !important;
+    }
+    .pop-line{
+          width: 25px !important;
+    }
+    .pop-slide-div{
+      height: 520px !important;
+      margin-top: 10px !important;
+
+    }
+    .shift-cra{
+      width: 260px !important;
+      height: 260px !important;
+      top: 45% !important;
+      margin-left: -130px !important;
+      margin-top: -130px !important;
+      background-size: contain !important;
+    }
+    .plus{
+      top: 42% !important;
+      left: 42% !important;
+      width: 50px !important;
+      height: 50px !important;
+    }
+   .pop-cra-plus{
+      top: 39.9% !important;
+      left: 45.5% !important;
+      width: 20px;
+      height: 20px !important;
+      font-size: 45px !important;
+      margin-left: unset !important;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset!important;
+      left: unset!important;
+      right: 58% !important;
+      top: 54% !important;
+      font-size: 30px !important;
+    }
+    .cra-btn{
+      left: 13.5% !important;
+      margin-left: unset!important;
+      top: 95% !important;
+      font-size: 6px !important;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      left: 5% !important;
+      top: 80% !important;
+      padding: 5px 10px 5px 10px !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      padding: 5px 10px 5px 10px !important;
+      left: unset !important;
+      right: 5% !important;
+      top: 80% !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .intro{
+      padding-top: 50px!important;
+      padding-bottom:  50px!important;
+    }
+    .intro-text-one{
+      font-size: 30pt !important;
+    }
+    .intro-text-two{
+      font-size: 12pt !important;
+    }
+    .div-three-text-one{
+      font-size: 12em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:30px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+    }
+    .footer-li{
+      font-size: 25px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+    }
+    .hid-div-part-one{
+      width: 80% !important;
+    }
+    .hid-div-part-two{
+      width: unset !important;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:5em !important;
+      margin-left: -10px !important;
+    }
+
+
+}
+*/
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait */
+/*@media only screen 
+  and (min-width: 320px) 
+  and (max-width: 568px){
+    .header-host{
+      padding: 15px 1px !important;
+    }
+    .pop-logo{
+      width: 30% !important;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 14px !important;
+    }
+    .pop-line{
+          width: 25px !important;
+    }
+    .pop-slide-div{
+      height: 520px !important;
+      margin-top: 10px !important;
+
+    }
+    .shift-cra{
+      width: 260px !important;
+      height: 260px !important;
+      top: 45% !important;
+      margin-left: -130px !important;
+      margin-top: -130px !important;
+      background-size: contain !important;
+    }
+    .plus{
+      top: 42% !important;
+      left: 42% !important;
+      width: 50px !important;
+      height: 50px !important;
+    }
+    .pop-cra-plus{
+      top: 39.9% !important;
+      left: 45.5% !important;
+      width: 20px;
+      height: 20px !important;
+      font-size: 45px !important;
+      margin-left: unset !important;
+      }
+    .pop-cra-text-ontop{
+      margin-left: unset!important;
+      left: unset!important;
+      right: 58% !important;
+      top: 54% !important;
+      font-size: 30px !important;
+    }
+    .cra-btn{
+      left: 13.5% !important;
+      margin-left: unset!important;
+      top: 95% !important;
+      font-size: 6px !important;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      left: 5% !important;
+      top: 80% !important;
+      padding: 5px 10px 5px 10px !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      padding: 5px 10px 5px 10px !important;
+      left: unset !important;
+      right: 5% !important;
+      top: 80% !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .intro{
+      padding-top: 50px!important;
+      padding-bottom:  50px!important;
+    }
+    .intro-text-one{
+      font-size: 30pt !important;
+    }
+    .intro-text-two{
+      font-size: 12pt !important;
+    }
+    .div-three-text-one{
+      font-size: 12em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:30px !important;
+    }
+
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+    }
+    .footer-li{
+      font-size: 25px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+    }
+    .hid-div-part-one{
+      width: 80% !important;
+    }
+    .hid-div-part-two{
+      width: unset !important;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:5em !important;
+      margin-left: -10px !important;
+    }
+
+}*/
+
+/* Landscape */
+/*@media only screen 
+  and (min-width: 320px) 
+  and (max-width: 568px) {
+     .header-host{
+      padding: 15px 5px !important;
+    }
+    .pop-logo{
+      width: 25% !important;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 10px 0px !important;
+      margin-right: 0 !important;
+      margin-top: 10px !important;
+      margin-bottom: 0 !important;
+
+    }
+    .pop-nav-text{
+      padding: 18px 10px 0px !important;
+      height: unset !important;
+      font-size: 20px !important;
+    }
+    .pop-line{
+          width: 40px !important;
+    }
+    .pop-slide-div{
+      height: 400px !important;
+      margin-top: 30px !important;
+    }
+    .shift-cra{
+      width: 260px !important;
+      top: 45% !important;
+      height: 260px !important;
+      margin-left: -130px !important;
+      margin-top: -130px !important;
+      background-size: contain !important;
+    }
+    .plus{
+      top: 42% !important;
+      left: 45.5% !important;
+      width: 50px !important;
+      height: 50px !important;
+    }
+    .pop-cra-plus{
+      top: 39% !important;
+      left: 47.5% !important;
+      width: 20px;
+      height: 20px !important;
+      font-size: 45px !important;
+      margin-left: unset !important;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset!important;
+      left: unset!important;
+      right: 58% !important;
+      top: 54% !important;
+      font-size: 35px !important;
+    }
+    .cra-btn{
+      left: 72% !important;
+      margin-left: unset!important;
+      top: 45% !important;
+      font-size: 6px !important;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 3.5px !important;
+      font-weight: unset !important;
+      left: 10% !important;
+      top: 35% !important;
+      padding: 10px 28px 10px 12px !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 3.5px !important;
+      font-weight: unset !important;
+      padding: 10px 12px 10px 55px !important;
+      left: unset !important;
+      right: 10% !important;
+      top: 56% !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .cra-btn li{
+      margin-right: 15px !important;
+    }
+    .intro{
+      padding-top: 0 !important;
+      padding-bottom:  50px!important;
+    }
+    .intro-text-one{
+      font-size: 30pt !important;
+    }
+    .intro-text-two{
+      font-size: 12pt !important;
+    }
+    .div-three-text-one{
+      font-size: 16em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: 5px !important; 
+      line-height: unset !important;
+      font-size:40px !important;
+    }
+    .div-four-txt-h4{
+      font-size: 18px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 20px 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+      margin: 10px 20px 10px 20px !important;
+      overflow: hidden !important;
+    }
+    .footer-li{
+      font-size: 30px !important;
+      padding: 20px 58px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-address h4{
+      font-size: 18pt !important;
+    }
+    .footer-address p{
+      font-size: 14pt !important;
+
+    }
+
+    .footer-li-container{
+      float: unset!important;
+    }
+    .hid-div-part-one{
+      width: 60% !important;
+    }
+    .hid-div-part-two{
+      width: 30% !important;
+    }
+    .nav-plus{
+      left: 50% !important;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:5em !important;
+      margin-left: -10px !important;
+    }
+
+}*/
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait */
+/*@media only screen 
+  and (min-width: 375px) 
+  and (max-width: 667px){ 
+        .header-host{
+          padding: 15px 1px !important;
+        }
+        .pop-logo{
+          width: 30% !important;
+        }
+        .nav-container{
+          width: 50% !important;
+        }
+        .pop-nav-line{
+          padding: 8px 2px !important;
+          margin-right: 0 !important;
+          margin-top: 5px !important;
+          margin-bottom: 0 !important;
+
+        }
+        .pop-nav-text{
+          padding: 12px 12px 0px !important;
+          height: unset !important;
+          font-size: 16px !important;
+        }
+        .pop-line{
+              width: 33px !important;
+        }
+        .pop-slide-div{
+          height: 520px !important;
+          margin-top: 15px !important;
+
+        }
+        .shift-cra{
+          width: 280px !important;
+          height: 280px !important;
+          top: 45% !important;
+          margin-left: -140px !important;
+          margin-top: -140px !important;
+          background-size: contain !important;
+        }
+        .plus{
+          top: 40% !important;
+          left: 42.5% !important;
+          width: 60px !important;
+          height: 60px !important;
+        }
+       .pop-cra-plus{
+      top: 38.9% !important;
+      left: 46.8% !important;
+      width: 20px;
+      height: 20px !important;
+      font-size: 45px !important;
+      margin-left: unset !important;
+    }
+        .pop-cra-text-ontop{
+          margin-left: unset!important;
+          left: unset!important;
+          right: 58% !important;
+          top: 54% !important;
+          font-size: 30px !important;
+        }
+        .cra-btn{
+          left: 19% !important;
+          margin-left: unset!important;
+          top: 95% !important;
+          font-size: 8px !important;
+        }
+        .cra-div-btn-one{
+          letter-spacing: 1.5px !important;
+          font-weight: unset !important;
+          left: 5% !important;
+          top: 80% !important;
+          padding: 8px 13px 8px 13px !important;
+          margin-left: unset !important;
+          font-size: 12px !important;
+        }
+        .cra-div-btn-two{
+          letter-spacing: 1.5px !important;
+          font-weight: unset !important;
+          padding: 8px 13px 8px 13px !important;
+          left: unset !important;
+          right: 5% !important;
+          top: 80% !important;
+          margin-left: unset !important;
+          font-size: 12px !important;
+        }
+        .intro{
+          padding-top: 50px!important;
+          padding-bottom:  50px!important;
+        }
+        .intro-text-one{
+          font-size: 30pt !important;
+        }
+        .intro-text-two{
+          font-size: 12pt !important;
+        }
+        .div-three-text-one{
+          font-size: 12em !important;
+          margin:unset !important;
+        }
+        .div-three-text-two{
+          padding-left: unset !important; 
+          line-height: unset !important;
+          font-size:30px !important;
+        }
+
+        .div-five{
+          padding: 100px 0 !important;
+        }
+        .div-five h1 {
+            font-size: 50pt !important;
+            padding-top: 20px !important;
+        }
+        .footer{
+          padding: 0 15px !important;
+          text-align: center !important;
+        }
+        .footer-li-host{
+          text-align: center !important;
+          margin-left: unset !important;
+        }
+        .footer-li{
+          font-size: 25px !important;
+          padding: 30px 35px !important;
+        }
+        .footer-address-host{
+          float: unset !important;
+          text-align: center;
+        }
+        .footer-address{
+          float: unset !important;
+          margin-bottom: 10px !important
+          padding: 10px 15px !important;
+        }
+        .footer-address p{
+          font-size: 12pt !important;
+        }
+        .footer-li-container{
+          float: unset!important;
+          margin-left: unset !important;
+        }
+        .hid-div-part-one{
+          width: 80% !important;
+        }
+        .hid-div-part-two{
+          width: unset !important;
+        }
+        .hid-div-logo{
+          margin-left: 2em !important;
+        }
+        .nav-link{
+          margin-top:5em !important;
+          margin-left: -10px !important;
+        }
+}*/
+
+/* Landscape */
+/*@media only screen 
+  and (min-width: 375px) 
+  and (max-width: 667px){ 
+        .header-host{
+          padding: 15px 5px !important;
+        }
+        .pop-logo{
+          width: 21% !important;
+        }
+        .nav-container{
+          width: 50% !important;
+        }
+        .pop-nav-line{
+          padding: 10px 0px !important;
+          margin-right: 0 !important;
+          margin-top: 10px !important;
+          margin-bottom: 0 !important;
+
+        }
+        .pop-nav-text{
+          padding: 18px 10px 0px !important;
+          height: unset !important;
+          font-size: 20px !important;
+        }
+        .pop-line{
+              width: 40px !important;
+        }
+        .pop-slide-div{
+          height: 400px !important;
+          margin-top: 30px !important;
+        }
+        .shift-cra{
+          width: 260px !important;
+          top: 45% !important;
+          height: 260px !important;
+          margin-left: -130px !important;
+          margin-top: -130px !important;
+          background-size: contain !important;
+        }
+        .plus{
+          top: 40.2% !important;
+          left: 46.3% !important;
+          width: 50px !important;
+          height: 50px !important;
+        }
+       .pop-cra-plus{
+      top: 37.3% !important;
+      left: 48.1% !important;
+      width: 20px !important;
+      height: 20px !important;
+      font-size: 45px !important;
+      margin-left: unset !important;
+    }
+        .pop-cra-text-ontop{
+          margin-left: unset!important;
+          left: unset!important;
+          right: 54% !important;
+          top: 55.5% !important;
+          font-size: 38px !important;
+        }
+        .cra-btn{
+          left: 72% !important;
+          margin-left: unset!important;
+          top: 45% !important;
+          font-size: 6px !important;
+        }
+        .cra-div-btn-one{
+          letter-spacing: 3.5px !important;
+          font-weight: unset !important;
+          left: 12% !important;
+          top: 35% !important;
+          padding: 13px 55px 13px 15px !important;
+          margin-left: unset !important;
+          font-size: 12px !important;
+        }
+        .cra-div-btn-two{
+          letter-spacing: 3.5px !important;
+          font-weight: unset !important;
+          padding: 13px 15px 13px 78px !important;
+          left: unset !important;
+          right: 12% !important;
+          top: 56% !important;
+          margin-left: unset !important;
+          font-size: 12px !important;
+        }
+        .cra-btn li{
+          margin-right: 15px !important;
+        }
+        .intro{
+          padding-top: 0 !important;
+          padding-bottom:  50px!important;
+        }
+        .intro-text-one{
+          font-size: 30pt !important;
+        }
+        .intro-text-two{
+          font-size: 12pt !important;
+        }
+        .div-three-text-one{
+          font-size: 16em !important;
+          margin:unset !important;
+        }
+        .div-three-text-two{
+          padding-left: 5px !important; 
+          line-height: unset !important;
+          font-size:40px !important;
+        }
+        .div-four-txt-h4{
+          font-size: 18px !important;
+        }
+        .div-five{
+          padding: 100px 0 !important;
+        }
+        .div-five h1 {
+            font-size: 50pt !important;
+            padding-top: 20px !important;
+        }
+        .footer{
+          padding: 20px 15px !important;
+          text-align: center !important;
+        }
+        .footer-li-host{
+          text-align: center !important;
+          margin: 10px 20px 10px 68px !important;
+          overflow: hidden !important;
+        }
+        .footer-li{
+          font-size: 30px !important;
+          padding: 20px 58px !important;
+        }
+        .footer-address-host{
+          float: unset !important;
+          text-align: center;
+        }
+        .footer-address{
+          float: unset !important;
+          padding: 10px 15px !important;
+        }
+        .footer-address h4{
+          font-size: 18pt !important;
+        }
+        .footer-address p{
+          font-size: 14pt !important;
+
+        }
+
+        .footer-li-container{
+          float: unset!important;
+        }
+        .hid-div-part-one{
+          width: 60% !important;
+        }
+        .hid-div-part-two{
+          width: 30% !important;
+        }
+        .nav-plus{
+          left: 50% !important;
+        }
+        .hid-div-logo{
+          margin-left: 2em !important;
+        }
+        .nav-link{
+          margin-top:5em !important;
+          margin-left: -10px !important;
+        }
+
+}*/
+
+/* ----------- Galaxy S5 HTC One ----------- */
+
+/* Portrait */
+/*@media 
+  and (width: 360px) 
+  and (height: 640px) {
+    .header-host{
+      padding: 15px 5px !important;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 14px !important;
+    }
+    .pop-line{
+          width: 25px !important;
+    }
+    .pop-slide-div{
+      height: 520px !important;
+      margin-top: 10px !important;
+
+    }
+    .shift-cra{
+      width: 300px !important;
+      height: 300px !important;
+      margin-left: -149.5px !important;
+      top: 45% !important;
+      margin-top: -130px !important;
+      background-size: contain !important;
+    }
+    .plus{
+      top: 44.4% !important;
+      left: 42.4% !important;
+      width: 55px !important;
+      height: 55px !important;
+    }
+       .pop-cra-plus{
+      top: 43.6% !important;
+      left: 46.8% !important;
+      width: 20px;
+      height: 20px !important;
+      font-size: 40px !important;
+      margin-left: unset !important;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset!important;
+      left: unset!important;
+      right: 54% !important;
+      top: 56.5% !important;
+      font-size: 40px !important;
+    }
+    .cra-btn{
+      left: 18.6% !important;
+      margin-left: unset!important;
+      top: 95% !important;
+      font-size: 6px !important;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      left: 5% !important;
+      top: 85% !important;
+      padding: 10px 15px 10px 15px !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      padding: 10px 15px 10px 15px !important;
+      left: unset !important;
+      right: 5% !important;
+      top: 85% !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .intro{
+      padding-top: 50px!important;
+      padding-bottom:  50px!important;
+    }
+    .intro-text-one{
+      font-size: 30pt !important;
+    }
+    .intro-text-two{
+      font-size: 12pt !important;
+    }
+    .div-three-text-one{
+      font-size: 12em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:30px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+    }
+    .footer-li{
+      font-size: 30px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+      padding-left: 2.5em !important;
+    }
+    .hid-div-part-one{
+      width: 80% !important;
+    }
+    .hid-div-part-two{
+      width: unset !important;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:5em !important;
+      margin-left: -10px !important;
+    }
+
+
+}
+*/
+/* Landscape */
+/*@media only screen 
+  and (width: 640px) 
+  and (height: 360px) {
+    .header-host{
+      padding: 15px 5px !important;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 14px !important;
+    }
+    .pop-line{
+          width: 25px !important;
+    }
+    .pop-slide-div{
+      height: 520px !important;
+      margin-top: 10px !important;
+
+    } 
+    .shift-cra{
+      width: 260px !important;
+      height: 260px !important;
+      top: 45% !important;
+      margin-left: -130px !important;
+      margin-top: -130px !important;
+      background-size: contain !important;
+    }
+    .plus{
+      top: 42% !important;
+      left: 42% !important;
+      width: 50px !important;
+      height: 50px !important;
+    }
+       .pop-cra-plus{
+      top: 44.5% !important;
+      left: 48.2% !important;
+      width: 20px;
+      height: 20px !important;
+      font-size: 43px !important;
+      margin-left: unset !important;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset!important;
+      left: unset!important;
+      right: 58% !important;
+      top: 54% !important;
+      font-size: 30px !important;
+    }
+    .cra-btn{
+      left: 13.5% !important;
+      margin-left: unset!important;
+      top: 95% !important;
+      font-size: 6px !important;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      left: 5% !important;
+      top: 80% !important;
+      padding: 5px 10px 5px 10px !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      padding: 5px 10px 5px 10px !important;
+      left: unset !important;
+      right: 5% !important;
+      top: 80% !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .intro{
+      padding-top: 50px!important;
+      padding-bottom:  50px!important;
+    }
+    .intro-text-one{
+      font-size: 30pt !important;
+    }
+    .intro-text-two{
+      font-size: 12pt !important;
+    }
+    .div-three-text-one{
+      font-size: 12em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:30px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+    }
+    .footer-li{
+      font-size: 25px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+    }
+    .hid-div-part-one{
+      width: 80% !important;
+    }
+    .hid-div-part-two{
+      width: unset !important;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:5em !important;
+      margin-left: -10px !important;
+    }
+
+}*/
+
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait */
+/*@media only screen 
+  and (min-width: 414px) 
+  and (max-width: 736px){ 
+        .header-host{
+          padding: 15px 1px !important;
+        }
+        .pop-logo{
+          width: 30% !important;
+        }
+        .nav-container{
+          width: 50% !important;
+        }
+        .pop-nav-line{
+          padding: 14px 2px 8px 2px !important;
+          margin-right: 0 !important;
+          margin-top: 5px !important;
+          margin-bottom: 0 !important;
+
+        }
+        .pop-nav-text{
+          padding: 16px 12px 0px !important;
+          height: unset !important;
+          font-size: 18px !important;
+        }
+        .pop-line{
+              width: 33px !important;
+        }
+        .pop-slide-div{
+          height: 510px !important;
+          margin-top: 15px !important;
+
+        }
+        .shift-cra{
+          width: 300px !important;
+          height: 300px !important;
+          top: 50% !important;
+          margin-left: -150px !important;
+          margin-top: -150px !important;
+          background-size: contain !important;
+        }
+        .plus{
+          top: 45% !important;
+          left: 42.5% !important;
+          width: 60px !important;
+          height: 60px !important;
+        }
+         .pop-cra-plus{
+        top: 44% !important;
+        left: 46.5% !important;
+        width: 20px;
+        height: 20px !important;
+        font-size: 45px !important;
+        margin-left: unset !important;
+      }
+        .pop-cra-text-ontop{
+          margin-left: unset!important;
+          left: unset!important;
+          right: 58% !important;
+          top: 60% !important;
+          font-size: 38px !important;
+        }
+        .cra-btn{
+          left: 22.2% !important;
+          margin-top: 15px !important;
+          margin-left: unset!important;
+          top: 95% !important;
+          font-size: 8px !important;
+        }
+        .cra-div-btn-one{
+          letter-spacing: 1.5px !important;
+          font-weight: unset !important;
+          left: 5% !important;
+          top: 84% !important;
+          padding: 10px 15px 10px 15px !important;
+          margin-left: unset !important;
+          font-size: 12px !important;
+        }
+        .cra-div-btn-two{
+          letter-spacing: 1.5px !important;
+          font-weight: unset !important;
+          padding: 10px 15px 10px 15px !important;
+          left: unset !important;
+          right: 5% !important;
+          top: 84% !important;
+          margin-left: unset !important;
+          font-size: 12px !important;
+        }
+        .intro{
+          padding-top: 50px!important;
+          padding-bottom:  50px!important;
+        }
+        .intro-text-one{
+          font-size: 30pt !important;
+        }
+        .intro-text-two{
+          font-size: 12pt !important;
+        }
+        .div-three-text-one{
+          font-size: 12em !important;
+          margin:unset !important;
+        }
+        .div-three-text-two{
+          padding-left: unset !important; 
+          line-height: unset !important;
+          font-size:30px !important;
+        }
+
+        .div-five{
+          padding: 100px 0 !important;
+        }
+        .div-five h1 {
+            font-size: 50px !important;
+            padding-top: 20px !important;
+        }
+        .footer{
+          padding: 0 15px !important;
+          text-align: center !important;
+        }
+        .footer-li-host{
+          text-align: center !important;
+          margin-left: 15px !important;
+        }
+        .footer-li{
+          font-size: 25px !important;
+          padding: 30px 35px !important;
+        }
+        .footer-address-host{
+          float: unset !important;
+          text-align: center;
+        }
+        .footer-address{
+          float: unset !important;
+          margin-bottom: 10px !important
+          padding: 10px 15px !important;
+        }
+        .footer-address p{
+          font-size: 12pt !important;
+        }
+        .footer-li-container{
+          float: unset!important;
+          margin-left: unset !important;
+        }
+        .hid-div-part-one{
+          width: 80% !important;
+        }
+        .hid-div-part-two{
+          width: unset !important;
+        }
+        .hid-div-logo{
+          margin-left: 2em !important;
+        }
+        .nav-link{
+          margin-top:5em !important;
+          margin-left: -10px !important;
+        }
+}*/
+
+/* Landscape */
+/*@media only screen 
+  and (min-width: 736px) 
+  and (max-width: 414px) { 
+         .header-host{
+          padding: 15px 5px !important;
+        }
+        .pop-logo{
+          width: 18% !important;
+        }
+        .nav-container{
+          width: 50% !important;
+        }
+        .pop-nav-line{
+          padding: 10px 0px !important;
+          margin-right: 0 !important;
+          margin-top: 10px !important;
+          margin-bottom: 0 !important;
+
+        }
+        .pop-nav-text{
+          padding: 18px 10px 0px !important;
+          height: unset !important;
+          font-size: 20px !important;
+        }
+        .pop-line{
+              width: 40px !important;
+        }
+        .pop-slide-div{
+          height: 400px !important;
+          margin-top: 30px !important;
+        }
+        .shift-cra{
+          width: 310px !important;
+          top: 45% !important;
+          height: 310px !important;
+          margin-left: -155px !important;
+          margin-top: -130px !important;
+          background-size: contain !important;
+        }
+        .plus{
+          top: 45.5% !important;
+          left: 46.5% !important;
+          width: 60px !important;
+          height: 60px !important;
+        }
+        .pop-cra-plus{
+        top: 43.3% !important;
+        left: 48.5% !important;
+        width: 20px !important;
+        height: 20px !important;
+        font-size: 50px !important;
+        margin-left: unset !important;
+      }
+        .pop-cra-text-ontop{
+          margin-left: unset!important;
+          left: unset!important;
+          right: 54% !important;
+          top: 60% !important;
+          font-size: 45px !important;
+        }
+        .cra-btn{
+          left: 72% !important;
+          margin-left: unset!important;
+          top: 45% !important;
+          font-size: 6px !important;
+        }
+        .cra-div-btn-one{
+          letter-spacing: 3.5px !important;
+          font-weight: unset !important;
+          left: 12% !important;
+          top: 35% !important;
+          padding: 16px 55px 16px 15px !important;
+          margin-left: unset !important;
+          font-size: 12px !important;
+        }
+        .cra-div-btn-two{
+          letter-spacing: 3.5px !important;
+          font-weight: unset !important;
+          padding: 16px 15px 16px 78px !important;
+          left: unset !important;
+          right: 8% !important;
+          top: 58% !important;
+          margin-left: unset !important;
+          font-size: 12px !important;
+        }
+        .cra-btn li{
+          margin-right: 15px !important;
+        }
+        .intro{
+          padding-top: 0 !important;
+          padding-bottom:  50px!important;
+        }
+        .intro-text-one{
+          font-size: 30pt !important;
+        }
+        .intro-text-two{
+          font-size: 12pt !important;
+        }
+        .div-three-text-one{
+          font-size: 16em !important;
+          margin:unset !important;
+        }
+        .div-three-text-two{
+          padding-left: 5px !important; 
+          line-height: unset !important;
+          font-size:40px !important;
+        }
+        .div-four-txt-h4{
+          font-size: 18px !important;
+        }
+        .div-five{
+          padding: 100px 0 !important;
+        }
+        .div-five h1 {
+            font-size: 50pt !important;
+            padding-top: 20px !important;
+        }
+        .footer{
+          padding: 20px 15px !important;
+          text-align: center !important;
+        }
+        .footer-li-host{
+          text-align: center !important;
+          margin: 10px 20px 10px 68px !important;
+          overflow: hidden !important;
+        }
+        .footer-li{
+          font-size: 30px !important;
+          padding: 20px 58px !important;
+        }
+        .footer-address-host{
+          float: unset !important;
+          text-align: center;
+        }
+        .footer-address{
+          float: unset !important;
+          padding: 10px 15px !important;
+        }
+        .footer-address h4{
+          font-size: 18pt !important;
+        }
+        .footer-address p{
+          font-size: 14pt !important;
+
+        }
+
+        .footer-li-container{
+          float: unset!important;
+          padding-left: 50px !important;
+        }
+        .hid-div-part-one{
+          width: 60% !important;
+        }
+        .hid-div-part-two{
+          width: 30% !important;
+        }
+        .nav-plus{
+          left: 50% !important;
+        }
+        .hid-div-logo{
+          margin-left: 2em !important;
+        }
+        .nav-link{
+          margin-top:5em !important;
+          margin-left: -10px !important;
+        }
+}*/
+/* ----------- Galaxy S3 ----------- */
+
+/* Portrait */
+/*@media only screen 
+  and (width: 320px) 
+  and (height: 640px){
+    .header-host{
+      padding: 15px 5px !important;
+    }
+    .pop-logo{
+      width: 30% !important;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 14px !important;
+    }
+    .pop-line{
+          width: 25px !important;
+    }
+    .pop-slide-div{
+      height: 520px !important;
+      margin-top: 10px !important;
+    }
+    .shift-cra{
+      width: 260px !important;
+      height: 260px !important;
+      top: 45% !important;
+      margin-left: -130px !important;
+      margin-top: -130px !important;
+      background-size: contain !important;
+    }
+    .plus{
+      top: 42% !important;
+      left: 42% !important;
+      width: 50px !important;
+      height: 50px !important;
+    }
+     .pop-cra-plus{
+    top: 39.9% !important;
+    left: 45.5% !important;
+    width: 20px;
+    height: 20px !important;
+    font-size: 45px !important;
+    margin-left: unset !important;
+  }
+    .pop-cra-text-ontop{
+      margin-left: unset!important;
+      left: unset!important;
+      right: 58% !important;
+      top: 54% !important;
+      font-size: 30px !important;
+    }
+    .cra-btn{
+      left: 13.5% !important;
+      margin-left: unset!important;
+      top: 95% !important;
+      font-size: 6px !important;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      left: 5% !important;
+      top: 80% !important;
+      padding: 5px 10px 5px 10px !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      padding: 5px 10px 5px 10px !important;
+      left: unset !important;
+      right: 5% !important;
+      top: 80% !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .intro{
+      padding-top: 50px!important;
+      padding-bottom:  50px!important;
+    }
+    .intro-text-one{
+      font-size: 30pt !important;
+    }
+    .intro-text-two{
+      font-size: 12pt !important;
+    }
+    .div-three-text-one{
+      font-size: 12em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:30px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+    }
+    .footer-li{
+      font-size: 25px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+    }
+    .hid-div-part-one{
+      width: 80% !important;
+    }
+    .hid-div-part-two{
+      width: unset !important;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:5em !important;
+      margin-left: -10px !important;
+    }
+
+
+}*/
+
+/* Landscape */
+/*@media only screen  
+  and (width: 640px) 
+  and (height: 320px) {
+  	.header-host{
+  	  padding: 15px 5px !important;
+  	}
+  	.pop-logo{
+  	  width: 30% !important;
+  	}
+  	.nav-container{
+  	  width: 50% !important;
+  	}
+  	.pop-nav-line{
+  	  padding: 8px 2px !important;
+  	  margin-right: 0 !important;
+  	  margin-top: 5px !important;
+  	  margin-bottom: 0 !important;
+  	}
+  	.pop-nav-text{
+  	  padding: 10px 10px 0px !important;
+  	  height: unset !important;
+  	  font-size: 14px !important;
+  	}
+  	.pop-line{
+  	      width: 25px !important;
+  	}
+  	.pop-slide-div{
+  	  height: 520px !important;
+  	  margin-top: 10px !important;
+
+  	}
+  	.shift-cra{
+  	  width: 260px !important;
+  	  height: 260px !important;
+  	  margin-left: -130px !important;
+  	  top: 45% !important;
+  	  margin-top: -130px !important;
+  	  background-size: contain !important;
+  	}
+  	.plus{
+  	  top: 42% !important;
+  	  left: 42% !important;
+  	  width: 50px !important;
+  	  height: 50px !important;
+  	}
+  	   .pop-cra-plus{
+  	  top: 39.9% !important;
+  	  left: 45.5% !important;
+  	  width: 20px;
+  	  height: 20px !important;
+  	  font-size: 45px !important;
+  	  margin-left: unset !important;
+  	}
+  	.pop-cra-text-ontop{
+  	  margin-left: unset!important;
+  	  left: unset!important;
+  	  right: 58% !important;
+  	  top: 54% !important;
+  	  font-size: 30px !important;
+  	}
+  	.cra-btn{
+  	  left: 13.5% !important;
+  	  margin-left: unset!important;
+  	  top: 95% !important;
+  	  font-size: 6px !important;
+  	}
+  	.cra-div-btn-one{
+  	  letter-spacing: 1.5px !important;
+  	  font-weight: unset !important;
+  	  left: 5% !important;
+  	  top: 80% !important;
+  	  padding: 5px 10px 5px 10px !important;
+  	  margin-left: unset !important;
+  	  font-size: 12px !important;
+  	}
+  	.cra-div-btn-two{
+  	  letter-spacing: 1.5px !important;
+  	  font-weight: unset !important;
+  	  padding: 5px 10px 5px 10px !important;
+  	  left: unset !important;
+  	  right: 5% !important;
+  	  top: 80% !important;
+  	  margin-left: unset !important;
+  	  font-size: 12px !important;
+  	}
+  	.intro{
+  	  padding-top: 50px!important;
+  	  padding-bottom:  50px!important;
+  	}
+  	.intro-text-one{
+  	  font-size: 30pt !important;
+  	}
+  	.intro-text-two{
+  	  font-size: 12pt !important;
+  	}
+  	.div-three-text-one{
+  	  font-size: 12em !important;
+  	  margin:unset !important;
+  	}
+  	.div-three-text-two{
+  	  padding-left: unset !important; 
+  	  line-height: unset !important;
+  	  font-size:30px !important;
+  	}
+
+  	.div-five{
+  	  padding: 100px 0 !important;
+  	}
+  	.div-five h1 {
+  	    font-size: 50pt !important;
+  	    padding-top: 20px !important;
+  	}
+  	.footer{
+  	  padding: 0 15px !important;
+  	  text-align: center !important;
+  	}
+  	.footer-li-host{
+  	  text-align: center !important;
+  	}
+  	.footer-li{
+  	  font-size: 25px !important;
+  	  padding: 20px 20px !important;
+  	}
+  	.footer-address-host{
+  	  float: unset !important;
+  	  text-align: center;
+  	}
+  	.footer-address{
+  	  float: unset !important;
+  	  padding: 10px 15px !important;
+  	}
+  	.footer-li-container{
+  	  float: unset!important;
+  	}
+  	.hid-div-part-one{
+  	  width: 80% !important;
+  	}
+  	.hid-div-part-two{
+  	  width: unset !important;
+  	}
+  	.hid-div-logo{
+  	  margin-left: 2em !important;
+  	}
+  	.nav-link{
+  	  margin-top:5em !important;
+  	  margin-left: -10px !important;
+  	}
+
+}*/
+
+/* ----------- Galaxy S4 ----------- */
+
+
+/* Portrait */
+
+
+/* Landscape */
+
+
+
+/* ----------- Tablets ----------- */
+/* ----------- iPad mini ----------- */
+
+/* Portrait */
+/*@media only screen 
+  and (min-width: 768px) 
+  and (max-width: 1024px) {
+      .pop-slide-div{
+        height: 660px !important;
+        margin-top: 30px !important;
+      }
+      .shift-cra{
+        width: 400px !important;
+        top: 45% !important;
+        height: 400px !important;
+        margin-left: -205px !important;
+        margin-top: -130px !important;
+        background-size: contain !important;
+      }
+      .plus{
+        top: 51% !important;
+        left: 44.5% !important;
+        width: 80px !important;
+        height: 80px !important;
+      }
+      .pop-cra-plus{
+      top: 49.8% !important;
+      left: 47.4% !important;
+      width: 20px !important;
+      height: 20px !important;
+      font-size: 60px !important;
+      margin-left: unset !important;
+    }
+      .pop-cra-text-ontop{
+        margin-left: unset!important;
+        left: unset!important;
+        right: 54% !important;
+        top: 66% !important;
+        font-size: 65px !important;
+      }
+      .cra-btn{
+        left: 78% !important;
+        margin-left: unset!important;
+        top: 55% !important;
+        font-size: 8px !important;
+      }
+      .cra-div-btn-one{
+        letter-spacing: 3.5px !important;
+        font-weight: unset !important;
+        left: 6% !important;
+        top: 40% !important;
+        padding: 20px 78px 20px 20px !important;
+        margin-left: unset !important;
+        font-size: 14px !important;
+      }
+      .cra-div-btn-two{
+        letter-spacing: 3.5px !important;
+        font-weight: unset !important;
+        padding: 20px 20px 20px 100px !important;
+        left: unset !important;
+        right: 6% !important;
+        top: 67% !important;
+        margin-left: unset !important;
+        font-size: 14px !important;
+      }
+      .cra-btn li{
+        margin-right: 15px !important;
+      }
+      .footer{
+        padding: 20px 15px !important;
+        text-align: center !important;
+      }
+      .footer-li-host{
+        text-align: center !important;
+        margin: 10px 20px 10px 120px !important;
+        overflow: hidden !important;
+        width: 100% !important;
+      }
+      .footer-li{
+        font-size: 30px !important;
+        padding: 20px 58px !important;
+      }
+      .footer-address-host{
+        float: unset !important;
+        text-align: center;
+      }
+      .footer-address{
+        float: unset !important;
+        padding: 10px 15px !important;
+      }
+      .footer-address h4{
+        font-size: 18pt !important;
+      }
+      .footer-address p{
+        font-size: 14pt !important;
+
+      }
+}*/
+
+/* Landscape */
+/*@media only screen 
+  and (min-width: 1024px) 
+  and (max-width: 768px) {
+    .cra-btn{
+      margin-left: 280px!important;
+    }
+}*/
+
+/* ----------- iPad Pro ----------- */
+
+/* Portrait */
+/*@media only screen 
+  and (min-width: 1024px) 
+  and (max-width: 1366px) {
+      .pop-slide-div{
+        height: 800px !important;
+        margin-top: 30px !important;
+      }
+      .plus{
+        top: 61.5% !important;
+        left: 44.3% !important;
+        width: 95px !important;
+        height: 95px !important;
+      }
+      .shift-cra{
+        width: 600px !important;
+        top: 45% !important;
+        height: 600px !important;
+        margin-left: -310px !important;
+        margin-top: -130px !important;
+        background-size: contain !important;
+      }
+        .pop-cra-plus{
+        top: 59.3% !important;
+        left: 46.7% !important;
+        width: 20px !important;
+        height: 20px !important;
+        font-size: 82px !important;
+        margin-left: unset !important;
+      }
+      .pop-cra-text-ontop{
+        margin-left: unset!important;
+        left: unset!important;
+        right: 56.5% !important;
+        top: 79.8% !important;
+        font-size: 80px !important;
+      }
+      .cra-btn{
+        left: 82% !important;
+        margin-left: unset!important;
+        top: 67% !important;
+        font-size: 10px !important;
+      }
+      .cra-div-btn-one{
+        letter-spacing: 3.5px !important;
+        font-weight: unset !important;
+        left: 4% !important;
+        top: 50% !important;
+        padding: 30px 78px 30px 35px !important;
+        margin-left: unset !important;
+        font-size: 16px !important;
+      }
+      .cra-div-btn-two{
+        letter-spacing: 3.5px !important;
+        font-weight: unset !important;
+        padding: 30px 35px 30px 100px !important;
+        left: unset !important;
+        right: 4% !important;
+        top: 75% !important;
+        margin-left: unset !important;
+        font-size: 16px !important;
+      }
+      .footer-li-container{
+        float: unset!important;
+        padding-left: unset !important;
+        width: 100 !important;
+      }
+      .footer-li-host{
+        text-align: center !important;
+        margin: 15px 235px 15px 235px !important;
+        width: 100 !important;
+        overflow: hidden !important;
+      }
+      .footer-address-host{
+        float: unset !important;
+        text-align: center;
+        width: 100% !important;
+      }
+      .footer-li{
+        font-size: 40px !important;
+        padding: 20px 60px !important;
+      }
+      .foot-add-one{
+        float: left !important;
+      }
+      .foot-add-two{
+        float: right !important;
+      }
+      .footer-address{
+        padding: 10px 0px !important;
+      }
+      .footer-address h4{
+        font-size: 25pt !important;
+      }
+      .footer-address p{
+        font-size: 20pt !important;
+        padding-top: 10px !important;
+
+      }
+
+}*/
+
+
+/* ==========================================================================
+   Mobile styles
+   ========================================================================== */
+/* Landscape phones and down */
+
+/*@media only screen (min-width: 240px) and (max-width: 320px) { 
+
+  .header-host{
+    padding: 15px 1px !important;
+  }
+  .pop-logo{
+    width: 30% !important;
+  }
+  .nav-container{
+    width: 50% !important;
+  }
+  .pop-nav-line{
+    padding: 8px 2px !important;
+    margin-right: 0 !important;
+    margin-top: 5px !important;
+    margin-bottom: 0 !important;
+  }
+  .pop-nav-text{
+    padding: 10px 10px 0px !important;
+    height: unset !important;
+    font-size: 14px !important;
+  }
+  .pop-line{
+        width: 25px !important;
+  }
+  .pop-slide-div{
+    height: 520px !important;
+    margin-top: 10px !important;
+
+  }
+  .shift-cra{
+    width: 260px !important;
+    height: 260px !important;
+    top: 45% !important;
+    margin-left: -130px !important;
+    margin-top: -130px !important;
+    background-size: contain !important;
+  }
+  .plus{
+    top: 42% !important;
+    left: 42% !important;
+    width: 50px !important;
+    height: 50px !important;
+  }
+  .pop-cra-plus{
+    top: 39.9% !important;
+    left: 45.5% !important;
+    width: 20px;
+    height: 20px !important;
+    font-size: 45px !important;
+    margin-left: unset !important;
+  }
+  .pop-cra-text-ontop{
+    margin-left: unset!important;
+    left: unset!important;
+    right: 58% !important;
+    top: 54% !important;
+    font-size: 30px !important;
+  }
+  .cra-btn{
+    left: 13.5% !important;
+    margin-left: unset!important;
+    top: 95% !important;
+    font-size: 6px !important;
+  }
+  .cra-div-btn-one{
+    letter-spacing: 1.5px !important;
+    font-weight: unset !important;
+    left: 5% !important;
+    top: 80% !important;
+    padding: 8px 11px 8px 11px !important;
+    margin-left: unset !important;
+    font-size: 12px !important;
+  }
+  .cra-div-btn-two{
+    letter-spacing: 1.5px !important;
+    font-weight: unset !important;
+    padding: 8px 11px 8px 11px !important;
+    left: unset !important;
+    right: 5% !important;
+    top: 80% !important;
+    margin-left: unset !important;
+    font-size: 12px !important;
+  }
+  .intro{
+    padding-top: 50px!important;
+    padding-bottom:  50px!important;
+  }
+  .intro-text-one{
+    font-size: 30pt !important;
+  }
+  .intro-text-two{
+    font-size: 12pt !important;
+  }
+  .div-three-text-one{
+    font-size: 15em !important;
+    margin:unset !important;
+  }
+  .div-three-text-two{
+    padding-left: unset !important; 
+    line-height: unset !important;
+    font-size:30px !important;
+  }
+  .div-five{
+    padding: 100px 0 !important;
+  }
+  .div-five h1 {
+      font-size: 50pt !important;
+      padding-top: 20px !important;
+  }
+  .footer{
+    padding: 0 15px !important;
+    text-align: center !important;
+  }
+  .footer-li-host{
+    text-align: center !important;
+    margin-left: 15px!important;
+  }
+  .footer-li{
+    font-size: 25px !important;
+    padding: 20px 20px !important;
+  }
+  .footer-address-host{
+    float: unset !important;
+    text-align: center;
+  }
+  .footer-address{
+    float: unset !important;
+    padding: 10px 15px !important;
+  }
+  .footer-li-container{
+    float: unset!important;
+    width: 100% !important;
+  }
+  .hid-div-part-one{
+    width: 80% !important;
+  }
+  .hid-div-part-two{
+    width: unset !important;
+  }
+  .hid-div-logo{
+    margin-left: 2em !important;
+  }
+  .nav-link{
+    margin-top:5em !important;
+    margin-left: -10px !important;
+  }
+
+}
+@media only screen (min-width: 321px)  and (max-width: 380px){ 
+
+  .header-host{
+    padding: 15px 1px !important;
+  }
+  .pop-logo{
+    width: 30% !important;
+  }
+  .nav-container{
+    width: 50% !important;
+  }
+  .pop-nav-line{
+    padding: 8px 2px !important;
+    margin-right: 0 !important;
+    margin-top: 5px !important;
+    margin-bottom: 0 !important;
+  }
+  .pop-nav-text{
+    padding: 10px 10px 0px !important;
+    height: unset !important;
+    font-size: 14px !important;
+  }
+  .pop-line{
+        width: 25px !important;
+  }
+  .pop-slide-div{
+    height: 520px !important;
+    margin-top: 10px !important;
+
+  }
+  .shift-cra{
+    width: 260px !important;
+    height: 260px !important;
+    top: 45% !important;
+    margin-left: -130px !important;
+    margin-top: -130px !important;
+    background-size: contain !important;
+  }
+  .plus{
+    top: 42% !important;
+    left: 42% !important;
+    width: 50px !important;
+    height: 50px !important;
+  }
+  .pop-cra-plus{
+    top: 39.9% !important;
+    left: 45.5% !important;
+    width: 20px;
+    height: 20px !important;
+    font-size: 45px !important;
+    margin-left: unset !important;
+  }
+  .pop-cra-text-ontop{
+    margin-left: unset!important;
+    left: unset!important;
+    right: 58% !important;
+    top: 54% !important;
+    font-size: 33px !important;
+  }
+  .cra-btn{
+    left: 19.5% !important;
+    margin-left: unset!important;
+    top: 95% !important;
+    font-size: 6px !important;
+  }
+  .cra-div-btn-one{
+    letter-spacing: 1.5px !important;
+    font-weight: unset !important;
+    left: 5% !important;
+    top: 80% !important;
+    padding: 10px 15px 10px 15px !important;
+    margin-left: unset !important;
+    font-size: 12px !important;
+  }
+  .cra-div-btn-two{
+    letter-spacing: 1.5px !important;
+    font-weight: unset !important;
+    padding: 10px 15px 10px 15px !important;
+    left: unset !important;
+    right: 5% !important;
+    top: 80% !important;
+    margin-left: unset !important;
+    font-size: 12px !important;
+  }
+  .intro{
+    padding-top: 50px!important;
+    padding-bottom:  50px!important;
+  }
+  .intro-text-one{
+    font-size: 30pt !important;
+  }
+  .intro-text-two{
+    font-size: 12pt !important;
+  }
+  .div-three-text-one{
+    font-size: 17em !important;
+    margin:unset !important;
+  }
+  .div-three-text-two{
+    padding-left: unset !important; 
+    line-height: unset !important;
+    font-size:30px !important;
+  }
+  .div-five{
+    padding: 100px 0 !important;
+  }
+  .div-five h1 {
+      font-size: 50pt !important;
+      padding-top: 20px !important;
+  }
+  .footer{
+    padding: 0 15px !important;
+    text-align: center !important;
+  }
+  .footer-li-host{
+    text-align: center !important;
+    margin-left: 11% !important;
+    width: 100% !important;
+    overflow: hidden;
+  }
+  .footer-li{
+    font-size: 25px !important;
+    padding: 20px 20px !important;
+  }
+  .footer-address-host{
+    float: unset !important;
+    text-align: center;
+  }
+  .footer-address{
+    float: unset !important;
+    padding: 10px 15px !important;
+  }
+  .footer-li-container{
+    width: 100%!important;
+  }
+  .hid-div-part-one{
+    width: 80% !important;
+  }
+  .hid-div-part-two{
+    width: unset !important;
+  }
+  .hid-div-logo{
+    margin-left: 2em !important;
+  }
+  .nav-link{
+    margin-top:5em !important;
+    margin-left: -10px !important;
+  }
+
+}*/
+
+/* Landscape phone to portrait tablet */
+/*@media only screen (min-width: 481px) and (max-width: 620px){ 
+
+  .header-host{
+    padding: 15px 1px !important;
+  }
+  .pop-logo{
+    width: 30% !important;
+  }
+  .nav-container{
+    width: 50% !important;
+  }
+  .pop-nav-line{
+    padding: 8px 2px !important;
+    margin-right: 0 !important;
+    margin-top: 5px !important;
+    margin-bottom: 0 !important;
+
+  }
+  .pop-nav-text{
+    padding: 10px 10px 0px !important;
+    height: unset !important;
+    font-size: 14px !important;
+  }
+  .pop-line{
+        width: 25px !important;
+  }
+  .pop-slide-div{
+    height: 520px !important;
+    margin-top: 10px !important;
+
+  }
+  .shift-cra{
+    width: 260px !important;
+    height: 260px !important;
+    top: 45% !important;
+    margin-left: -130px !important;
+    margin-top: -130px !important;
+    background-size: contain !important;
+  }
+  .plus{
+    top: 42% !important;
+    left: 42% !important;
+    width: 50px !important;
+    height: 50px !important;
+  }
+    .pop-cra-plus{
+      top: 39.9% !important;
+      left: 45.5% !important;
+      width: 20px;
+      height: 20px !important;
+      font-size: 45px !important;
+      margin-left: unset !important;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset!important;
+      left: unset!important;
+      right: 58% !important;
+      top: 60% !important;
+      font-size: 30px !important;
+    }
+    .cra-btn{
+      left: 18.9% !important;
+      margin-left: unset!important;
+      top: 95% !important;
+      font-size: 6px !important;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      left: 5% !important;
+      top: 80% !important;
+      padding: 5px 10px 5px 10px !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      padding: 5px 10px 5px 10px !important;
+      left: unset !important;
+      right: 5% !important;
+      top: 80% !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset!important;
+      left: unset!important;
+      right: 58% !important;
+      top: 60% !important;
+      font-size: 30px !important;
+    }
+    .cra-btn{
+      left: 17% !important;
+      margin-left: unset!important;
+      top: 95% !important;
+      font-size: 6px !important;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      left: 5% !important;
+      top: 80% !important;
+      padding: 10px 15px 10px 15px !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      padding: 10px 15px 10px 15px !important;
+      left: unset !important;
+      right: 5% !important;
+      top: 80% !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .intro{
+      padding-top: 50px!important;
+      padding-bottom:  50px!important;
+    }
+    .intro-text-one{
+      font-size: 30pt !important;
+    }
+    .intro-text-two{
+      font-size: 12pt !important;
+    }
+    .div-three-text-one{
+      font-size: 12em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:30px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+      margin-left: 35px !important;
+      width: 100% !important
+    }
+    
+    .footer-li{
+      font-size: 25px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+    }
+    .hid-div-part-one{
+      width: 80% !important;
+    }
+    .hid-div-part-two{
+      width: unset !important;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:5em !important;
+      margin-left: -10px !important;
+    }
+
+}
+@media only screen (min-width: 640px) and (max-width: 740px) {
+
+}
+
+@media only screen (min-width: 768px) and (max-width: 1024px) {
+   .header-host{
+     padding: 15px 1px !important;
+   }
+   .pop-logo{
+     width: 17.5% !important;
+   }
+   .nav-container{
+     width: 50% !important;
+   }
+   .navbar-header{
+     margin-top: 15px !important;
+   }
+   .pop-nav-line{
+     padding: 8px 2px !important;
+     margin-right: 0 !important;
+     margin-top: 5px !important;
+     margin-bottom: 0 !important;
+
+   }
+   .pop-nav-text{
+     padding: 10px 10px 0px !important;
+     height: unset !important;
+     font-size: 19px !important;
+   }
+   .pop-line{
+         width: 30px !important;
+   }
+   .pop-slide-div{
+     height: 520px !important;
+     margin-top: 10px !important;
+
+   }
+    .pop-slide-div{
+      height: 660px !important;
+      margin-top: 30px !important;
+    }
+    .shift-cra{
+      width: 485px !important;
+      top: 30% !important;
+      height: 485px !important;
+      margin-left: -238px !important;
+      margin-top: -130px !important;
+      background-size: contain !important;
+    }
+    .plus{
+      top: 43.5% !important;
+      left: 46.8% !important;
+      width: 60px !important;
+      height: 60px !important;
+    }
+    .pop-cra-plus{
+      top: 42.3% !important;
+      left: 49% !important;
+      width: 20px !important;
+      height: 20px !important;
+      font-size: 47px !important;
+      margin-left: unset !important;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset!important;
+      left: unset!important;
+      right: 54% !important;
+      top: 66% !important;
+      font-size: 65px !important;
+    }
+    .cra-btn{
+      left: 82.5% !important;
+      margin-left: unset!important;
+      top: 48% !important;
+      font-size: 8px !important;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 3.5px !important;
+      font-weight: unset !important;
+      left: 2% !important;
+      top: 30% !important;
+      padding: 20px 78px 20px 20px !important;
+      margin-left: unset !important;
+      font-size: 14px !important;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 3.5px !important;
+      font-weight: unset !important;
+      padding: 20px 20px 20px 100px !important;
+      left: unset !important;
+      right: 2% !important;
+      top: 63% !important;
+      margin-left: unset !important;
+      font-size: 14px !important;
+    }
+    .cra-btn li{
+      margin-right: 15px !important;
+    }
+    .div-three-text-one {
+        font-size: 25em !important;
+        margin: unset !important;
+    }
+    .div-three-text-two {
+        padding-left: unset !important;
+        line-height: unset !important;
+        font-size: 45px !important;
+     }
+    .footer{
+      padding: 20px 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+      margin: 10px 20px 10px 120px !important;
+      overflow: hidden !important;
+      width: 100% !important;
+    }
+    .footer-li{
+      font-size: 30px !important;
+      padding: 20px 58px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+      width: 100% !important;
+    }
+    .foot-add-one{
+      padding: 10px 15px !important;
+      width: 50% !important;
+      float: left !important;
+    }
+    .foot-add-two{
+      padding: 10px 15px !important;
+      width: 50% !important;
+      float: right !important;
+
+    }
+    .footer-address h4{
+      font-size: 18pt !important;
+    }
+    .footer-address p{
+      font-size: 14pt !important;
+
+    }
+
+}*/
+/* Portrait tablet to landscape and desktop */
+
+
+
+
+/* Desktops and laptops ----------- */
+/*@media (min-width: 992px) and (max-width: 1199px) {
+   .header-host{
+     padding: 15px 1px !important;
+   }
+   .pop-logo{
+     width: 17.5% !important;
+   }
+   .nav-container{
+     width: 50% !important;
+   }
+   .navbar-header{
+     margin-top: 15px !important;
+   }
+   .pop-nav-line{
+     padding: 8px 2px !important;
+     margin-right: 0 !important;
+     margin-top: 5px !important;
+     margin-bottom: 0 !important;
+
+   }
+   .pop-nav-text{
+     padding: 10px 10px 0px !important;
+     height: unset !important;
+     font-size: 19px !important;
+   }
+   .pop-line{
+         width: 30px !important;
+   }
+   .pop-slide-div{
+     height: 520px !important;
+     margin-top: 10px !important;
+
+   }
+    .pop-slide-div{
+      height: 660px !important;
+      margin-top: 30px !important;
+    }
+    .shift-cra{
+      width: 485px !important;
+      top: 30% !important;
+      height: 485px !important;
+      margin-left: -238px !important;
+      margin-top: -130px !important;
+      background-size: contain !important;
+    }
+    .plus{
+      top: 43.5% !important;
+      left: 46.8% !important;
+      width: 60px !important;
+      height: 60px !important;
+    }
+    .pop-cra-plus{
+      top: 42.3% !important;
+      left: 49% !important;
+      width: 20px !important;
+      height: 20px !important;
+      font-size: 47px !important;
+      margin-left: unset !important;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset!important;
+      left: unset!important;
+      right: 54% !important;
+      top: 66% !important;
+      font-size: 65px !important;
+    }
+    .cra-btn{
+      left: 82.5% !important;
+      margin-left: unset!important;
+      top: 48% !important;
+      font-size: 8px !important;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 3.5px !important;
+      font-weight: unset !important;
+      left: 2% !important;
+      top: 30% !important;
+      padding: 20px 78px 20px 20px !important;
+      margin-left: unset !important;
+      font-size: 14px !important;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 3.5px !important;
+      font-weight: unset !important;
+      padding: 20px 20px 20px 100px !important;
+      left: unset !important;
+      right: 2% !important;
+      top: 63% !important;
+      margin-left: unset !important;
+      font-size: 14px !important;
+    }
+    .cra-btn li{
+      margin-right: 15px !important;
+    }
+    .div-three-text-one {
+        font-size: 25em !important;
+        margin: unset !important;
+    }
+    .div-three-text-two {
+        padding-left: unset !important;
+        line-height: unset !important;
+        font-size: 45px !important;
+     }
+    .footer{
+      padding: 20px 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+      margin: 10px 20px 10px 120px !important;
+      overflow: hidden !important;
+      width: 100% !important;
+    }
+    .footer-li{
+      font-size: 30px !important;
+      padding: 20px 58px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+      width: 100% !important;
+    }
+    .foot-add-one{
+      padding: 10px 15px !important;
+      width: 50% !important;
+      float: left !important;
+    }
+    .foot-add-two{
+      padding: 10px 15px !important;
+      width: 50% !important;
+      float: right !important;
+
+    }
+    .footer-address h4{
+      font-size: 18pt !important;
+    }
+    .footer-address p{
+      font-size: 14pt !important;
+
+    }
+}
+   */  
+
+
+/* Large screens ----------- */
+/*@media (min-width: 1200px) and (max-width: 3000px) {
+
+}  */
