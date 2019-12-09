@@ -91,7 +91,7 @@ a{
 }​
 
 .pop-nav-text{
-	color: #ffffff !important;
+	color: #ffffff ;
 }
  .pop-line{
 	background-color: #ffffff !important;
@@ -138,7 +138,7 @@ a{
 .divthree-col-7{
 	float: left;
 	overflow: visible;
-	height: 100vh;
+	height: 660px;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -149,7 +149,7 @@ a{
 	background-color: #000;
 	float: right;
 	overflow: visible;
-	height: 100vh;
+	height: 660px;
 	padding-left: 25px;
 
 }
@@ -168,7 +168,7 @@ a{
 
 }
 .divfour{
-	height: 100vh;
+	height: 660px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -177,7 +177,7 @@ a{
 	background-image: url(../img/d04-03.png);
 }
 .divfive{
-	height: 125vh;
+	height: 800px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	overflow: visible;
@@ -194,7 +194,7 @@ a{
 	overflow: hidden;
 	position: relative;
 	margin: 0;
-	height: 100vh;
+	height: 660px;
 	overflow: visible;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -207,7 +207,7 @@ a{
 	position: relative;
 	margin: 0;
 	overflow: visible;
-	height: 100vh;
+	height: 660px;
 	padding-left: 25px;
 
 }
@@ -226,7 +226,7 @@ a{
 
 }
 .divseven{
-	height: 100vh;
+	height: 660px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -263,7 +263,7 @@ a{
 .scrooldivone{
 	background-image: url(../img/d03-01.png);
 	background-size: cover;
-	height: 100vh;
+	height: 660px;
 	position: relative;
 	width: 100%;
 	background-color: #000;
@@ -275,7 +275,7 @@ a{
 .scrooldivtwo{
 	background-image: url(../img/d03-02.png);
 	background-size: cover;
-	height: 100vh;
+	height: 660px;
 	position: relative;
 	width: 100%;
 	background-color: #000;
@@ -287,7 +287,7 @@ a{
 .scrooldivthree{
 	background-image: url(../img/d03-03.png);
 	background-size: cover;
-	height: 100vh;
+	height: 660px;
 	position: relative;
 	width: 100%;
 	background-position: center;
@@ -299,7 +299,7 @@ a{
 .scrooldivfour{
 	background-image: url(../img/d03-04.png);
 	background-size: cover;
-	height: 100vh;
+	height: 660px;
 	position: relative;
 	width: 100%;
 	background-color: #000;
@@ -362,7 +362,7 @@ a{
 .bannernew{
 	background-size: cover;
 	background-color: #fff;
-	height: 120vh;
+	height: 700px;
 	position: relative;
 	width: 100%;
 
@@ -400,7 +400,7 @@ a{
 .empty-cra-divone{
 	background-image: url(../img/d02-01.png);
 	background-size: cover;
-	height: 100vh;
+	height: 600px;
 	position: relative;
 	width: 100%;
 	background-position: center;
@@ -409,7 +409,7 @@ a{
 .empty-cra-divtwo{
 	background-image: url(../img/d05-01.png);
 	background-size: cover;
-	height: 100vh;
+	height: 600px;
 	position: relative;
 	width: 100%;
 	background-position: center;
@@ -418,7 +418,7 @@ a{
 .empty-cra-divthree{
 	background-image: url(../img/d02-01.png);
 	background-size: cover;
-	height: 100vh;
+	height: 600px;
 	position: relative;
 	width: 100%;
 	background-position: center;
@@ -427,7 +427,7 @@ a{
 .empty-cra-divfour{
 	background-image: url(../img/d05-01.png);
 	background-size: cover;
-	height: 100vh;
+	height: 600px;
 	position: relative;
 	width: 100%;
 	background-position: center;
@@ -466,7 +466,7 @@ a{
 
 }
 .sobre-div{
-	height: 110vh;
+	height: 700px;
 	position: relative;
 	width: 100%;
 
@@ -512,7 +512,7 @@ a{
 	background-repeat: no-repeat;
 }
 .under-sobre{
-	height: 150vh;
+	height: 750px;
 	z-index: 100;
 	position: relative;
 }
@@ -585,7 +585,6 @@ a{
     background-origin: content-box;
 	position: relative;
 	width: 100%;
-
 	background-repeat: no-repeat;
 }
 .team-cra-divfour{
@@ -674,7 +673,7 @@ a{
 }
 .solubanner{
 	background-size: cover;
-	height: 118vh;
+	height: 665px;
 	background-position: center;
 	background-origin: content-box;
 	background-image: url(../img/d05-01.png);
@@ -880,7 +879,7 @@ a{
 }
 .interact-banner{
 	background-size: cover;
-	height: 100vh;
+	height: 660px;
 	background-attachment: fixed;
 	background-position: center;
 	background-origin: content-box;
@@ -973,7 +972,7 @@ a{
 }
 .under-quote{
 	background-size: cover;
-	height: 100vh;
+	height: 660px;
 	background-position: center;
 	background-origin: content-box;
 	background-image: url(../img/d07-02.png);

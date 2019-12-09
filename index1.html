@@ -10,11 +10,16 @@
     <!-- Styles -->
     <link rel="stylesheet" href="css/font-awesome.min.css">
 
+
+    <link rel="stylesheet" href="owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" href="owl-carousel/owl.theme.css">
+
     <link rel="stylesheet" href="css/jquery-ui.min.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/newstyle.css">
     <link rel="stylesheet" href="css/popeffects.css" media="all">
+    <link rel="stylesheet" href="css/newpopmedia.css" media="all">
     <link rel="stylesheet" href="css/newpopmedia.css" media="all">
 
  <!--Animation-->
@@ -24,16 +29,19 @@
   <script>
     new WOW().init();
   </script>
+  <script>
+      $('#myCarousel,#demoCarousel').carousel({
+        interval: 3000
+      })
+  </script>
   <script src="js/popscript.js"></script>
   </head>
 
   <body style="margin: 0 !important; padding: 0 !important; width:100% !important;">
-    <!-- Header -->
     <div class="col-sm-12 col-md-12 col-xl-12 col-xs-12" style="padding: 15px 30px; margin: 0 0 0; position: fixed; z-index:200000; background-color:#ffffff;">
       <div class="header col-sm-12 col-md-12 col-xl-12 col-xs-12 wow fadeInUp animated"  data-wow-delay=".4s">
-          <!-- Logo -->
-         <a href="index.html"><img src="img/00-logo.png" class="pop-logo"></a>   
-        <!-- End Logo -->
+         <a href="index.html"><img src="img/00-logo.png" class="pop-logo"  ></a>   
+        
         <div style="float:right; visibility: visible;" class="wow fadeInRight animated"  data-wow-delay=".8s" class="nav-container">
           <div class="navbar-header" onclick="$('#hidden-nav').fadeIn(900);">
             <button type="button" style="display: unset !important; color:#aaa;" class="navbar-toggle collapsed pop-nav-line" aria-expanded="false">
@@ -46,20 +54,17 @@
       </div>
       <div class="clearfix"></div>
     </div>
-    <!-- End Header -->
 
-    <!-- Navigation Bar -->
     <div id="hidden-nav" class="navBar" style="position:fixed; top:0; left:0; bottom:0; right:0; background: rgba(255,255,255,0.5); z-index:1000000; display: none;">
       <div class="hid-div-part-one" style="width:50%; height:100%; float:left; background-color:#ffffff; z-index:2000000; overflow:auto;">
         <img src="img/00-logo.png" class="hid-div-logo" style="margin-left:5em; margin-top:30px;" >
         <ul class="nav-link">
-        <a href=""></a>
-          <li style="cursor:pointer !important;"><a href="index.html">Home</a></li>
-          <li style="cursor:pointer !important;"><a href="index4.html">About</a></li>
-          <li style="cursor:pointer !important;"><a href="index3.html">Portifolio</a></li>
-          <li style="cursor:pointer !important;"><a href="index6.html">Services</a></li>
-          <li style="cursor:pointer !important;"><a href="index7.html">Insight</a></li>
-          <li style="cursor:pointer !important;"><a href="contacto.html">Contact</a></li>
+          <li style="cursor:pointer !important;">Home</li>
+          <li style="cursor:pointer !important;">Sobre</li>
+          <li style="cursor:pointer !important;">Portifolio</li>
+          <li style="cursor:pointer !important;">Servicos</li>
+          <li style="cursor:pointer !important;">Insight</li>
+          <li style="cursor:pointer !important;">Contato</li>
 
         </ul>
       </div>
@@ -67,10 +72,7 @@
         <p id="close-hid-nav" class="nav-plus " onclick="$('#hidden-nav').fadeOut(1100);">&times;</p>     
       </div>
     </div>
-    <!--End Navigation Bar -->
-
-    <!-- Slider-->
-    <section>
+    <div>
       <div class="col-sm-12 col-md-12 col-xl-12 col-xs-12 padded-cra" style="position:relative;padding:2.5% 0;margin-top:5%;">
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators pop-slide-btns" >
@@ -81,30 +83,26 @@
           </ol>
           
           <div class="carousel-inner" role="listbox">
-            <!-- Slider Button 1 -->
-            <a href="index3.html" class="btn prop-index-cra-btn-one wow animated fadeInLeft" data-wow-delay=".7s" style="font-family: 'popfonttwelve', sans-serif;">AGENCY</a>
-            <!-- Slider Button 2 -->
-            <a href="index2.html" class="btn prop-index-cra-btn-two wow animated fadeInRight" data-wow-delay=".7s" style="font-family: 'popfonttwelve',sans-serif;">PROJECTS</a>
-            <!-- Slider Text -->
+            <a href="#" class="btn prop-index-cra-btn-one wow animated fadeInLeft" data-wow-delay=".7s" style="font-family: 'popfonttwelve', sans-serif;">AGENCIA</a>
+            <a href="#" class="btn prop-index-cra-btn-two wow animated fadeInRight" data-wow-delay=".7s" style="font-family: 'popfonttwelve',sans-serif;">PROJETOS</a>
             <h1 style="font-family: 'popfontfive', sans-serif; " class="pop-cra-text-ontop wow animated fadeInDown" data-wow-delay=".6s"><strong>Beoplay</strong></h1>
-            <!-- Slider Image link -->
             <a href="#"><img class="prop-index-cra-plus" src="img/plusico.png"></a>
-            <!-- Slider Item 1 -->
             <div class="item active prop-index-item">
               <div class="prop-cra-divone">
               </div>
             </div>
-            <!-- Slider Item 2 -->
+
             <div class="item prop-index-item">
               <div class="prop-cra-divtwo">
               </div>
+              
             </div>
-            <!-- Slider Item 3 -->
+          
             <div class="item prop-index-item">
               <div class="prop-cra-divthree">
               </div>
             </div>
-            <!-- Slider Item 4 -->
+
             <div class="item prop-index-item">
               <div class="prop-cra-divfour">
               </div>
@@ -112,50 +110,57 @@
           </div>
         </div>
       </div>
-    </section>
-    <!-- End Slider -->
+    </div>
+    
+    
+    <!-- <div style="position: relative; height:660px; margin-top: 50px;" class=" pop-slide-div" >
+      <div>
+        <div class="shift-cra wow animated fadeIn" data-wow-delay=".8s" style="width: 550px; height: 550px; position: absolute; top: 50%; left: 50%; margin-left: -250px; margin-top: -250px; border-radius: 50%; z-index: 1000; background: url(img/d01-01.png); background-size:cover;">
+          
+        </div>
+        <span class="text-center plus wow animated fadeIn" data-wow-delay=".8s" style="position:absolute; top: 50%;left: 49%;width: 70px; height: 70px;background-color: #c10202;border-radius: 50%;z-index: 10000;font-size: 50px;  cursor:pointer;" >
+        </span>
+        <p style="position:absolute; top: 50%;left: 49.1%;width: 40px; height: 40px;border-radius: 50%;z-index: 100000;font-size: 45px; color: #e1d3d3; margin-left:20px; cursor:pointer;" class="pop-cra-plus wow animated fadeInUp" data-wow-delay=".9s">+</p>
+        <h1 style="position: absolute; left: 50%; margin-left: -340px; top: 70%; color:#333030; z-index:5000; font-size:80px; font-family: 'popfontfive', sans-serif; " class="pop-cra-text-ontop wow animated fadeInDown" data-wow-delay=".8s"><strong>Beoplay</strong></h1>
+        <ul class="cra-btn wow animated fadeInRight" data-wow-delay=".8s" style="position: absolute; left: 50%; margin-left: 350px; top: 55%; color:#645d5d; list-style-type:none; font-size:8px; ">
+          <li style="cursor:pointer;"><i class="fa fa-circle" aria-hidden="true"></i></li>
+          <li style="cursor:pointer;"><i class="fa fa-circle" aria-hidden="true"></i></li>
+          <li style="cursor:pointer;"><i class="fa fa-circle" aria-hidden="true"></i></li>
+          <li style="cursor:pointer;"><i class="fa fa-circle" aria-hidden="true"></i></li>
+        </ul>
 
-    <!-- Intro text section -->
+        <button  class="btn cra-div-btn-one wow animated fadeInLeft" data-wow-delay=".8s" style="position: absolute; left: 50%; margin-left: -400px; top: 40%; padding: 20px 100px 20px 30px;  background-color:#c10202; border-style: none!important;font-family: 'popfonttwelve', sans-serif; letter-spacing: 3px; font-weight: 500; color:#ffffff;">AGENCIA</button>
+        <button class="btn cra-div-btn-two wow animated fadeInRight" data-wow-delay=".8s" style="position: absolute; left: 50%; margin-left: 240px; top: 70%; padding: 20px 30px 20px 120px; background-color:#333030; color:#ffffff; border-style: none!important; font-family: 'popfonttwelve', sans-serif;  letter-spacing: 3px;">PROJETOS</button>  
+      </div>
+      <div class="clearfix"></div>
+    </div> -->
+
     <div class="text-center intro" style="background: #ffffff;" >
       <div class="index-intro col-sm-12 col-md-12 wow animated fadeInUp" data-wow-delay=".8s" >
-        <h4 style="font-family: 'popfontten', sans-serif ; font-size:35pt;" class="intro-text-one">Great experiences<br>create <span style="font-family: 'popfontthree', sans-serif;">big brands</span></h4>
-        <h4 style="margin-top:40px; letter-spacing: 3px; font-size:10pt; font-family: 'popfontthree', sans-serif; color:#c10202;" class="intro-text-two">
-          <b>GET TO KNOW THE AGENCY</b>
-        </h4> 
+        <h4 style="font-family: 'popfontten', sans-serif ; font-size:35pt;" class="intro-text-one">Grandes experiancias<br>criam <span style="font-family: 'popfontthree', sans-serif;">grandes marcas</span></h4>
+        <h4 style="margin-top:40px; letter-spacing: 3px; font-size:10pt; font-family: 'popfontthree', sans-serif; color:#c10202;" class="intro-text-two"><b>CONHEÇA A AGÊNCIA</b></h4> 
       </div>
       <div class="clearfix"></div>
     </div>
-    <!--End Intro text section -->
-
-    <!--Years of Experience-->
     <div class="div-three text-center  col-sm-12 col-md-12" style="background: url('img/d01-02.png') no-repeat; background-size: cover;  background-origin:content-box;background-color: #000;opacity: 0.9;">
       <p style="vertical-align: top; color: #fff; font-family: 'popfontthree', sans-serif; font-size:30em;" class="wow animated fadeInUp div-three-text-one" data-wow-delay=".9s">15<sup style="top: -.75em; font-size: 50%;" >+</sup></p>
-      <p style="position: absolute; top: 50%; width: 100%; text-align: center; color: #c10202; z-index: 10000;font-size: 50px;padding-left:55px; line-height: 50px; font-family: 'popfontthree', sans-serif;" class="wow animated fadeInRight div-three-text-two" data-wow-delay=".9s" >Years of Experience</p>
+      <p style="position: absolute; top: 50%; width: 100%; text-align: center; color: #c10202; z-index: 10000;font-size: 50px;padding-left:55px; line-height: 50px; font-family: 'popfontthree', sans-serif;" class="wow animated fadeInRight div-three-text-two" data-wow-delay=".9s" >anos de experiência</p>
     </div>
-    <!--End years of Experience-->
-
-    <!--Services-->
     <div class="div-four col-sm-12 col-md-12" style="background-image: url('img/d01-03.png'); background-size: 70%; background-color: #da0209; background-position: center; position:relative!important;">
       <div style="margin-left:10%; padding:4.5% 1%;">
-        <h4 class="div-four-txt-h4 wow animated fadeIn" data-wow-delay=".8s" style="font-family: 'popfontthree', sans-serif; font-size:13px; letter-spacing:2.5px; font-weight:bold; margin-bottom:2.5em; color: #2A1515; ">SERVICES</h4>
+        <h4 class="div-four-txt-h4 wow animated fadeIn" data-wow-delay=".8s" style="font-family: 'popfontthree', sans-serif; font-size:13px; letter-spacing:2.5px; font-weight:bold; margin-bottom:2.5em; color: #2A1515; ">SERVICOS</h4>
         <h1 class="wow animated fadeInDown div-four-link" data-wow-delay=".8s" style="font-family: 'popfontfive', sans-serif;color: #2A1515; cursor:pointer;">Branding</h1>
         <h1 class="wow animated fadeInDown div-four-link" data-wow-delay="1s" style="font-family: 'popfontfive', sans-serif; color: #2A1515; cursor:pointer;">Digital</h1>
-        <h1 class="wow animated fadeInDown div-four-link" data-wow-delay="1.2s" style="font-family: 'popfontfive', sans-serif; color: #2A1515; cursor:pointer; ">Strategy</h1>
+        <h1 class="wow animated fadeInDown div-four-link" data-wow-delay="1.2s" style="font-family: 'popfontfive', sans-serif; color: #2A1515; cursor:pointer; ">Estrategia</h1>
         <span class="wow animated fadeInUp div-four-icon" data-wow-delay="1.5s" style=" background-color:#2A1515;color:#da0209; border-radius:50%; width:70px; height:70px;line-height:60px; text-align:center;     padding-top: 2px; display:inline-block; font-size:50px; margin-top:1em; cursor:pointer;">+</span>
 
       </div>
     </div>
-    <!--End Services-->
-
     <div class="fale-div text-center col-sm-12 col-md-12 col-xl-12 col-xs-12">
-      <h4 style="font-family: 'popfontthree', sans-serif;">Do you have a project?</h4>
-      <h1 style="font-family: 'popfontthree', sans-serif;">contact us</h1>
+      <h4 style="font-family: 'popfontthree', sans-serif;">Tem um projeto?</h4>
+      <h1 style="font-family: 'popfontthree', sans-serif;">fale conosco</h1>
     </div>
-
-    <!--Footer-->
     <div class="divfoot col-sm-12 col-md-12 col-xl-12 col-xs-12 wow animated fadeInUp" data-wow-delay=".7s" style="padding-top:6em; background-color:#ffffff;">
-
-     <!--Social links-->
       <div class="divfoot-part-one col-sm-6 col-md-6 col-xl-6 col-xs-12" >
         <ul style="color:#999; list-style-type:none; ">
           <li style=" float: left; font-size:25px ;"><a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
@@ -163,9 +168,6 @@
           <li style=" float: left; font-size:25px;"><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         </ul>
       </div>
-      <!--End Social links-->
-
-      <!--Address-->
       <div class="divfoot-part-two col-sm-6 col-md-6 col-xl-6 col-xs-12">
         <div  style="width:50%; float:left;" class="bau-cont">
           <h4 style="font-family: 'popfontthree', sans-serif; font-weight: 500; font-size:15px; letter-spacing: 3px; ">BAURU</h4>
@@ -177,11 +179,11 @@
           
         </div>
       </div>
-      <!--End Address-->
     </div>
-    <!--End Footer-->
+
 
     <script src="js/jquery.min.js"></script>
+
     <script src="js/bootstrap.min.js"></script>
     <script type="js/owl.carousel.min.js"></script>
     <script src="js/npm.js"></script>
