@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**Vertical Screen**/
 @media (min-width: 991px){
 
@@ -6387,4 +6388,6395 @@
 	.under-quote {
 	height: 600px;
 	}
+=======
+/**Vertical Screen**/
+@media (min-width: 991px){
+
+}
+@media (min-width: 800px) and (min-height: 1280px){
+	.pop-cra-text-ontop{
+		top: 65% ;
+		left: 15%;
+		font-size: 65px;
+	}
+	.prop-index-item{
+		width: 60%;
+		margin-left: 20%;
+	}
+	.prop-index-cra-btn-two{
+		right: 7%;
+	}
+	.prop-index-cra-btn-one{
+		left: 7%;
+	}
+	.prop-index-cra-plus{
+		width: 60px;
+		height: 60px;
+		top: 45%;
+		left: 46.3%;
+	}
+	.index-intro{
+		padding-top: 60px;
+	}
+	.pop-slide-btns .active {
+	    width: 8px;
+	    margin: 0 20px;
+	    text-align: center;
+	    align-items: center;
+	    height: 8px;
+	}
+	.pop-slide-btns li{
+		height: 5px;
+		width: 5px;
+		margin: 0 13px;
+	}
+	.pop-slide-btns{
+		right: 3;
+	}	
+	.prop-cra-divone{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divtwo{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divthree{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divfour{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.under-quote {
+		height: 30vh !important;
+	}
+	.s-btns {
+	    top: 15%;
+	    position: sticky;
+	    margin: 0 0 0 -20% !important;
+	}
+	
+	.inside-interact h1 {
+		margin-top:20rem !important; 
+	}
+	.interact-banner {
+	    height: 45vh;
+	}
+	.second-under-brand-content h2 {
+		font-size: 25pt !important;
+	}
+	.inside-belowsecond-soluban {
+		margin: -20% 5% 0 5% !important;
+		width: 100%;
+	}
+	.under-brand-content h2 {
+		font-size: 25pt !important;
+	}
+	.belowsecond-solubanner h1 {
+		font-size: 120pt !important;
+	}
+	.below-solubanner {
+		height: 500px !important;
+	}
+	.inside-below-soluban {
+		top: 14% !important;
+		margin: 0 5% 0 5% !important;
+	}
+
+	.below-solubanner h1 {
+		font-size: 135pt !important;
+	}
+	.solubanner {
+		height: 50vh !important;
+	}
+	.teamcrabtns {
+	    top: 9% !important;
+	    right: 10% !important;
+	}
+	
+	.team-job {
+	    top: 62%;
+	    left: 10%;
+	}
+	.team-cont {
+	    top: 30% !important;
+	    left: 10% !important;
+	}
+	.team-name {
+	    font-size: 50pt !important;
+	}
+	.under-sobre-txt {
+	    margin-top: 25%;
+	}
+	.client-logo {
+	    padding: 45px 0 !important;
+	}
+	.team-cra-divone{
+		height: 600px !important;
+	}
+	.team-cra-divtwo{
+		height: 600px !important;
+	}
+	.team-cra-divthree{
+		height: 600px !important;
+	}
+	.team-cra-divfour{
+		height: 600px !important;
+	}
+	.team-cra-divfive{
+		height: 600px !important;
+	}
+	.team-cra-divsix{
+		height: 600px !important;
+	}
+	.under-sobre {
+	    height: 45vh !important;
+	}
+	.sobre-div {
+	    height: 45vh !important;
+	}
+	.sobre-div-img-two {
+		height: 350px;
+		right: 5%;
+		bottom: -30%;
+		width: 44%;
+	}
+	.sobre-div-img-one{
+		height: 350px;
+		left: 5%;
+		bottom: -15% ;
+		width: 44%;
+		z-index: 20000;
+	}
+	
+	.empty-crabtns{
+		left: 37.5% !important;
+	}
+	.empty-cra-divone{
+		height: 35vh !important;
+		background-position: center;
+	}
+	.empty-cra-divtwo{
+		height: 35vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divthree{
+		height: 35vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divfour{
+		height: 35vh !important;
+	}
+	.bannernew {
+		height: 45vh;
+	}
+	.pop-client-p-cont{
+		top: 50% !important;
+		left: 10% !important;
+
+	}
+	.pop-client-h {
+		font-size: 55px !important;
+		left: 10% !important;
+	}
+	.scrooldivone {
+		height: 68vh !important;
+	}
+	.scrooldivtwo {
+		height: 68vh !important;
+	}
+	.scrooldivthree {
+		height: 68vh !important;
+	}
+	.scrooldivfour {
+		height: 68vh !important;
+	}
+	.form-group input, textarea{
+		width: 100% !important;
+	}
+	.contact-header{
+		font-size: 10rem !important;
+		margin-top: 8rem !important;
+		margin-bottom: 12rem !important; 
+	}
+	/*.divfoot-part-two{
+		text-align: center !important;
+		margin-top: 5%;
+	}
+	.divfoot-part-one{
+		padding-left: 9em !important;
+	}*/
+	form{
+		margin: 25% 5% 25% 5% !important;
+	}
+	.form-host{
+		width: 100%;
+	}
+	.form-group label{
+		margin-top: 5rem !important;
+	}
+	.enviar-btn{
+		margin-top: 7.5rem;
+	}
+	.pop-nav-line{
+		margin-right: unset;
+	}
+	.nav-link {
+	    margin-top: 30em;
+	}
+	.nav-link li{
+		font-size: 50px !important;
+	}
+	.divfoot{
+		padding-bottom: 10rem !important;
+		padding-top: 10rem !important;
+		margin-top: 5% !important;
+	}
+}
+@media (min-width: 980px) and (min-height: 1280px){
+	.teamcrabtns {
+	    top: 9% !important;
+	    right: 10% !important;
+	}
+	
+	.team-job {
+	    top: 62%;
+	    left: 10%;
+	}
+	.team-cont {
+	    top: 30% !important;
+	    left: 10% !important;
+	}
+	.team-name {
+	    font-size: 50pt !important;
+	}
+	.under-sobre-txt {
+	    margin-top: 25%;
+	}
+	.client-logo {
+	    padding: 45px 0 !important;
+	}
+	.team-cra-divone{
+		height: 600px !important;
+	}
+	.team-cra-divtwo{
+		height: 600px !important;
+	}
+	.team-cra-divthree{
+		height: 600px !important;
+	}
+	.team-cra-divfour{
+		height: 600px !important;
+	}
+	.team-cra-divfive{
+		height: 600px !important;
+	}
+	.team-cra-divsix{
+		height: 600px !important;
+	}
+	.under-sobre {
+	    height: 45vh !important;
+	}
+	.sobre-div {
+	    height: 45vh !important;
+	}
+	.sobre-div-img-two {
+		height: 350px;
+		right: 5%;
+		bottom: -30%;
+		width: 44%;
+	}
+	.sobre-div-img-one{
+		height: 350px;
+		left: 5%;
+		bottom: -15% ;
+		width: 44%;
+		z-index: 20000;
+	}
+	
+	.empty-crabtns{
+		left: 43% !important;
+	}
+	.empty-cra-divone{
+		height: 35vh !important;
+		background-position: center;
+	}
+	.empty-cra-divtwo{
+		height: 35vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divthree{
+		height: 35vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divfour{
+		height: 35vh !important;
+	}
+	.bannernew {
+		height: 45vh;
+	}
+	.pop-client-p-cont{
+		top: 50% !important;
+		left: 10% !important;
+
+	}
+	.pop-client-h {
+		font-size: 55px !important;
+		left: 10% !important;
+	}
+	.form-group input, textarea{
+		width: 80% !important;
+	}
+	.contact-header{
+		font-size: 10rem !important;
+		margin-top: 8rem !important;
+		margin-bottom: 12rem !important; 
+	}
+	.divfoot-part-two{
+		text-align: center !important;
+		margin-top: 5%;
+	}
+	.divfoot-part-one{
+		padding-left: 9em !important;
+	}
+	form{
+		margin: 25% 5% 25% 5% !important;
+	}
+	.form-host{
+		width: 100%;
+	}
+	.form-group label{
+		margin-top: 5rem !important;
+	}
+	.enviar-btn{
+		margin-top: 7.5rem;
+	}
+	.pop-nav-line{
+		margin-right: unset;
+	}
+	.nav-link {
+	    margin-top: 30em;
+	}
+	.nav-link li{
+		font-size: 50px !important;
+	}
+	.divfoot{
+		padding-bottom: 10rem !important;
+		padding-top: 10rem !important;
+		margin-top: 5%;
+	}
+}
+@media (min-width: 1280px) and (max-height: 600px){
+	.sobre-div {
+	    height: 120vh;
+	}
+	.pop-beat-dre-icon {
+	    left: 5.5% !important;
+	}
+	.pop-beat-dre-p{
+		left: 5% !important;
+	}
+	.pop-beat-dre-txt{
+		left: 5% !important;
+	}
+	.divcrabtns {
+	    bottom: 10% !important;
+	    right: 5% !important;
+	}
+	.form-group input, textarea{
+		width: 100% !important;
+	}
+	.divfoot-part-one ul {
+	    padding: 0 5%;
+	}
+	.divfoot-part-two {
+	    text-align: left !important;
+	    margin-top: unset !important;
+	}
+	.contact-header {
+	    font-size: 10rem !important;
+	}
+	form {
+	    margin: 10% 10% 10% 10% !important;
+	}
+}
+@media (min-width: 768px) and (max-width: 796px) {
+	.pop-cra-text-ontop{
+		top: 65% ;
+		left: 15%;
+		font-size: 65px;
+	}
+	.prop-index-item{
+		width: 60%;
+		margin-left: 20%;
+	}
+	.prop-index-cra-btn-two{
+		right: 7%;
+		padding: 16px 20px 16px 90px;
+	}
+	.prop-index-cra-btn-one{
+		left: 7%;
+		padding: 16px 70px 16px 20px;
+	}
+	.prop-index-cra-plus{
+		width: 60px;
+		height: 60px;
+		top: 45%;
+		left: 46.3%;
+	}
+	.index-intro{
+		padding-top: 60px;
+	}
+	.pop-slide-btns .active {
+	    width: 8px;
+	    margin: 0 20px;
+	    text-align: center;
+	    align-items: center;
+	    height: 8px;
+	}
+	.pop-slide-btns li{
+		height: 5px;
+		width: 5px;
+		margin: 0 13px;
+	}
+	.pop-slide-btns{
+		right: 0;
+	}	
+	.prop-cra-divone{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divtwo{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divthree{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divfour{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.under-quote {
+		height: 50vh !important;
+	}
+	.s-btns {
+	    top: 15%;
+	    position: sticky;
+	    margin: 0 0 0 -20% !important;
+	}
+	
+	.inside-interact h1 {
+		margin-top:20rem !important; 
+	}
+	.interact-banner {
+	    height: 60vh;
+	}
+	.under-daily-img-text p {
+		font-size: 16px !important;
+	}
+	.under-daily-img-text h1{
+		font-size: 30px !important;
+	}
+	.under-daily-img-text {
+	    padding: 35px 0 10px 0;
+	}
+	.teamcrabtns {
+	    top: 7% !important;
+	    right: 5% !important;
+	}
+	
+	.team-job {
+	    top: 65%;
+	    left: 5%;
+	}
+	.team-cont {
+	    top: 30% !important;
+	    left: 5% !important;
+	}
+	.team-name {
+	    font-size: 50pt !important;
+	}
+	.client-logo {
+	    padding: 35px 0 !important;
+	}
+	.team-cra-divone{
+		height: 600px !important;
+	}
+	.team-cra-divtwo{
+		height: 600px !important;
+	}
+	.team-cra-divthree{
+		height: 600px !important;
+	}
+	.team-cra-divfour{
+		height: 600px !important;
+	}
+	.team-cra-divfive{
+		height: 600px !important;
+	}
+	.team-cra-divsix{
+		height: 600px !important;
+	}
+	.under-sobre {
+	    height: 60vh !important;
+	}
+	.sobre-div {
+	    height: 60vh !important;
+	}
+	.sobre-div-img-two {
+		height: 350px;
+		right: 5%;
+		bottom: -30%;
+		width: 43.5%;
+	}
+	.sobre-div-img-one{
+		height: 350px;
+		left: 5%;
+		bottom: -15% ;
+		width: 43.5%;
+		z-index: 20000;
+	}
+	
+	.empty-crabtns{
+		bottom: 3% !important;
+		left: 43% !important;
+	}
+	.empty-crabtns .active {
+		width: 10px !important;
+		height: 10px !important;
+	}
+	.empty-crabtns li {
+		margin: 0 3em 0 3em !important;
+	}
+	.empty-cra-divone{
+		height: 40vh !important;
+		background-position: center;
+	}
+	.empty-cra-divtwo{
+		height: 40vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divthree{
+		height: 40vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divfour{
+		height: 40vh !important;
+	}
+	.bannernew {
+		height: 50vh;
+	}
+	.pop-client-p{
+		font-size: 30px !important;
+	}
+	.pop-client-p-cont{
+		top: 55% !important;
+		left: 7% !important;
+	}
+	.pop-scrool-txt{
+		right: 7% !important;
+	}
+	.pop-client-h{
+		font-size: 50px !important;
+		top: 25% !important;
+		left: 7% !important;
+	}
+	.run-banner{
+		height: 80vh;
+	}
+	.form-group input, textarea{
+		width: 100% !important;
+	}
+
+	.divfoot{
+		padding-bottom: 10rem;
+		padding-top: 10rem ;
+		margin-top: 5%;
+	}
+	.contact-header{
+		font-size: 8rem; 
+	}
+	.divfoot-part-two{
+		text-align: center;
+		margin-top: 5%;
+	}
+	.divfoot-part-one{
+		padding-left: 9em;
+	}
+	form{
+		margin: 10% 5% 10% 5% !important;
+	}
+	.form-host{
+		width: 100%;
+	}
+	.form-group label{
+		margin-top: 4.5rem !important;
+	}
+	.enviar-btn{
+		margin-top: 7.5rem;
+	}
+	.pop-nav-line{
+		margin-right: unset;
+	}
+	.nav-link {
+	    margin-top: 16em;
+	}
+}
+
+@media(max-width: 320px){
+	.prop-index-item{
+		width: 100%;
+		margin-left: unset;
+	}
+	.pop-cra-text-ontop{
+	  margin-left: unset!important;
+	  left: 5% !important;
+	  top: 60.5% !important;
+	  font-size: 40px !important;
+	}
+	.intro{
+	  padding-top: 50px !important;
+	  padding-bottom:  50px !important;
+	}
+	.intro-text-one{
+	  font-size: 30px !important;
+	}
+	.intro-text-two{
+	  font-size: 10pt !important;
+	}
+	.prop-index-cra-btn-two{
+		top: unset;
+		z-index: 50000;
+		bottom: 10%;
+		right: 3%;
+		padding: 8px 12px !important;
+	}
+	.prop-index-cra-btn-one{
+		top: unset;
+		z-index: 50000;
+		bottom: 10%;
+		left: 3%;
+		padding: 8px 12px !important;
+	}
+	.prop-index-cra-plus{
+		width: 50px;
+		height: 50px;
+		top: 45%;
+		left: 41%;
+	}
+	.index-intro{
+		padding-top: 60px;
+	}
+	.pop-slide-btns .active {
+	    width: 8px;
+	    margin: 0 23px;
+	    text-align: center;
+	    align-items: center;
+	    height: 8px;
+	}
+	.pop-slide-btns li{
+		height: 5px;
+		width: 5px;
+		margin: 0 15px;
+	}
+	.pop-slide-btns{
+		width: 100% !important;
+		top: unset;
+		bottom: 0;
+		right: unset;
+		left: unset;
+	}	
+	.prop-cra-divone{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divtwo{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divthree{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divfour{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.padded-txt {
+		font-size: 14px;
+	}
+	.under-quote {
+		height: 70vh !important;
+	}
+	.s-btn-tweet {
+	    padding: 1.5rem 1.5rem;
+	    margin-top: 5px !important;
+	}
+	.s-btn-face {
+	    padding: 1.5rem 2rem;
+	    margin-bottom: 5px !important;
+	}
+	.s-btns {
+	    top: 15%;
+	    position: sticky;
+	    margin: 0 0 0 -12.5% !important;
+	}
+	.under-interact-text{
+		margin: -10rem 2rem 0 6rem;
+	}
+	.under-interact{
+		padding: 3% 1% 3% 1%;
+	}
+	.under-interact-text p {
+		font-size: 14px;
+	}
+	.date{
+		font-size: 10px !important;
+	}
+	.inside-interact h1 {
+		font-size:30px !important;
+		margin-top:20rem !important; 
+	}
+	.interact-banner {
+	    height: 100vh;
+	}
+	.under-daily-img-four {
+		height: 260px !important;
+	}
+	.under-daily-img-three {
+		height: 260px !important;
+	}
+	.under-daily-img-two {
+		height: 260px !important;
+	}
+	.under-daily-img-one {
+		height: 260px !important;
+	}
+	.under-daily-img-text div {
+		font-size: 13px !important;
+	}
+	.under-daily-img-text p {
+		font-size: 14px !important;
+	}
+	.under-daily-img-text h1{
+		font-size: 25px !important;
+	}
+	.under-daily-img-text {
+	    padding: 10px 0 5px 0 !important;
+	}
+	.daily{
+		padding-bottom:  unset !important; 
+	}
+	.daily div {
+		width: 40% !important;
+		margin-right: 30% !important;
+		margin-left: 30% !important;
+	}
+	.daily p {
+		font-size: 10pt !important;
+	}
+	.daily h1 {
+		font-size: 3em !important;
+	}
+	.second-under-brand-content {
+		margin: 10px 0 10px !important;
+	}
+	.second-under-brand-content h2 {
+		font-size: 25pt !important;
+	}
+	.under-brand-content {
+		margin: 10px 0 10px !important;
+	}
+	.under-brand-content h2 {
+		font-size: 25pt !important;
+	}
+	.under-brand {
+	    margin-left: 5px;
+	    margin-right: 5px;
+	}
+	.inside-belowsecond-soluban {
+	    margin: 0 5% 0 5% !important;
+	}
+	.inside-belowsecond-soluban h5 {
+		font-size: 13px !important;
+	}
+	.belowsecond-solubanner h1 {
+		font-size: 70px !important;
+		padding-left: 15px !important;
+	}
+	/**second*/
+	.fale-div h4 {
+	    font-size: 22px !important;
+	}
+	.fale-div h1 {
+	    font-size: 70px !important;
+	}
+	.inside-below-soluban {
+	    top: 2.5% !important;
+	    margin: 0 5% 0 5% !important;
+	}
+	.inside-below-soluban h5 {
+		font-size: 13px !important;
+	}
+	.below-solubanner h1 {
+		font-size: 70px !important;
+	}
+	.pop-scrool-txt {
+	    right: 0 !important;
+	    font-size: 12px !important;
+	}
+	.solubanner{
+		height: 80vh !important;
+	}
+	.teamcrabtns {
+	    top: 5% !important;
+	    right: 2% !important;
+	}
+	.teamcrabtns li {
+	    width: 50px !important;
+	    height: 50px !important;
+	}
+	.team-job {
+	    top: 65%;
+	    font-size: 16px;
+	    left: 5%;
+	}
+	.team-border {
+		padding-bottom: 0 !important;
+	}
+	.team-cont {
+	    top: 38% !important;
+	    left: 5% !important;
+	}
+	.team-name {
+	    font-size: 35px !important;
+	}
+	.client-logo {
+	    padding: 20px 0 !important;
+	}
+	.team-cra-divone{
+		height: 450px !important;
+	}
+	.team-cra-divtwo{
+		height: 450px !important;
+	}
+	.team-cra-divthree{
+		height: 450px !important;
+	}
+	.team-cra-divfour{
+		height: 450px !important;
+	}
+	.team-cra-divfive{
+		height: 450px !important;
+	}
+	.team-cra-divsix{
+		height: 450px !important;
+	}
+	.under-sobre {
+	    height: 110vh !important;
+	}
+	.under-sobre-txt {
+		font-size: 14px !important;
+	}
+	.under-sobre-txt {
+	    margin-top: 85% !important;
+	}
+	.under-sobre-txt h1{
+		font-size: 35px !important;
+	}
+	.sobre-div {
+	    height: 130vh !important;
+	}
+	.sobre-div-img-two {
+		height: 300px;
+		bottom: 13%;
+		right: 5%;
+		width: 90%;
+	}
+	.sobre-div-img-one{
+		height: 300px;
+		bottom: -30%;
+		left: 5%;
+		width: 90%;
+		z-index: 20000;
+	}
+	.sobre-div-txt p{
+		font-size: 14px !important;
+	}
+	.empty-crabtns{
+		bottom: 3% !important;
+		left: 43% !important;
+	}
+	.empty-crabtns .active {
+		width: 8px !important;
+		height: 8px !important;
+	}
+	.empty-crabtns li {
+		margin: 0 1em 0 1em !important;
+	}
+	.empty-cra-divone{
+		height: 60vh !important;
+		background-position: center;
+	}
+	.empty-cra-divtwo{
+		height: 60vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divthree{
+		height: 60vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divfour{
+		height: 60vh !important;
+	}
+	.bannernew {
+		height: 100vh;
+	}
+	.pop-client-p{
+		font-size: 25px !important;
+	}
+	.pop-client-p-cont{
+		top: 55% !important;
+	}
+	.pop-client-h{
+		font-size: 30px !important;
+		top: 25% !important;
+	}
+	.reduce-header{
+		padding: 15px 15px !important;
+	}
+	.pop-beat-dre-icon {
+	    top: 65% !important;
+	    left: 5.5% !important;
+	}
+	.pop-beat-dre-p{
+		left: 5% !important;
+	}
+	.pop-beat-dre-txt{
+		left: 5% !important;
+	}
+	.divcrabtns {
+		bottom: 15% !important;
+		right: 5% !important;
+	}
+	.divfour {
+	    height: 70vh !important;
+	    background-position: left !important;
+	    background-attachment: unset;
+	   }
+	.divfive {
+	    height: 80vh !important;
+	   }
+	.divsix-col-5{
+		height: 80vh !important;
+	}
+	.divsix-col-5 h6{
+		padding-top: 50% !important;
+	}
+	.divsix-col-7{
+		height: 80vh !important;
+	}
+	.divseven {
+	    height: 80vh;
+	}
+	.divtwo h4 {
+	    font-size: 20px !important;
+	}
+	.divthree-col-5{
+		height: 80vh !important;
+	}
+	.diveight {
+	    padding: 10% 0 0 0 !important;
+	}
+	.divthree-col-5 h6{
+		padding-top: 50% !important;
+	}
+	.run-banner{
+		height: 80vh !important;
+	}
+	.pop-dre-txt{
+		font-size: 40px !important;
+		bottom: 35% !important;
+	}
+	.pop-scrool-txt {
+		right: 1% !important;
+		bottom: 10% !important;
+	}
+ 	.divfoot-part-one ul {
+ 	    padding: 0 20% !important;
+ 	}
+ 	.header{
+ 		padding-left: 0 !important;
+ 		padding-right: 0 !important;
+ 	}
+ 	.pop-nav-text {
+ 	    padding: 10px 5px 0px !important;
+ 	    height: unset !important;
+ 	    font-size: 14px !important;
+ 	}
+ 	.enviar-btn{
+ 		padding: 10px 25px !important;
+ 		margin-top: 4rem !important;
+ 	}
+ }
+@media (max-width: 361px){
+	.prop-index-item{
+		width: 100%;
+		margin-left: unset;
+	}
+	.prop-index-cra-btn-two{
+		top: unset;
+		bottom: 10%;
+		right: 3%;
+		z-index: 50000;
+		padding: 8px 12px !important;
+	}
+	.prop-index-cra-btn-one{
+		top: unset;
+		bottom: 10%;
+		left: 3%;
+		z-index: 50000;
+		padding: 8px 12px !important;
+	}
+	.prop-index-cra-plus{
+		width: 50px;
+		height: 50px;
+		top: 45%;
+		left: 42.5%;
+	}
+	.index-intro{
+		padding-top: 60px;
+	}
+	.pop-slide-btns .active {
+	    width: 8px;
+	    margin: 0 23px;
+	    text-align: center;
+	    align-items: center;
+	    height: 8px;
+	}
+	.pop-slide-btns li{
+		height: 5px;
+		width: 5px;
+		margin: 0 15px;
+	}
+	.pop-slide-btns{
+		width: 100% !important;
+		top: unset;
+		bottom: 0;
+		right: unset;
+		left: unset;
+	}	
+	.prop-cra-divone{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divtwo{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divthree{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divfour{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.padded-txt {
+		font-size: 14px;
+	}
+	.under-quote {
+		height: 70vh !important;
+	}
+	.s-btn-tweet {
+	    padding: 1.5rem 1.5rem;
+	    margin-top: 5px !important;
+	}
+	.s-btn-face {
+	    padding: 1.5rem 2rem;
+	    margin-bottom: 5px !important;
+	}
+	.s-btns {
+	    top: 15%;
+	    position: sticky;
+	    margin: 0 0 0 -11%;
+	}
+	.under-interact-text{
+		margin: -10rem 2rem 0 6rem;
+	}
+	.under-interact{
+		padding: 3% 1% 3% 1%;
+	}
+	.under-interact-text p {
+		font-size: 14px;
+	}
+	.date{
+		font-size: 10px !important;
+	}
+	.inside-interact h1 {
+		font-size:30px !important;
+		margin-top:20rem !important; 
+	}
+	.interact-banner {
+	    height: 80vh;
+	}
+	.under-daily-img-four {
+		height: 260px !important;
+	}
+	.under-daily-img-three {
+		height: 260px !important;
+	}
+	.under-daily-img-two {
+		height: 260px !important;
+	}
+	.under-daily-img-one {
+		height: 260px !important;
+	}
+	.under-daily-img-text div {
+		font-size: 13px !important;
+	}
+	.under-daily-img-text p {
+		font-size: 14px !important;
+	}
+	.under-daily-img-text h1{
+		font-size: 25px !important;
+	}
+	.under-daily-img-text {
+	    padding: 10px 0 5px 0 !important;
+	}
+	.daily{
+		padding-bottom:  unset !important; 
+	}
+	.daily div {
+		width: 40% !important;
+		margin-right: 30% !important;
+		margin-left: 30% !important;
+	}
+	.daily p {
+		font-size: 10pt !important;
+	}
+	.daily h1 {
+		font-size: 3em !important;
+	}
+	.second-under-brand-content {
+		margin: 10px 0 10px !important;
+	}
+	.second-under-brand-content h2 {
+		font-size: 25pt !important;
+	}
+	.under-brand-content {
+		margin: 10px 0 10px !important;
+	}
+	.under-brand-content h2 {
+		font-size: 25pt !important;
+	}
+	.under-brand {
+	    margin-left: 5px;
+	    margin-right: 5px;
+	}
+	.inside-belowsecond-soluban {
+	    margin: 0 5% 0 5% !important;
+	}
+	.inside-belowsecond-soluban h5 {
+		font-size: 13px !important;
+	}
+	.belowsecond-solubanner h1 {
+		font-size: 70px !important;
+		padding-left: 15px !important;
+	}
+	/**second*/
+	.fale-div h4 {
+	    font-size: 22px !important;
+	}
+	.fale-div h1 {
+	    font-size: 70px !important;
+	}
+	.inside-below-soluban {
+	    top: 3% !important;
+	    margin: 0 5% 0 5% !important;
+	}
+	.inside-below-soluban h5 {
+		font-size: 13px !important;
+	}
+	.below-solubanner h1 {
+		font-size: 70px !important;
+	}
+	.pop-scrool-txt {
+	    right: 0 !important;
+	    font-size: 12px !important;
+	}
+	.solubanner{
+		height: 80vh !important;
+	}
+	.minus-div-foot{
+		padding: 0 25% !important;
+	}
+	.teamcrabtns {
+	    top: 5% !important;
+	    right: 2% !important;
+	}
+	.teamcrabtns li {
+	    width: 50px !important;
+	    height: 50px !important;
+	}
+	.team-job {
+	    top: 65%;
+	    font-size: 18px;
+	    left: 5%;
+	}
+	.team-border {
+		padding-bottom: 0 !important;
+	}
+	.team-cont {
+	    top: 38% !important;
+	    left: 5% !important;
+	}
+	.team-name {
+	    font-size: 40px !important;
+	}
+	.client-logo {
+	    padding: 20px 0 !important;
+	}
+	.team-cra-divone{
+		height: 500px !important;
+	}
+	.team-cra-divtwo{
+		height: 500px !important;
+	}
+	.team-cra-divthree{
+		height: 500px !important;
+	}
+	.team-cra-divfour{
+		height: 500px !important;
+	}
+	.team-cra-divfive{
+		height: 500px !important;
+	}
+	.team-cra-divsix{
+		height: 500px !important;
+	}
+	.client-cra-div {
+	    padding: 0 20px 30px !important;
+	}
+	.under-sobre {
+	    height: 100vh !important;
+	}
+	.under-sobre-txt {
+		font-size: 14px !important;
+	}
+	.under-sobre-txt {
+	    margin-top: 60% !important;
+	}
+	.under-sobre-txt h1{
+		font-size: 35px !important;
+	}
+	.sobre-div {
+	    height: 130vh !important;
+	}
+	.sobre-div-img-two {
+		height: 300px;
+		bottom: 20%;
+		right: 5%;
+		width: 90%;
+	}
+	.sobre-div-img-one{
+		height: 300px;
+		bottom: -20%;
+		left: 5%;
+		width: 90%;
+		z-index: 20000;
+	}
+	.sobre-div-txt p{
+		font-size: 15px !important;
+	}
+	.empty-crabtns{
+		bottom: 3% !important;
+		left: 43% !important;
+	}
+	.empty-crabtns .active {
+		width: 8px !important;
+		height: 8px !important;
+	}
+	.empty-crabtns li {
+		margin: 0 1em 0 1em !important;
+	}
+	.empty-cra-divone{
+		height: 60vh !important;
+		background-position: center;
+	}
+	.empty-cra-divtwo{
+		height: 60vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divthree{
+		height: 60vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divfour{
+		height: 60vh !important;
+	}
+	.bannernew {
+		height: 90vh;
+	}
+	.pop-client-p{
+		font-size: 25px !important;
+	}
+	.pop-client-p-cont{
+		top: 60% !important;
+		left: 7% !important;
+	}
+	.pop-scrool-txt{
+		right: 7% !important;
+	}
+	.pop-client-h{
+		font-size: 35px !important;
+		top: 25% !important;
+		left: 7% !important;
+	}
+
+
+	.scrooldivone {
+		height: 90vh !important;
+	}
+	.scrooldivtwo {
+		height: 90vh !important;
+	}
+	.scrooldivthree {
+		height: 90vh !important;
+	}
+	.scrooldivfour {
+		height: 90vh !important;
+	}
+	.reduce-header{
+		padding: 15px 15px !important;
+	}
+	.pop-beat-dre-icon {
+	    top: 65% !important;
+	    left: 5.5% !important;
+	}
+	.pop-beat-dre-p{
+		left: 5% !important;
+	}
+	.pop-beat-dre-txt{
+		left: 5% !important;
+	}
+	.divcrabtns {
+		bottom: 15% !important;
+		right: 5% !important;
+	}
+	.divfour {
+	    height: 70vh !important;
+	    background-position: left !important;
+	    background-attachment: unset;
+	   }
+	.divfive {
+	    height: 80vh !important;
+	   }
+	.divsix-col-5{
+		height: 80vh !important;
+	}
+	.divsix-col-5 h6{
+		padding-top: 50% !important;
+	}
+	.divsix-col-7{
+		height: 80vh !important;
+	}
+	.divseven {
+	    height: 80vh;
+	}
+	.divtwo h4 {
+	    font-size: 22px !important;
+	}
+	.divthree-col-5{
+		height: 80vh !important;
+	}
+	.divthree-col-5 h6{
+		padding-top: 50% !important;
+	}
+	.run-banner{
+		height: 80vh !important;
+	}
+	.pop-dre-txt{
+		font-size: 45px !important;
+	}
+
+	.contact-header{
+		font-size: 5rem !important; 
+	    margin-top: 5rem !important;
+	    margin-bottom: 3rem !important;
+	}
+	.divfoot-part-one{
+		margin: unset !important;
+	}
+
+	form{
+		margin:  5% 10% 5% 10% !important;
+	}
+	.enviar-btn{
+ 		padding: 10px 25px !important;
+ 		margin-top: 4rem !important;
+ 	}
+	.form-group label{
+		font-size: 11px;
+	}
+	.pop-logo{
+		width: 80px;
+	}
+	  .bau-cont{
+      width: 100% !important ;
+      float: unset !important;
+    }
+    .divfoot-part-two{
+    	text-align: center !important;
+    	margin-top: 3rem !important;
+    }
+	 .jau-cont{
+      width: 100% !important ;
+      float: unset !important;
+    }
+    .jau-cont h4{
+       margin-top: 20px !important;
+    }
+    .divfoot-part-one ul {
+        padding: 0 27%;
+    }
+    .divfoot{
+    	padding-top: 4em !important; 
+    }
+}
+@media (width: 768px) and (min-height:1024px) {
+	.pop-cra-text-ontop{
+		top: 65% ;
+		left: 15%;
+		font-size: 65px;
+	}
+	.prop-index-item{
+		width: 60%;
+		margin-left: 20%;
+	}
+	.prop-index-cra-btn-two{
+		right: 7%;
+		padding: 16px 20px 16px 90px;
+	}
+	.prop-index-cra-btn-one{
+		left: 7%;
+		padding: 16px 70px 16px 20px;
+	}
+	.prop-index-cra-plus{
+		width: 60px;
+		height: 60px;
+		top: 45%;
+		left: 46.3%;
+	}
+	.index-intro{
+		padding-top: 60px;
+	}
+	.pop-slide-btns .active {
+	    width: 8px;
+	    margin: 0 20px;
+	    text-align: center;
+	    align-items: center;
+	    height: 8px;
+	}
+	.pop-slide-btns li{
+		height: 5px;
+		width: 5px;
+		margin: 0 13px;
+	}
+	.pop-slide-btns{
+		right: 0;
+	}	
+	.prop-cra-divone{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divtwo{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divthree{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.prop-cra-divfour{
+		height: 500px;
+		width: 90%;
+		margin: 2% 5%; 
+	}
+	.under-quote {
+		height: 50vh !important;
+	}
+	.s-btns {
+	    top: 15%;
+	    position: sticky;
+	    margin: 0 0 0 -20% !important;
+	}
+	
+	.inside-interact h1 {
+		margin-top:20rem !important; 
+	}
+	.interact-banner {
+	    height: 60vh;
+	}
+	.second-under-brand-content h2 {
+		font-size: 22pt !important;
+	}
+	.under-brand-content h2 {
+		font-size: 22pt !important;
+	}
+	.inside-belowsecond-soluban {
+		margin: -21% 5% 0 5% !important;
+	}
+	.belowsecond-solubanner h1{
+		font-size: 160px !important;
+	}
+	.fale-div h1{
+		font-size: 80pt !important;
+	}
+	.below-solubanner{
+		height: 400px !important;
+	}
+	.inside-below-soluban {
+		top: 15% !important;
+		margin: 0 4% 0 4% !important;
+	}
+	.below-solubanner h1{
+		font-size: 160px !important;
+	}
+	.bau-cont{
+		text-align: left !important;
+	}
+	.jau-cont{
+		text-align: left !important;
+	}
+	.divfoot-part-one{
+		padding-left: 3em !important;
+	}
+	.divfoot-part-one ul {
+	    padding: unset !important;
+	}
+	
+	.solubanner {
+		height: 60vh !important;
+	}
+	.teamcrabtns {
+	    top: 7% !important;
+	    right: 5% !important;
+	}
+	
+	.team-job {
+	    top: 65%;
+	    left: 5%;
+	}
+	.team-cont {
+	    top: 30% !important;
+	    left: 5% !important;
+	}
+	.team-name {
+	    font-size: 50pt !important;
+	}
+	.client-logo {
+	    padding: 35px 0 !important;
+	}
+	.team-cra-divone{
+		height: 600px !important;
+	}
+	.team-cra-divtwo{
+		height: 600px !important;
+	}
+	.team-cra-divthree{
+		height: 600px !important;
+	}
+	.team-cra-divfour{
+		height: 600px !important;
+	}
+	.team-cra-divfive{
+		height: 600px !important;
+	}
+	.team-cra-divsix{
+		height: 600px !important;
+	}
+	.under-sobre {
+	    height: 60vh !important;
+	}
+	.sobre-div {
+	    height: 60vh !important;
+	}
+	.sobre-div-img-two {
+		height: 350px;
+		right: 5%;
+		bottom: -30%;
+		width: 43.5%;
+	}
+	.sobre-div-img-one{
+		height: 350px;
+		left: 5%;
+		bottom: -15% ;
+		width: 43.5%;
+		z-index: 20000;
+	}
+	
+	.empty-crabtns{
+		bottom: 3% !important;
+		left: 40% !important;
+	}
+	.empty-crabtns .active {
+		width: 10px !important;
+		height: 10px !important;
+	}
+	.empty-crabtns li {
+		margin: 0 3em 0 3em !important;
+	}
+	.empty-cra-divone{
+		height: 40vh !important;
+		background-position: center;
+	}
+	.empty-cra-divtwo{
+		height: 40vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divthree{
+		height: 40vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divfour{
+		height: 40vh !important;
+	}
+	.bannernew {
+		height: 50vh;
+	}
+	.pop-client-p{
+		font-size: 30px !important;
+	}
+	.pop-client-p-cont{
+		top: 55% !important;
+		left: 7% !important;
+	}
+	.pop-scrool-txt{
+		right: 7% !important;
+	}
+	.pop-client-h{
+		font-size: 50px !important;
+		top: 25% !important;
+		left: 7% !important;
+	}
+	.scrooldivone {
+		height: 68vh !important;
+	}
+	.scrooldivtwo {
+		height: 68vh !important;
+	}
+	.scrooldivthree {
+		height: 68vh !important;
+	}
+	.scrooldivfour {
+		height: 68vh !important;
+	}
+	.diveight {
+    padding: 10% 0 0 0 !important;
+	}
+  	.navbar-header {
+  		margin-top: 10px !important;
+  	}
+  	.form-host form{
+  		margin:12% 10% 15% 10% !important;
+  	}
+  	.divfoot{
+		padding-bottom: 10rem;
+		padding-top: 10rem ;
+		margin-top: 5%;
+	}
+	.contact-header{
+		font-size: 8rem; 
+	}
+	.divfoot-part-two{
+		text-align: left !important;
+		margin-top: unset !important;
+	}
+
+  	.pop-scrool-txt{
+  		right: 2% !important;
+  		bottom: 10% !important;
+  	}
+  	.divfour {
+  	    height: 50vh !important;
+  	    background-position: left !important;
+  	    background-attachment: unset;
+  	   }
+  	.divfive {
+  	    height: 50vh !important;
+  	   }
+  	.divsix-col-5{
+  		height: 50vh !important;
+  	}
+  	.divsix-col-5 h6{
+  		padding-top: 30% !important;
+  	}
+  	.divsix-col-7{
+  		height: 50vh !important;
+  	}
+  	.divseven {
+  	    height: 45vh;
+  	}
+  	.divtwo h4 {
+  	    font-size: 26px !important;
+  	}
+  	.divthree-col-5{
+  		height: 50vh !important;
+  	}
+  	.divthree-col-5 h6{
+  		padding-top: 30% !important;
+  	}
+  	.divthree-col-7{
+  		height: 50vh !important;
+  	}
+  	.run-banner{
+  		height: 50vh !important;
+  	}
+  	.pop-dre-txt{
+  		font-size: 80px !important;
+  	}
+    .header-host{
+      padding: 15px 5px !important;
+    }
+    .nav-link li{
+    	font-size: 50px;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 18px !important;
+    }
+    .pop-line{
+          width: 30px !important;
+    }
+    .div-three-text-one{
+      font-size: 12em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:30px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+    }
+    .footer-li{
+      font-size: 30px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+      padding-left: 2.5em !important;
+    }
+    .hid-div-part-one{
+      width: 50% !important;
+    }
+    .hid-div-part-two{
+      width: 50% !important;
+    }
+    .nav-plus{
+    	left: 30%;
+    }
+    .nav-link{
+      margin-top:18em !important;
+    }
+	.run-banner{
+		height: 80vh;
+	}
+	.form-group input, textarea{
+		width: 100% !important;
+	}
+
+	.divfoot{
+		padding-bottom: 10rem;
+		padding-top: 10rem ;
+		margin-top: 5%;
+	}
+	.contact-header{
+		font-size: 8rem; 
+	}
+	.divfoot-part-two{
+		text-align: center;
+		margin-top: 5%;
+	}
+	.divfoot-part-one{
+		padding-left: 9em;
+	}
+	form{
+		margin: 10% 5% 10% 5% !important;
+	}
+	.form-host{
+		width: 100%;
+	}
+	.form-group label{
+		margin-top: 4.5rem !important;
+	}
+	.enviar-btn{
+		margin-top: 7.5rem;
+	}
+	.pop-nav-line{
+		margin-right: unset;
+	}
+	.nav-link {
+	    margin-top: 16em;
+	}
+}
+
+@media (max-width: 361px) 
+  and (max-height: 640px){
+  	.prop-index-item{
+  		width: 100%;
+  		margin-left: unset;
+  	}
+  	.prop-index-cra-btn-two{
+  		top: unset;
+  		bottom: 10%;
+  		right: 3%;
+  		z-index: 50000;
+  		padding: 8px 12px !important;
+  	}
+  	.prop-index-cra-btn-one{
+  		top: unset;
+  		bottom: 10%;
+  		left: 3%;
+  		z-index: 50000;
+  		padding: 8px 12px !important;
+  	}
+  	.prop-index-cra-plus{
+  		width: 50px;
+  		height: 50px;
+  		top: 45%;
+  		left: 42.5%;
+  	}
+  	.index-intro{
+  		padding-top: 60px;
+  	}
+  	.pop-slide-btns .active {
+  	    width: 8px;
+  	    margin: 0 23px;
+  	    text-align: center;
+  	    align-items: center;
+  	    height: 8px;
+  	}
+  	.pop-slide-btns li{
+  		height: 5px;
+  		width: 5px;
+  		margin: 0 15px;
+  	}
+  	.pop-slide-btns{
+  		width: 100% !important;
+  		top: unset;
+  		bottom: 0;
+  		right: unset;
+  		left: unset;
+  	}	
+  	.prop-cra-divone{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divtwo{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divthree{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divfour{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.padded-txt {
+  		font-size: 14px;
+  	}
+  	.under-quote {
+  		height: 70vh !important;
+  	}
+  	.s-btn-tweet {
+  	    padding: 1.5rem 1.5rem;
+  	    margin-top: 5px !important;
+  	}
+  	.s-btn-face {
+  	    padding: 1.5rem 2rem;
+  	    margin-bottom: 5px !important;
+  	}
+  	.s-btns {
+  	    top: 15%;
+  	    position: sticky;
+  	    margin: 0 0 0 -11% ;
+  	}
+  	.under-interact-text{
+  		margin: -10rem 2rem 0 6rem;
+  	}
+  	.under-interact{
+  		padding: 3% 1% 3% 1%;
+  	}
+  	.under-interact-text p {
+  		font-size: 14px;
+  	}
+  	.date{
+  		font-size: 10px !important;
+  	}
+  	.inside-interact h1 {
+  		font-size:30px !important;
+  		margin-top:20rem !important; 
+  	}
+  	.interact-banner {
+  	    height: 80vh;
+  	}
+  	.under-daily-img-four {
+  		height: 260px !important;
+  	}
+  	.under-daily-img-three {
+  		height: 260px !important;
+  	}
+  	.under-daily-img-two {
+  		height: 260px !important;
+  	}
+  	.under-daily-img-one {
+  		height: 260px !important;
+  	}
+  	.under-daily-img-text div {
+  		font-size: 13px !important;
+  	}
+  	.under-daily-img-text p {
+  		font-size: 14px !important;
+  	}
+  	.under-daily-img-text h1{
+  		font-size: 25px !important;
+  	}
+  	.under-daily-img-text {
+  	    padding: 10px 0 5px 0 !important;
+  	}
+  	.daily{
+  		padding-bottom:  unset !important; 
+  	}
+  	.daily div {
+  		width: 40% !important;
+  		margin-right: 30% !important;
+  		margin-left: 30% !important;
+  	}
+  	.daily p {
+  		font-size: 10pt !important;
+  	}
+  	.daily h1 {
+  		font-size: 3em !important;
+  	}
+  	.second-under-brand-content {
+  		margin: 10px 0 10px !important;
+  	}
+  	.second-under-brand-content h2 {
+  		font-size: 25pt !important;
+  	}
+  	.under-brand-content {
+  		margin: 10px 0 10px !important;
+  	}
+  	.under-brand-content h2 {
+  		font-size: 25pt !important;
+  	}
+  	.under-brand {
+  	    margin-left: 5px;
+  	    margin-right: 5px;
+  	}
+  	.inside-belowsecond-soluban {
+  	    margin: 0 5% 0 5% !important;
+  	}
+  	.inside-belowsecond-soluban h5 {
+  		font-size: 13px !important;
+  	}
+  	.belowsecond-solubanner h1 {
+  		font-size: 70px !important;
+  		padding-left: 15px !important;
+  	}
+  	/**second*/
+  	.fale-div h4 {
+  	    font-size: 22px !important;
+  	}
+  	.fale-div h1 {
+  	    font-size: 70px !important;
+  	}
+  	.inside-below-soluban {
+  	    top: 3% !important;
+  	    margin: 0 5% 0 5% !important;
+  	}
+  	.inside-below-soluban h5 {
+  		font-size: 13px !important;
+  	}
+  	.below-solubanner h1 {
+  		font-size: 70px !important;
+  	}
+  	.pop-scrool-txt {
+  	    right: 0 !important;
+  	    font-size: 12px !important;
+  	}
+  	.solubanner{
+  		height: 80vh !important;
+  	}
+  	.minus-div-foot{
+  		padding: 0 25% !important;
+  	}
+  	.teamcrabtns {
+  	    top: 5% !important;
+  	    right: 2% !important;
+  	}
+  	.teamcrabtns li {
+  	    width: 50px !important;
+  	    height: 50px !important;
+  	}
+  	.team-job {
+  	    top: 65%;
+  	    font-size: 18px;
+  	    left: 5%;
+  	}
+  	.team-border {
+  		padding-bottom: 0 !important;
+  	}
+  	.team-cont {
+  	    top: 38% !important;
+  	    left: 5% !important;
+  	}
+  	.team-name {
+  	    font-size: 40px !important;
+  	}
+  	.client-logo {
+  	    padding: 20px 0 !important;
+  	}
+  	.team-cra-divone{
+  		height: 500px !important;
+  	}
+  	.team-cra-divtwo{
+  		height: 500px !important;
+  	}
+  	.team-cra-divthree{
+  		height: 500px !important;
+  	}
+  	.team-cra-divfour{
+  		height: 500px !important;
+  	}
+  	.team-cra-divfive{
+  		height: 500px !important;
+  	}
+  	.team-cra-divsix{
+  		height: 500px !important;
+  	}
+  	.client-cra-div {
+  	    padding: 0 20px 30px !important;
+  	}
+  	.under-sobre {
+  	    height: 100vh !important;
+  	}
+  	.under-sobre-txt {
+  		font-size: 14px !important;
+  	}
+  	.under-sobre-txt {
+  	    margin-top: 60% !important;
+  	}
+  	.under-sobre-txt h1{
+  		font-size: 35px !important;
+  	}
+  	.sobre-div {
+  	    height: 130vh !important;
+  	}
+  	.sobre-div-img-two {
+  		height: 300px;
+  		bottom: 20%;
+  		right: 5%;
+  		width: 90%;
+  	}
+  	.sobre-div-img-one{
+  		height: 300px;
+  		bottom: -20%;
+  		left: 5%;
+  		width: 90%;
+  		z-index: 20000;
+  	}
+  	.sobre-div-txt p{
+  		font-size: 15px !important;
+  	}
+  	.empty-crabtns{
+  		bottom: 3% !important;
+  		left: 43% !important;
+  	}
+  	.empty-crabtns .active {
+  		width: 8px !important;
+  		height: 8px !important;
+  	}
+  	.empty-crabtns li {
+  		margin: 0 1em 0 1em !important;
+  	}
+  	.empty-cra-divone{
+  		height: 60vh !important;
+  		background-position: center;
+  	}
+  	.empty-cra-divtwo{
+  		height: 60vh !important;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divthree{
+  		height: 60vh !important;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divfour{
+  		height: 60vh !important;
+  	}
+  	.bannernew {
+  		height: 90vh;
+  	}
+  	.pop-client-p{
+  		font-size: 25px !important;
+  	}
+  	.pop-client-p-cont{
+  		top: 60% !important;
+  		left: 7% !important;
+  	}
+  	.pop-scrool-txt{
+  		right: 3% !important;
+  		bottom: 10% !important;
+  	}
+  	.pop-client-h{
+  		font-size: 35px !important;
+  		top: 25% !important;
+  		left: 7% !important;
+  	}
+
+  	.reduce-header{
+  		padding: 15px 15px !important;
+  	}
+  	.pop-beat-dre-icon {
+  	    top: 65% !important;
+  	    left: 5.5% !important;
+  	}
+  	.pop-beat-dre-p{
+  		left: 5% !important;
+  	}
+  	.pop-beat-dre-txt{
+  		left: 5% !important;
+  	}
+  	.divcrabtns {
+  		bottom: 15% !important;
+  		right: 5% !important;
+  	}
+    .run-banner{
+    	height: 80vh !important;
+    }
+    .header-host{
+      padding: 15px 5px !important;
+    }
+    .nav-link li{
+    	font-size: 30px;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 14px !important;
+    }
+    .pop-line{
+          width: 25px !important;
+    }
+    .pop-slide-div{
+      height: 520px !important;
+      margin-top: 10px !important;
+
+    }
+    .shift-cra{
+      width: 300px !important;
+      height: 300px !important;
+      margin-left: -149.5px !important;
+      top: 45% !important;
+      margin-top: -130px !important;
+      background-size: contain !important;
+    }
+    .plus{
+      top: 44.4% !important;
+      left: 42.4% !important;
+      width: 55px !important;
+      height: 55px !important;
+    }
+       .pop-cra-plus{
+      top: 43.6% !important;
+      left: 46.8% !important;
+      width: 20px;
+      height: 20px !important;
+      font-size: 40px !important;
+      margin-left: unset !important;
+    }
+    .pop-cra-text-ontop{
+      margin-left: unset!important;
+      left: 5% !important;
+      top: 60.5% !important;
+      font-size: 40px !important;
+    }
+    .cra-btn{
+      left: 18.6% !important;
+      margin-left: unset!important;
+      top: 95% !important;
+      font-size: 6px !important;
+    }
+    .cra-div-btn-one{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      left: 5% !important;
+      top: 85% !important;
+      padding: 10px 15px 10px 15px !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .cra-div-btn-two{
+      letter-spacing: 1.5px !important;
+      font-weight: unset !important;
+      padding: 10px 15px 10px 15px !important;
+      left: unset !important;
+      right: 5% !important;
+      top: 85% !important;
+      margin-left: unset !important;
+      font-size: 12px !important;
+    }
+    .intro{
+      padding-top: 50px !important;
+      padding-bottom:  50px !important;
+    }
+    .intro-text-one{
+      font-size: 30px !important;
+    }
+    .intro-text-two{
+      font-size: 12pt !important;
+    }
+    .div-three-text-one{
+      font-size: 12em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:30px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+    }
+    .footer-li{
+      font-size: 30px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+      padding-left: 2.5em !important;
+    }
+    .hid-div-part-one{
+      width: 70% !important;
+    }
+    .hid-div-part-two{
+      width: 20% !important;
+    }
+    .nav-plus{
+    	left: 30%;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:5em !important;
+      margin-left: -10px !important;
+    }
+}
+@media (width: 384px) 
+  and (max-height: 640px){
+  	.prop-index-item{
+  		width: 100%;
+  		margin-left: unset;
+  	}
+  	.pop-cra-text-ontop{
+  	  margin-left: unset!important;
+  	  left: 5% !important;
+  	  top: 63% !important;
+  	  font-size: 45px !important;
+  	}
+  	.intro{
+  	  padding-top: 50px !important;
+  	  padding-bottom:  50px !important;
+  	}
+  	.intro-text-one{
+  	  font-size: 30px !important;
+  	}
+  	.intro-text-two{
+  	  font-size: 10pt !important;
+  	}
+  	.prop-index-cra-btn-two{
+  		top: unset;
+  		z-index: 50000;
+  		bottom: 10%;
+  		right: 3%;
+  		padding: 8px 12px !important;
+  	}
+  	.prop-index-cra-btn-one{
+  		top: unset;
+  		z-index: 50000;
+  		bottom: 10%;
+  		left: 3%;
+  		padding: 8px 12px !important;
+  	}
+  	.prop-index-cra-plus{
+  		width: 60px;
+  		height: 60px;
+  		top: 45%;
+  		left: 42%;
+  	}
+  	.index-intro{
+  		padding-top: 60px;
+  	}
+  	.pop-slide-btns .active {
+  	    width: 8px;
+  	    margin: 0 23px;
+  	    text-align: center;
+  	    align-items: center;
+  	    height: 8px;
+  	}
+  	.pop-slide-btns li{
+  		height: 5px;
+  		width: 5px;
+  		margin: 0 15px;
+  	}
+  	.pop-slide-btns{
+  		width: 100% !important;
+  		top: unset;
+  		bottom: 0;
+  		right: unset;
+  		left: unset;
+  	}	
+  	.prop-cra-divone{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divtwo{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divthree{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divfour{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.padded-txt {
+  		font-size: 14px;
+  	}
+  	.under-quote {
+  		height: 70vh !important;
+  	}
+  	.s-btn-tweet {
+  	    padding: 1.5rem 1.5rem;
+  	    margin-top: 5px !important;
+  	}
+  	.s-btn-face {
+  	    padding: 1.5rem 2rem;
+  	    margin-bottom: 5px !important;
+  	}
+  	.s-btns {
+  	    top: 15%;
+  	    position: sticky;
+  	    margin: 0 0 0 -11% !important;
+  	}
+  	.under-interact-text{
+  		margin: -10rem 2rem 0 6rem;
+  	}
+  	.under-interact{
+  		padding: 3% 1% 3% 1%;
+  	}
+  	.under-interact-text p {
+  		font-size: 14px;
+  	}
+  	.date{
+  		font-size: 10px !important;
+  	}
+  	.inside-interact h1 {
+  		font-size:30px !important;
+  		margin-top:20rem !important; 
+  	}
+  	.interact-banner {
+  	    height: 80vh;
+  	}
+  	.under-daily-img-four {
+  		height: 260px !important;
+  	}
+  	.under-daily-img-three {
+  		height: 260px !important;
+  	}
+  	.under-daily-img-two {
+  		height: 260px !important;
+  	}
+  	.under-daily-img-one {
+  		height: 260px !important;
+  	}
+  	.under-daily-img-text div {
+  		font-size: 13px !important;
+  	}
+  	.under-daily-img-text p {
+  		font-size: 14px !important;
+  	}
+  	.under-daily-img-text h1{
+  		font-size: 25px !important;
+  	}
+  	.under-daily-img-text {
+  	    padding: 10px 0 5px 0 !important;
+  	}
+  	.daily{
+  		padding-bottom:  unset !important; 
+  	}
+  	.daily div {
+  		width: 40% !important;
+  		margin-right: 30% !important;
+  		margin-left: 30% !important;
+  	}
+  	.daily p {
+  		font-size: 10pt !important;
+  	}
+  	.daily h1 {
+  		font-size: 3em !important;
+  	}
+  	.second-under-brand-content {
+  		margin: 10px 0 10px !important;
+  	}
+  	.second-under-brand-content h2 {
+  		font-size: 27pt !important;
+  	}
+  	.under-brand-content {
+  		margin: 10px 0 10px !important;
+  	}
+  	.under-brand-content h2 {
+  		font-size: 27pt !important;
+  	}
+  	.under-brand {
+  	    margin-left: 5px;
+  	    margin-right: 5px;
+  	}
+  	.inside-belowsecond-soluban {
+  	    margin: 0 5% 0 5% !important;
+  	}
+  	.inside-belowsecond-soluban h5 {
+  		font-size: 14px !important;
+  	}
+  	.belowsecond-solubanner h1 {
+  		font-size: 80px !important;
+  		padding-left: 15px !important;
+  	}
+  	/**second*/
+  	.fale-div h4 {
+  	    font-size: 22px !important;
+  	}
+  	.fale-div h1 {
+  	    font-size: 70px !important;
+  	}
+  	.inside-below-soluban {
+  	    top: 3% !important;
+  	    margin: 0 5% 0 5% !important;
+  	}
+  	.inside-below-soluban h5 {
+  		font-size: 13px !important;
+  	}
+  	.below-solubanner h1 {
+  		font-size: 70px !important;
+  	}
+  	.pop-scrool-txt {
+  	    right: 0 !important;
+  	}
+  	.solubanner{
+  		height: 80vh !important;
+  	}
+  	.pop-logo{
+  		width: 100px;
+  	}
+  	.teamcrabtns {
+  	    top: 5% !important;
+  	    right: 2% !important;
+  	}
+  	.teamcrabtns li {
+  	    width: 50px !important;
+  	    height: 50px !important;
+  	}
+  	.team-job {
+  	    top: 70%;
+  	    font-size: 22px;
+  	    left: 5%;
+  	}
+  	.team-border {
+  		padding-bottom: 0 !important;
+  	}
+  	.team-cont {
+  	    top: 38% !important;
+  	    left: 5% !important;
+  	}
+  	.team-name {
+  	    font-size: 50px !important;
+  	}
+  	.client-logo {
+  	    padding: 20px 0 !important;
+  	}
+  	.team-cra-divone{
+  		height: 490px !important;
+  	}
+  	.team-cra-divtwo{
+  		height: 490px !important;
+  	}
+  	.team-cra-divthree{
+  		height: 490px !important;
+  	}
+  	.team-cra-divfour{
+  		height: 490px !important;
+  	}
+  	.team-cra-divfive{
+  		height: 490px !important;
+  	}
+  	.team-cra-divsix{
+  		height: 490px !important;
+  	}
+  	.client-cra-div {
+  	    padding: 0 20px 30px !important;
+  	}
+  	.under-sobre {
+  	    height: 100vh !important;
+  	}
+  	.under-sobre-txt {
+  		font-size: 14px !important;
+  	}
+  	.under-sobre-txt {
+  	    margin-top: 65% !important;
+  	}
+  	.under-sobre-txt h1{
+  		font-size: 35px !important;
+  	}
+  	.sobre-div {
+  	    height: 130vh !important;
+  	}
+  	.sobre-div-img-two {
+  		height: 320px;
+  		bottom: -25%;
+  		right: 5%;
+  		width: 90%;
+  	}
+  	.sobre-div-img-one{
+  		height: 320px;
+  		bottom: 15%;
+  		left: 5%;
+  		width: 90%;
+  		z-index: 20000;
+  	}
+  	.sobre-div-txt p{
+  		font-size: 15px !important;
+  	}
+  	.empty-crabtns{
+  		bottom: 3% !important;
+  		left: 40% !important;
+  	}
+  	.empty-crabtns .active {
+  		width: 9px !important;
+  		height: 9px !important;
+  	}
+  	.empty-crabtns li {
+  		margin: 0 1.5em 0 1.5em !important;
+  	}
+  	.empty-cra-divone{
+  		height: 60vh !important;
+  		background-position: center;
+  	}
+  	.empty-cra-divtwo{
+  		height: 60vh !important;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divthree{
+  		height: 60vh !important;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divfour{
+  		height: 60vh !important;
+  	}
+  	.bannernew {
+  		height: 80vh;
+  	}
+  	.pop-client-p{
+  		font-size: 30px !important;
+  	}
+  	.pop-client-p-cont{
+  		top: 63% !important;
+  		left: 7% !important;
+  	}
+  	.pop-scrool-txt{
+  		right: 7% !important;
+  	}
+  	.pop-client-h{
+  		font-size: 40px !important;
+  		top: 20% !important;
+  		left: 7% !important;
+  	}
+
+  	.reduce-header{
+  		padding: 15px 15px !important;
+  	}
+  	.pop-beat-dre-icon {
+  	    top: 60% !important;
+  	    left: 5.5% !important;
+  	}
+  	.pop-beat-dre-p{
+  		left: 5% !important;
+  	}
+  	.pop-beat-dre-txt{
+  		left: 5% !important;
+  	}
+  	.divcrabtns {
+  		bottom: 20% !important;
+  		right: 5% !important;
+  	}
+  	
+  	.form-host form{
+  		margin:10% 10% 10% 10% !important;
+  	}
+  	.divfoot{
+		padding-bottom: 10rem;
+		padding-top: 10rem ;
+		margin-top: 5%;
+	}
+	.diveight {
+	    padding: 10% 0 0 0 !important;
+	}
+	.contact-header{
+		font-size: 8rem; 
+	}
+	.divfoot-part-two{
+		text-align: center;
+		margin-top: 5%;
+	}
+	.divfoot-part-one{
+		padding-left: 4em;
+	}
+  	.pop-scrool-txt{
+  		right: 2% !important;
+  		bottom: 10% !important;
+  	}
+  	.divfour {
+  	    height: 60vh !important;
+  	    background-position: left !important;
+  	    background-attachment: unset;
+  	   }
+  	.divfive {
+  	    height: 60vh !important;
+  	   }
+  	.divsix-col-5{
+  		height: 60vh !important;
+  	}
+  	.divsix-col-5 h6{
+  		padding-top: 50% !important;
+  	}
+  	.divsix-col-7{
+  		height: 60vh !important;
+  	}
+  	.divseven {
+  	    height: 60vh;
+  	}
+  	.divtwo h4 {
+  	    font-size: 26px !important;
+  	}
+  	.divthree-col-5{
+  		height: 60vh !important;
+  	}
+  	.divthree-col-5 h6{
+  		padding-top: 50% !important;
+  	}
+  	.run-banner{
+  		height: 80vh !important;
+  	}
+  	.pop-dre-txt{
+  		font-size: 50px !important;
+  	}
+    .header-host{
+      padding: 15px 5px !important;
+    }
+    .nav-link li{
+    	font-size: 30px;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 18px !important;
+    }
+    .pop-line{
+          width: 30px !important;
+    }
+    .pop-slide-div{
+      height: 520px !important;
+      margin-top: 10px !important;
+
+    }
+    .intro{
+      padding-top: 50px!important;
+      padding-bottom:  50px!important;
+    }
+    .intro-text-one{
+      font-size: 30pt !important;
+    }
+    .intro-text-two{
+      font-size: 12pt !important;
+    }
+    .div-three-text-one{
+      font-size: 12em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:30px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+    }
+    .footer-li{
+      font-size: 30px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+      padding-left: 2.5em !important;
+    }
+    .hid-div-part-one{
+      width: 70% !important;
+    }
+    .hid-div-part-two{
+      width: 20% !important;
+    }
+    .nav-plus{
+    	left: 30%;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:10em !important;
+      margin-left: -10px !important;
+    }
+}
+
+@media(width: 1024px) and (max-height: 768px){
+	.pop-cra-text-ontop{
+		top: 65% ;
+		left: 15%;
+		font-size: 65px;
+	}
+	.prop-index-item{
+		width: 60%;
+		margin-left: 20%;
+	}
+	.prop-index-cra-btn-two{
+		right: 10%;
+		padding: 18px 20px 18px 120px;
+	}
+	.prop-index-cra-btn-one{
+		left: 10%;
+		padding: 18px 90px 20px 20px;
+	}
+	.prop-index-cra-plus{
+		width: 60px;
+		height: 60px;
+		top: 45%;
+		left: 46.3%;
+	}
+	.index-intro{
+		padding-top: 60px;
+	}
+	.pop-slide-btns .active {
+	    width: 8px;
+	    margin: 0 20px;
+	    text-align: center;
+	    align-items: center;
+	    height: 8px;
+	}
+	.pop-slide-btns li{
+		height: 5px;
+		width: 5px;
+		margin: 0 13px;
+	}
+	.pop-slide-btns{
+		right: 0;
+	}	
+	.second-under-brand-content h2 {
+		font-size: 30pt !important;
+	}
+	.under-brand-content h2 {
+		font-size: 30pt !important;
+	}
+	.belowsecond-solubanner h1 {
+		font-size: 165pt !important;
+	}
+	.below-solubanner {
+		height: 500px !important;
+	}
+	.inside-below-soluban {
+		top: 18% !important;
+	}
+
+	.below-solubanner h1 {
+		font-size: 165pt !important;
+	}
+	.solubanner {
+		height: 90vh !important;
+	}
+	.minus-div-foot{
+		padding: unset !important;
+	}
+	.team-cont {
+	    top: 32% !important;
+	}
+	.team-cra-divsix {
+		height: 90vh !important;
+	}
+	.team-cra-divfive {
+		height: 90vh !important;
+	}
+	.team-cra-divfour {
+		height: 90vh !important;
+	}
+	.team-cra-divthree {
+		height: 90vh !important;	
+	}
+	.team-cra-divtwo {
+		height: 90vh !important;
+	}
+	.team-cra-divone {
+		height: 90vh !important;
+	}
+	.client-logo {
+	    padding: 50px 0 !important;
+	}
+	.under-sobre {
+	    height: 82vh;
+	}
+	.sobre-div-img-two {
+		height: 400px !important;
+	}
+	.sobre-div-img-one {
+		height: 400px !important;
+	}
+	.sobre-div {
+	    height: 80vh;
+	}
+	.empty-crabtns{
+		left: 43.5% !important;
+	}
+	.empty-cra-divfour {
+		height: 60vh !important;
+	}
+	.empty-cra-divthree {
+		height: 60vh !important;
+	}
+	.empty-cra-divtwo {
+		height: 60vh !important;
+	}
+	.empty-cra-divone {
+		height: 60vh !important;
+	}
+	.bannernew {
+		height: 85vh !important;
+	}
+	.diveight {
+	    padding: 10% 0 0 0 !important;
+	}
+	.divseven {
+	    height: 60vh !important;
+	}
+	.divsix-col-5 h6 {
+		padding-top: 50% !important;
+	}
+	.divsix-col-5{
+		height: 60vh !important;
+	}
+	.divsix-col-7 {
+		height: 60vh !important;
+	}
+	.divfive {
+	    height: 60vh !important;
+	}
+	.divfour {
+	    height: 65vh !important;
+	}
+	.run-banner{
+		height: 80vh !important;
+	}
+	.divthree-col-5 h6 {
+		padding-top: 50% !important;
+	}
+	.divthree-col-5{
+		height: 60vh !important;
+	}
+	.divthree-col-7 {
+		height: 60vh !important;
+	}
+}
+@media (width: 412px) 
+  and (max-height: 732px){
+  	.prop-index-item{
+  		width: 100%;
+  		margin-left: unset;
+  	}
+  	.pop-cra-text-ontop{
+  	  margin-left: unset!important;
+  	  left: 5% !important;
+  	  top: 63% !important;
+  	  font-size: 43px !important;
+  	}
+  	.intro{
+  	  padding-top:60px !important;
+  	  padding-bottom:  60px !important;
+  	}
+  	.intro-text-one{
+  	  font-size: 30px !important;
+  	}
+  	.intro-text-two{
+  	  font-size: 10pt !important;
+  	}
+  	.prop-index-cra-btn-two{
+  		top: unset;
+  		z-index: 50000;
+  		bottom: 10%;
+  		right: 3%;
+  		padding: 8px 12px !important;
+  	}
+  	.prop-index-cra-btn-one{
+  		top: unset;
+  		z-index: 50000;
+  		bottom: 10%;
+  		left: 3%;
+  		padding: 8px 12px !important;
+  	}
+  	.prop-index-cra-plus{
+  		width: 55px;
+  		height: 55px;
+  		top: 45%;
+  		left: 43%;
+  	}
+  	.index-intro{
+  		padding-top: 60px;
+  	}
+  	.pop-slide-btns .active {
+  	    width: 8px;
+  	    margin: 0 23px;
+  	    text-align: center;
+  	    align-items: center;
+  	    height: 8px;
+  	}
+  	.pop-slide-btns li{
+  		height: 5px;
+  		width: 5px;
+  		margin: 0 15px;
+  	}
+  	.pop-slide-btns{
+  		width: 100% !important;
+  		top: unset;
+  		bottom: 0;
+  		right: unset;
+  		left: unset;
+  	}	
+  	.prop-cra-divone{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divtwo{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divthree{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divfour{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.padded-txt {
+  		font-size: 14px;
+  	}
+  	.under-quote {
+  		height: 70vh !important;
+  	}
+  	.s-btn-tweet {
+  	    padding: 1.5rem 1.5rem;
+  	    margin-top: 5px !important;
+  	}
+  	.s-btn-face {
+  	    padding: 1.5rem 2rem;
+  	    margin-bottom: 5px !important;
+  	}
+  	.s-btns {
+  	    top: 15%;
+  	    position: sticky;
+  	    margin: 0 0 0 -11% !important;
+  	}
+  	.under-interact-text{
+  		margin: -10rem 2rem 0 6rem;
+  	}
+  	.under-interact{
+  		padding: 3% 1% 3% 1%;
+  	}
+  	.under-interact-text p {
+  		font-size: 14px;
+  	}
+  	.date{
+  		font-size: 10px !important;
+  	}
+  	.inside-interact h1 {
+  		font-size:30px !important;
+  		margin-top:20rem !important; 
+  	}
+  	.interact-banner {
+  	    height: 80vh;
+  	}
+  	.under-daily-img-four {
+  		height: 350px !important;
+  	}
+  	.under-daily-img-three {
+  		height: 350px !important;
+  	}
+  	.under-daily-img-two {
+  		height: 350px !important;
+  	}
+  	.under-daily-img-one {
+  		height: 350px !important;
+  	}
+  	.under-daily-img-text div {
+  		font-size: 13px !important;
+  	}
+  	.under-daily-img-text p {
+  		font-size: 16px !important;
+  	}
+  	.under-daily-img-text h1{
+  		font-size: 30px !important;
+  	}
+  	.under-daily-img-text {
+  	    padding: 10px 0 5px 0 !important;
+  	}
+  	.daily{
+  		padding-bottom:  unset !important; 
+  	}
+  	.daily div {
+  		width: 40% !important;
+  		margin-right: 30% !important;
+  		margin-left: 30% !important;
+  	}
+  	.daily p {
+  		font-size: 13pt !important;
+  	}
+  	.daily h1 {
+  		font-size: 4em !important;
+  	}
+  	.second-under-brand-content {
+  		margin: 10px 0 10px !important;
+  	}
+  	.second-under-brand-content h2 {
+  		font-size: 27pt !important;
+  	}
+  	.under-brand-content {
+  		margin: 10px 0 10px !important;
+  	}
+  	.under-brand-content h2 {
+  		font-size: 27pt !important;
+  	}
+  	.under-brand {
+  	    margin-left: 5px;
+  	    margin-right: 5px;
+  	}
+  	.inside-belowsecond-soluban {
+  	    margin: 0 5% 0 5% !important;
+  	}
+  	.inside-belowsecond-soluban h5 {
+  		font-size: 15px !important;
+  	}
+  	.belowsecond-solubanner h1 {
+  		font-size: 80px !important;
+  		padding-left: 15px !important;
+  	}
+  	/**second*/
+  	.fale-div h4 {
+  	    font-size: 22px !important;
+  	}
+  	.fale-div h1 {
+  	    font-size: 80px !important;
+  	}
+  	.inside-below-soluban {
+  	    top: 4.8% !important;
+  	    margin: 0 5% 0 5% !important;
+  	}
+  	.inside-below-soluban h5 {
+  		font-size: 14px !important;
+  	}
+  	.below-solubanner h1 {
+  		font-size: 80px !important;
+  	}
+  	.pop-scrool-txt {
+  	    right: 0 !important;
+  	}
+  	.solubanner{
+  		height: 80vh !important;
+  	}
+  	.teamcrabtns {
+  	    top: 5% !important;
+  	    right: 2% !important;
+  	}
+  	.teamcrabtns li {
+  	    width: 50px !important;
+  	    height: 50px !important;
+  	}
+  	.team-job {
+  	    top: 70%;
+  	    font-size: 22px;
+  	    left: 5%;
+  	}
+  	.team-border {
+  		padding-bottom: 0 !important;
+  	}
+  	.team-cont {
+  	    top: 38% !important;
+  	    left: 5% !important;
+  	}
+  	.team-name {
+  	    font-size: 50px !important;
+  	}
+  	.client-logo {
+  	    padding: 20px 0 !important;
+  	}
+  	.team-cra-divone{
+  		height: 500px !important;
+  	}
+  	.team-cra-divtwo{
+  		height: 500px !important;
+  	}
+  	.team-cra-divthree{
+  		height: 500px !important;
+  	}
+  	.team-cra-divfour{
+  		height: 500px !important;
+  	}
+  	.team-cra-divfive{
+  		height: 500px !important;
+  	}
+  	.team-cra-divsix{
+  		height: 500px !important;
+  	}
+  	.client-cra-div {
+  	    padding: 0 20px 30px !important;
+  	}
+  	.under-sobre {
+  	    height: 85vh !important;
+  	}
+  	.under-sobre-txt {
+  		font-size: 14px !important;
+  	}
+  	.under-sobre-txt {
+  	    margin-top: 60% !important;
+  	}
+  	.under-sobre-txt h1{
+  		font-size: 35px !important;
+  	}
+  	.sobre-div {
+  	    height: 130vh !important;
+  	}
+  	.sobre-div-img-two {
+  		height: 350px;
+  		bottom: 20%;
+  		right: 5%;
+  		width: 90%;
+  	}
+  	.sobre-div-img-one{
+  		height: 350px;
+  		bottom: -20%;
+  		left: 5%;
+  		width: 90%;
+  		z-index: 20000;
+  	}
+  	.sobre-div-txt p{
+  		font-size: 15px !important;
+  	}
+  	.empty-crabtns{
+  		bottom: 3% !important;
+  		left: 40% !important;
+  	}
+  	.empty-crabtns .active {
+  		width: 9px !important;
+  		height: 9px !important;
+  	}
+  	.empty-crabtns li {
+  		margin: 0 1.5em 0 1.5em !important;
+  	}
+  	.empty-cra-divone{
+  		height: 60vh !important;
+  		background-position: center;
+  	}
+  	.empty-cra-divtwo{
+  		height: 60vh !important;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divthree{
+  		height: 60vh !important;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divfour{
+  		height: 60vh !important;
+  	}
+  	.bannernew {
+  		height: 80vh;
+  	}
+  	.pop-client-p{
+  		font-size: 30px !important;
+  	}
+  	.pop-client-p-cont{
+  		top: 63% !important;
+  		left: 7% !important;
+  	}
+  	.pop-scrool-txt{
+  		right: 7% !important;
+  	}
+  	.pop-client-h{
+  		font-size: 40px !important;
+  		top: 25% !important;
+  		left: 7% !important;
+  	}
+
+  	.reduce-header{
+  		padding: 15px 15px !important;
+  	}
+  	.pop-beat-dre-icon {
+  	    top: 60% !important;
+  	    left: 5.5% !important;
+  	}
+  	.pop-beat-dre-p{
+  		left: 5% !important;
+  	}
+  	.pop-beat-dre-txt{
+  		left: 5% !important;
+  	}
+  	.divcrabtns {
+  		bottom: 20% !important;
+  		right: 5% !important;
+  	}
+  	.navbar-header {
+  		margin-top: 10px !important;
+  	}
+  	.form-host form{
+  		margin:10% 10% 10% 10% !important;
+  	}
+  	.divfoot{
+		padding-bottom: 10rem;
+		padding-top: 10rem ;
+		margin-top: 5%;
+	}
+	.diveight {
+	    padding: 10% 0 0 0 !important;
+	}
+	.contact-header{
+		font-size: 8rem; 
+	}
+	.divfoot-part-two{
+		text-align: center;
+		margin-top: 5%;
+	}
+	.divfoot-part-one{
+		padding-left: 4em;
+	}
+  	.pop-scrool-txt{
+  		right: 2% !important;
+  		bottom: 10% !important;
+  	}
+  	.divfour {
+  	    height: 60vh !important;
+  	    background-position: left !important;
+  	    background-attachment: unset;
+  	   }
+  	.divfive {
+  	    height: 60vh !important;
+  	   }
+  	.divsix-col-5{
+  		height: 60vh !important;
+  	}
+  	.divsix-col-5 h6{
+  		padding-top: 50% !important;
+  	}
+  	.divsix-col-7{
+  		height: 60vh !important;
+  	}
+  	.divseven {
+  	    height: 60vh;
+  	}
+  	.divtwo h4 {
+  	    font-size: 26px !important;
+  	}
+  	.divthree-col-5{
+  		height: 60vh !important;
+  	}
+  	.divthree-col-5 h6{
+  		padding-top: 50% !important;
+  	}
+  	.run-banner{
+  		height: 80vh !important;
+  	}
+  	.pop-dre-txt{
+  		font-size: 50px !important;
+  	}
+    .header-host{
+      padding: 15px 5px !important;
+    }
+    .nav-link li{
+    	font-size: 30px;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 18px !important;
+    }
+    .pop-line{
+          width: 30px !important;
+    }
+    .pop-slide-div{
+      height: 520px !important;
+      margin-top: 10px !important;
+
+    }
+    .intro-text-one{
+      font-size: 30pt !important;
+    }
+    .intro-text-two{
+      font-size: 12pt !important;
+    }
+    .div-three-text-one{
+      font-size: 12em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:30px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+    }
+    .footer-li{
+      font-size: 30px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+      padding-left: 2.5em !important;
+    }
+    .hid-div-part-one{
+      width: 70% !important;
+    }
+    .hid-div-part-two{
+      width: 20% !important;
+    }
+    .nav-plus{
+    	left: 30%;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:10em !important;
+      margin-left: -10px !important;
+    }
+}
+@media (width: 414px) 
+  and (max-height: 736px){
+  	.prop-index-item{
+  		width: 100%;
+  		margin-left: unset;
+  	}
+  	.pop-cra-text-ontop{
+  	  margin-left: unset!important;
+  	  left: 5% !important;
+  	  top: 63% !important;
+  	  font-size: 43px !important;
+  	}
+  	.intro{
+  	  padding-top: 60px !important;
+  	  padding-bottom:  60px !important;
+  	}
+  	.intro-text-one{
+  	  font-size: 30px !important;
+  	}
+  	.intro-text-two{
+  	  font-size: 10pt !important;
+  	}
+  	.prop-index-cra-btn-two{
+  		top: unset;
+  		z-index: 50000;
+  		bottom: 10%;
+  		right: 3%;
+  		padding: 8px 12px !important;
+  	}
+  	.prop-index-cra-btn-one{
+  		top: unset;
+  		z-index: 50000;
+  		bottom: 10%;
+  		left: 3%;
+  		padding: 8px 12px !important;
+  	}
+  	.prop-index-cra-plus{
+  		width: 55px;
+  		height: 55px;
+  		top: 45%;
+  		left: 43.5%;
+  	}
+  	.index-intro{
+  		padding-top: 60px;
+  	}
+  	.pop-slide-btns .active {
+  	    width: 8px;
+  	    margin: 0 23px;
+  	    text-align: center;
+  	    align-items: center;
+  	    height: 8px;
+  	}
+  	.pop-slide-btns li{
+  		height: 5px;
+  		width: 5px;
+  		margin: 0 15px;
+  	}
+  	.pop-slide-btns{
+  		width: 100% !important;
+  		top: unset;
+  		bottom: 0;
+  		right: unset;
+  		left: unset;
+  	}	
+  	.prop-cra-divone{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divtwo{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divthree{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divfour{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.padded-txt {
+  	  	font-size: 14px;
+  	 }
+  	.under-quote {
+  		height: 70vh !important;
+  	}
+  	.s-btn-tweet {
+  	    padding: 1.5rem 1.5rem;
+  	    margin-top: 5px !important;
+  	}
+  	.s-btn-face {
+  	    padding: 1.5rem 2rem;
+  	    margin-bottom: 5px !important;
+  	}
+  	.s-btns {
+  	    top: 15%;
+  	    position: sticky;
+  	    margin: 0 0 0 -11% !important;
+  	}
+  	.under-interact-text{
+  		margin: -10rem 2rem 0 6rem;
+  	}
+  	.under-interact{
+  		padding: 3% 1% 3% 1%;
+  	}
+  	.under-interact-text p {
+  		font-size: 14px;
+  	}
+  	.date{
+  		font-size: 10px !important;
+  	}
+  	.inside-interact h1 {
+  		font-size:30px !important;
+  		margin-top:20rem !important; 
+  	}
+  	.interact-banner {
+  	    height: 80vh;
+  	}
+  	.under-daily-img-four {
+  		height: 350px !important;
+  	}
+  	.under-daily-img-three {
+  		height: 350px !important;
+  	}
+  	.under-daily-img-two {
+  		height: 350px !important;
+  	}
+  	.under-daily-img-one {
+  		height: 350px !important;
+  	}
+  	  	.under-daily-img-text div {
+  		font-size: 13px !important;
+  	}
+  	.under-daily-img-text p {
+  		font-size: 16px !important;
+  	}
+  	.under-daily-img-text h1{
+  		font-size: 30px !important;
+  	}
+  	.under-daily-img-text {
+  	    padding: 10px 0 5px 0 !important;
+  	}
+  	.daily{
+  		padding-bottom:  unset !important; 
+  	}
+  	.daily div {
+  		width: 40% !important;
+  		margin-right: 30% !important;
+  		margin-left: 30% !important;
+  	}
+  	.daily p {
+  		font-size: 13pt !important;
+  	}
+  	.daily h1 {
+  		font-size: 4em !important;
+  	}
+  	.second-under-brand-content {
+  		margin: 10px 0 10px !important;
+  	}
+  	.second-under-brand-content h2 {
+  		font-size: 27pt !important;
+  	}
+  	.under-brand-content {
+  		margin: 10px 0 10px !important;
+  	}
+  	.under-brand-content h2 {
+  		font-size: 27pt !important;
+  	}
+  	.under-brand {
+  	    margin-left: 5px;
+  	    margin-right: 5px;
+  	}
+  	.inside-belowsecond-soluban {
+  	    margin: 0 5% 0 5% !important;
+  	}
+  	.inside-belowsecond-soluban h5 {
+  		font-size: 15px !important;
+  	}
+  	.belowsecond-solubanner h1 {
+  		font-size: 80px !important;
+  		padding-left: 16px !important;
+  	}
+  	/**second*/
+  	.fale-div h4 {
+  	    font-size: 22px !important;
+  	}
+  	.fale-div h1 {
+  	    font-size: 80px !important;
+  	}
+  	.inside-below-soluban {
+  	    top: 4.3% !important;
+  	    margin: 0 5% 0 5% !important;
+  	}
+  	.inside-below-soluban h5 {
+  		font-size: 16px !important;
+  	}
+  	.below-solubanner h1 {
+  		font-size: 80px !important;
+  	}
+  	.pop-scrool-txt {
+  	    right: 0 !important;
+  	}
+  	.solubanner{
+  		height: 80vh !important;
+  	}
+  	.minus-div-foot{
+  		padding: 0 25% !important;
+  	}
+  	.teamcrabtns {
+  	    top: 5% !important;
+  	    right: 2% !important;
+  	}
+  	.teamcrabtns li {
+  	    width: 50px !important;
+  	    height: 50px !important;
+  	}
+  	.team-job {
+  	    top: 70%;
+  	    font-size: 22px;
+  	    left: 5%;
+  	}
+  	.team-border {
+  		padding-bottom: 0 !important;
+  	}
+  	.team-cont {
+  	    top: 38% !important;
+  	    left: 5% !important;
+  	}
+  	.team-name {
+  	    font-size: 50px !important;
+  	}
+  	.client-logo {
+  	    padding: 20px 0 !important;
+  	}
+  	.team-cra-divone{
+  		height: 500px !important;
+  	}
+  	.team-cra-divtwo{
+  		height: 500px !important;
+  	}
+  	.team-cra-divthree{
+  		height: 500px !important;
+  	}
+  	.team-cra-divfour{
+  		height: 500px !important;
+  	}
+  	.team-cra-divfive{
+  		height: 500px !important;
+  	}
+  	.team-cra-divsix{
+  		height: 500px !important;
+  	}
+  	.client-cra-div {
+  	    padding: 0 20px 30px !important;
+  	}
+  	.under-sobre {
+  	    height: 85vh !important;
+  	}
+  	.under-sobre-txt {
+  		font-size: 14px !important;
+  	}
+  	.under-sobre-txt {
+  	    margin-top: 60% !important;
+  	}
+  	.under-sobre-txt h1{
+  		font-size: 35px !important;
+  	}
+  	.sobre-div {
+  	    height: 130vh !important;
+  	}
+  	.sobre-div-img-two {
+  		height: 350px;
+  		bottom: 20%;
+  		right: 5%;
+  		width: 90%;
+  	}
+  	.sobre-div-img-one{
+  		height: 350px;
+  		bottom: -20%;
+  		left: 5%;
+  		width: 90%;
+  		z-index: 20000;
+  	}
+  	.sobre-div-txt p{
+  		font-size: 15px !important;
+  	}
+  	.empty-crabtns{
+  		bottom: 3% !important;
+  		left: 40% !important;
+  	}
+  	.empty-crabtns .active {
+  		width: 9px !important;
+  		height: 9px !important;
+  	}
+  	.empty-crabtns li {
+  		margin: 0 1.5em 0 1.5em !important;
+  	}
+  	.empty-cra-divone{
+  		height: 60vh !important;
+  		background-position: center;
+  	}
+  	.empty-cra-divtwo{
+  		height: 60vh !important;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divthree{
+  		height: 60vh !important;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divfour{
+  		height: 60vh !important;
+  	}
+  	.bannernew {
+  		height: 80vh;
+  	}
+  	.pop-client-p{
+  		font-size: 30px !important;
+  	}
+  	.pop-client-p-cont{
+  		top: 63% !important;
+  		left: 7% !important;
+  	}
+  	.pop-scrool-txt{
+  		right: 7% !important;
+  	}
+  	.pop-client-h{
+  		font-size: 40px !important;
+  		top: 25% !important;
+  		left: 7% !important;
+  	}
+  	.reduce-header{
+  		padding: 15px 15px !important;
+  	}
+  	.pop-beat-dre-icon {
+  	    top: 65% !important;
+  	    left: 5.5% !important;
+  	}
+  	.pop-beat-dre-p{
+  		left: 5% !important;
+  	}
+  	.pop-beat-dre-txt{
+  		left: 5% !important;
+  	}
+  	.divcrabtns {
+  		bottom: 15% !important;
+  		right: 5% !important;
+  	}
+  	.diveight {
+    padding: 10% 0 0 0 !important;
+	}
+  	.navbar-header {
+  		margin-top: 10px !important;
+  	}
+  	.form-host form{
+  		margin:10% 10% 10% 10% !important;
+  	}
+  	.divfoot{
+		padding-bottom: 10rem;
+		padding-top: 10rem ;
+		margin-top: 5%;
+	}
+	.contact-header{
+		font-size: 8rem; 
+	}
+	.divfoot-part-two{
+		text-align: center;
+		margin-top: 5%;
+	}
+	.divfoot-part-one{
+		padding-left: 4em;
+	}
+  	.pop-scrool-txt{
+  		right: 2% !important;
+  		bottom: 10% !important;
+  	}
+  	.divfour {
+  	    height: 70vh !important;
+  	    background-position: left !important;
+  	    background-attachment: unset;
+  	   }
+  	.divfive {
+  	    height: 80vh !important;
+  	   }
+  	.divsix-col-5{
+  		height: 80vh !important;
+  	}
+  	.divsix-col-5 h6{
+  		padding-top: 50% !important;
+  	}
+  	.divsix-col-7{
+  		height: 80vh !important;
+  	}
+  	.divseven {
+  	    height: 80vh;
+  	}
+  	.divtwo h4 {
+  	    font-size: 26px !important;
+  	}
+  	.divthree-col-5{
+  		height: 80vh !important;
+  	}
+  	.divthree-col-5 h6{
+  		padding-top: 50% !important;
+  	}
+  	.run-banner{
+  		height: 80vh !important;
+  	}
+  	.pop-dre-txt{
+  		font-size: 50px !important;
+  	}
+    .header-host{
+      padding: 15px 5px !important;
+    }
+    .nav-link li{
+    	font-size: 30px;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 18px !important;
+    }
+    .pop-line{
+          width: 30px !important;
+    }
+
+    .intro-text-one{
+      font-size: 30pt !important;
+    }
+    .intro-text-two{
+      font-size: 12pt !important;
+    }
+    .div-three-text-one{
+      font-size: 12em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:30px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+    }
+    .footer-li{
+      font-size: 30px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+      padding-left: 2.5em !important;
+    }
+    .hid-div-part-one{
+      width: 70% !important;
+    }
+    .hid-div-part-two{
+      width: 20% !important;
+    }
+    .nav-plus{
+    	left: 30%;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:10em !important;
+      margin-left: -10px !important;
+    }
+}
+@media (width: 375px) 
+  and (min-height: 667px){
+  	.prop-index-item{
+  		width: 100%;
+  		margin-left: unset;
+  	}
+  	.pop-cra-text-ontop{
+  	  margin-left: unset!important;
+  	  left: 5% !important;
+  	  top: 63% !important;
+  	  font-size: 43px !important;
+  	}
+  	.intro{
+  	  padding-top: 50px !important;
+  	  padding-bottom:  50px !important;
+  	}
+  	.intro-text-one{
+  	  font-size: 30px !important;
+  	}
+  	.intro-text-two{
+  	  font-size: 10pt !important;
+  	}
+  	.prop-index-cra-btn-two{
+  		top: unset;
+  		z-index: 50000;
+  		bottom: 10%;
+  		right: 3%;
+  		padding: 8px 12px !important;
+  	}
+  	.prop-index-cra-btn-one{
+  		top: unset;
+  		z-index: 50000;
+  		bottom: 10%;
+  		left: 3%;
+  		padding: 8px 12px !important;
+  	}
+  	.prop-index-cra-plus{
+  		width: 55px;
+  		height: 55px;
+  		top: 45%;
+  		left: 42%;
+  	}
+  	.index-intro{
+  		padding-top: 60px;
+  	}
+  	.pop-slide-btns .active {
+  	    width: 8px;
+  	    margin: 0 23px;
+  	    text-align: center;
+  	    align-items: center;
+  	    height: 8px;
+  	}
+  	.pop-slide-btns li{
+  		height: 5px;
+  		width: 5px;
+  		margin: 0 15px;
+  	}
+  	.pop-slide-btns{
+  		width: 100% !important;
+  		top: unset;
+  		bottom: 0;
+  		right: unset;
+  		left: unset;
+  	}	
+  	.prop-cra-divone{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divtwo{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divthree{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divfour{
+  		height: 500px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.padded-txt {
+  		font-size: 14px;
+  	}
+  	.under-quote {
+  		height: 70vh !important;
+  	}
+  	.s-btn-tweet {
+  	    padding: 1.5rem 1.5rem;
+  	    margin-top: 5px !important;
+  	}
+  	.s-btn-face {
+  	    padding: 1.5rem 2rem;
+  	    margin-bottom: 5px !important;
+  	}
+  	.s-btns {
+  	    top: 15%;
+  	    position: sticky;
+  	    margin: 0 0 0 -11% !important;
+  	}
+  	.under-interact-text{
+  		margin: -10rem 2rem 0 6rem;
+  	}
+  	.under-interact{
+  		padding: 3% 1% 3% 1%;
+  	}
+  	.under-interact-text p {
+  		font-size: 14px;
+  	}
+  	.date{
+  		font-size: 10px !important;
+  	}
+  	.inside-interact h1 {
+  		font-size:30px !important;
+  		margin-top:20rem !important; 
+  	}
+  	.interact-banner {
+  	    height: 80vh;
+  	}
+  	.under-daily-img-four {
+  		height: 300px !important;
+  	}
+  	.under-daily-img-three {
+  		height: 300px !important;
+  	}
+  	.under-daily-img-two {
+  		height: 300px !important;
+  	}
+  	.under-daily-img-one {
+  		height: 300px !important;
+  	}
+  	.under-daily-img-text div {
+  		font-size: 13px !important;
+  	}
+  	.under-daily-img-text p {
+  		font-size: 16px !important;
+  	}
+  	.under-daily-img-text h1{
+  		font-size: 30px !important;
+  	}
+  	.under-daily-img-text {
+  	    padding: 10px 0 5px 0 !important;
+  	}
+  	.daily{
+  		padding-bottom:  unset !important; 
+  	}
+  	.daily div {
+  		width: 40% !important;
+  		margin-right: 30% !important;
+  		margin-left: 30% !important;
+  	}
+  	.daily p {
+  		font-size: 12pt !important;
+  	}
+  	.daily h1 {
+  		font-size: 3.5em !important;
+  	}
+  	.second-under-brand-content {
+  		margin: 10px 0 10px !important;
+  	}
+  	.second-under-brand-content h2 {
+  		font-size: 27pt !important;
+  	}
+  	.under-brand-content {
+  		margin: 10px 0 10px !important;
+  	}
+  	.under-brand-content h2 {
+  		font-size: 27pt !important;
+  	}
+  	.under-brand {
+  	    margin-left: 5px;
+  	    margin-right: 5px;
+  	}
+  	.inside-belowsecond-soluban {
+  	    margin: 0 5% 0 5% !important;
+  	}
+  	.inside-belowsecond-soluban h5 {
+  		font-size: 14px !important;
+  	}
+  	.belowsecond-solubanner h1 {
+  		font-size: 80px !important;
+  		padding-left: 15px !important;
+  	}
+  	/**second*/
+  	.fale-div h4 {
+  	    font-size: 22px !important;
+  	}
+  	.fale-div h1 {
+  	    font-size: 80px !important;
+  	}
+  	.inside-below-soluban {
+  	    top: 3.8% !important;
+  	    margin: 0 5% 0 5% !important;
+  	}
+  	.inside-below-soluban h5 {
+  		font-size: 13px !important;
+  	}
+  	.below-solubanner h1 {
+  		font-size: 80px !important;
+  	}
+  	.pop-scrool-txt {
+  	    right: 0 !important;
+  	}
+  	.solubanner{
+  		height: 80vh !important;
+  	}
+  	.teamcrabtns {
+  	    top: 5% !important;
+  	    right: 2% !important;
+  	}
+  	.teamcrabtns li {
+  	    width: 50px !important;
+  	    height: 50px !important;
+  	}
+  	.team-job {
+  	    top: 65%;
+  	    font-size: 18px;
+  	    left: 5%;
+  	}
+  	.team-border {
+  		padding-bottom: 0 !important;
+  	}
+  	.team-cont {
+  	    top: 38% !important;
+  	    left: 5% !important;
+  	}
+  	.team-name {
+  	    font-size: 40px !important;
+  	}
+  	.client-logo {
+  	    padding: 20px 0 !important;
+  	}
+  	.team-cra-divone{
+  		height: 500px !important;
+  	}
+  	.team-cra-divtwo{
+  		height: 500px !important;
+  	}
+  	.team-cra-divthree{
+  		height: 500px !important;
+  	}
+  	.team-cra-divfour{
+  		height: 500px !important;
+  	}
+  	.team-cra-divfive{
+  		height: 500px !important;
+  	}
+  	.team-cra-divsix{
+  		height: 500px !important;
+  	}
+  	.client-cra-div {
+  	    padding: 0 20px 30px !important;
+  	}
+  	.under-sobre {
+  	    height: 100vh !important;
+  	}
+  	.under-sobre-txt {
+  		font-size: 14px !important;
+  	}
+  	.under-sobre-txt {
+  	    margin-top: 60% !important;
+  	}
+  	.under-sobre-txt h1{
+  		font-size: 35px !important;
+  	}
+  	.sobre-div {
+  	    height: 130vh !important;
+  	}
+  	.sobre-div-img-two {
+  		height: 300px;
+  		bottom: 20%;
+  		right: 5%;
+  		width: 90%;
+  	}
+  	.sobre-div-img-one{
+  		height: 300px;
+  		bottom: -20%;
+  		left: 5%;
+  		width: 90%;
+  		z-index: 20000;
+  	}
+  	.sobre-div-txt p{
+  		font-size: 15px !important;
+  	}
+  	.empty-crabtns{
+  		bottom: 3% !important;
+  		left: 43% !important;
+  	}
+  	.empty-crabtns .active {
+  		width: 8px !important;
+  		height: 8px !important;
+  	}
+  	.empty-crabtns li {
+  		margin: 0 1em 0 1em !important;
+  	}
+  	.empty-cra-divone{
+  		height: 60vh !important;
+  		background-position: center;
+  	}
+  	.empty-cra-divtwo{
+  		height: 60vh !important;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divthree{
+  		height: 60vh !important;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divfour{
+  		height: 60vh !important;
+  	}
+  	.bannernew {
+  		height: 80vh;
+  	}
+  	.pop-client-p{
+  		font-size: 25px !important;
+  	}
+  	.pop-client-p-cont{
+  		top: 60% !important;
+  		left: 7% !important;
+  	}
+  	.pop-scrool-txt{
+  		right: 7% !important;
+  	}
+  	.pop-client-h{
+  		font-size: 35px !important;
+  		top: 25% !important;
+  		left: 7% !important;
+  	}
+  	.scrooldivone {
+  		height: 80vh !important;
+  	}
+  	.scrooldivtwo {
+  		height: 80vh !important;
+  	}
+  	.scrooldivthree {
+  		height: 80vh !important;
+  	}
+  	.scrooldivfour {
+  		height: 80vh !important;
+  	}
+  	.reduce-header{
+  		padding: 15px 15px !important;
+  	}
+  	.pop-beat-dre-icon {
+  	    top: 65% !important;
+  	    left: 5.5% !important;
+  	}
+  	.pop-beat-dre-p{
+  		left: 5% !important;
+  	}
+  	.pop-beat-dre-txt{
+  		left: 5% !important;
+  	}
+  	.divcrabtns {
+  		bottom: 15% !important;
+  		right: 5% !important;
+  	}
+    .diveight {
+    	padding: 10% 0 0 0;
+	}
+    .divfour {
+	    height: 70vh !important;
+	    background-position: left !important;
+	    background-attachment: unset;
+	   }
+	.divfive {
+	    height: 80vh !important;
+	   }
+	.divsix-col-5{
+		height: 80vh !important;
+	}
+	.divsix-col-5 h6{
+		padding-top: 50% !important;
+	}
+	.divsix-col-7{
+		height: 80vh !important;
+	}
+	.divseven {
+	    height: 80vh;
+	}
+	.divtwo h4 {
+	    font-size: 30px !important;
+	}
+	.divthree-col-5{
+		height: 80vh !important;
+	}
+	.divthree-col-5 h6{
+		padding-top: 50% !important;
+	}
+	.run-banner{
+		height: 80vh !important;
+	}
+	.pop-dre-txt{
+		font-size: 40px !important;
+		bottom: 35% !important;
+	}
+	.pop-scrool-txt {
+		right: 3% !important;
+	}
+	.contact-header{
+		font-size: 5rem !important; 
+	    margin-top: 5rem !important;
+	    margin-bottom: 3rem !important;
+	}
+	.divfoot-part-one{
+		margin: unset !important;
+	}
+
+	form{
+		margin:  5% 10% 5% 10% !important;
+	}
+	.enviar-btn{
+ 		padding: 10px 25px !important;
+ 		margin-top: 4rem !important;
+ 	}
+	.form-group label{
+		font-size: 11px;
+	}
+	.pop-logo{
+		width: 80px;
+	}
+	  .bau-cont{
+      width: 100% !important ;
+      float: unset !important;
+    }
+    .divfoot-part-two{
+    	text-align: center !important;
+    	margin-top: 3rem !important;
+    }
+	 .jau-cont{
+      width: 100% !important ;
+      float: unset !important;
+    }
+    .jau-cont h4{
+       margin-top: 20px !important;
+    }
+    .divfoot-part-one ul {
+        padding: 0 27%;
+    }
+    .divfoot{
+    	padding-top: 4em !important; 
+    }
+    .run-banner{
+    	height: 80vh !important;
+    }
+    .header-host{
+      padding: 15px 5px !important;
+    }
+    .nav-link li{
+    	font-size: 30px;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 14px !important;
+    }
+    .pop-line{
+          width: 25px !important;
+    }
+    .pop-slide-div{
+      height: 520px !important;
+      margin-top: 10px !important;
+
+    }
+    .div-three-text-one{
+      font-size: 12em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:30px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+    }
+    .footer-li{
+      font-size: 30px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+      padding-left: 2.5em !important;
+    }
+    .hid-div-part-one{
+      width: 70% !important;
+    }
+    .hid-div-part-two{
+      width: 20% !important;
+    }
+    .nav-plus{
+    	left: 30%;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:5em !important;
+      margin-left: -10px !important;
+    }
+}
+@media (min-width: 1024px) and (min-height: 1366px){
+	.padded-cra{
+		padding: 5% !important;
+	}
+	.pop-cra-text-ontop{
+		top: 65% ;
+		left: 15%;
+		font-size: 65px;
+	}
+	.prop-index-item{
+		width: 60%;
+		margin-left: 20%;
+	}
+	.prop-index-cra-btn-two{
+		right: 5%;
+	}
+	.prop-index-cra-btn-one{
+		left: 5%;
+	}
+	.prop-index-cra-plus{
+		width: 60px;
+		height: 60px;
+		top: 45%;
+		left: 47%;
+	}
+	.index-intro{
+		padding-top: 60px;
+	}
+	.pop-slide-btns{
+	    width: 23% !important;
+		text-align: right !important;
+	}
+	.pop-slide-btns .active {
+	    width: 8px;
+	    margin: 0 20px;
+	    text-align: center;
+	    align-items: center;
+	    height: 8px;
+	}
+	.pop-slide-btns li{
+		height: 5px;
+		width: 5px;
+		margin: 0 13px;
+	}
+	.under-quote {
+		height: 40vh !important;
+	}
+	.s-btns {
+	    top: 15%;
+	    position: sticky;
+	    margin: 0 0 0 -20% !important;
+	}
+	
+	.inside-interact h1 {
+		margin-top:20rem !important; 
+	}
+	.interact-banner {
+	    height: 50vh;
+	}
+	.inside-belowsecond-soluban {
+	    margin: -20% 5% 0 5% !important;
+	}
+	.under-brand-content h2 {
+		font-size: 30pt !important;
+	}
+	.belowsecond-solubanner h1 {
+		font-size: 170pt !important;
+	}
+	.inside-below-soluban {
+		top: 19% !important;
+	}
+	.below-solubanner h1 {
+		font-size: 170pt !important;
+	}
+	.below-solubanner {
+		height: 500px !important;
+	}
+	.solubanner{
+		height: 45vh !important;
+	}
+	.bau-cont{
+		text-align: left !important;
+	}
+	.jau-cont{
+		text-align: left !important;
+	}
+	.teamcrabtns {
+	    top: 13.5% !important;
+	    right: 10% !important;
+	}
+	
+	.team-job {
+	    top: 60%;
+	    left: 10%;
+	}
+	.team-cont {
+	    top: 30% !important;
+	    left: 10% !important;
+	}
+	.team-name {
+	    font-size: 50pt !important;
+	}
+	.under-sobre-txt {
+	    margin-top: 20%;
+	}
+	.client-logo {
+	    padding: 45px 0 !important;
+	}
+	.team-cra-divone{
+		height: 650px !important;
+	}
+	.team-cra-divtwo{
+		height: 650px !important;
+	}
+	.team-cra-divthree{
+		height: 650px !important;
+	}
+	.team-cra-divfour{
+		height: 650px !important;
+	}
+	.team-cra-divfive{
+		height: 650px !important;
+	}
+	.team-cra-divsix{
+		height: 650px !important;
+	}
+	.under-sobre {
+	    height: 45vh !important;
+	}
+	.sobre-div {
+	    height: 45vh !important;
+	}
+	.sobre-div-img-two {
+		height: 350px;
+		right: 5%;
+		bottom: -30%;
+		width: 44%;
+	}
+	.sobre-div-img-one{
+		height: 350px;
+		left: 5%;
+		bottom: -15% ;
+		width: 44%;
+		z-index: 20000;
+	}
+	
+	.empty-crabtns{
+		left: 43.5% !important;
+	}
+	.empty-cra-divone{
+		height: 35vh !important;
+		background-position: center;
+	}
+	.empty-cra-divtwo{
+		height: 35vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divthree{
+		height: 35vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divfour{
+		height: 35vh !important;
+	}
+	.bannernew {
+		height: 45vh;
+	}
+	.pop-client-p-cont{
+		top: 60% !important;
+	}
+	.scrooldivone {
+  		height: 70vh !important;
+  	}
+  	.scrooldivtwo {
+  		height: 70vh !important;
+  	}
+  	.scrooldivthree {
+  		height: 70vh !important;
+  	}
+  	.scrooldivfour {
+  		height: 70vh !important;
+  	}
+	.form-host {
+	    padding-top: 10% !important;
+	    padding-bottom: 11% !important;
+	}
+	.divfoot-part-one ul {
+	    padding: 0 0 !important;
+	}
+	.diveight {
+    padding: 10% 0 0 0 !important;
+	}
+  	.navbar-header {
+  		margin-top: 10px !important;
+  	}
+  	.form-host form{
+  		margin:10% 10% 10% 10% !important;
+  	}
+  	.divfoot{
+		padding-bottom: 10rem;
+		padding-top: 10rem ;
+		margin-top: 5%;
+	}
+	.contact-header{
+		font-size: 8rem; 
+	}
+	.divfoot-part-two{
+		text-align: left !important;
+		margin-top: unset !important;
+	}
+	.divfoot-part-one{
+		padding-left: 10em;
+	}
+  	
+  	.divfour {
+  	    height: 50vh !important;
+  	    background-position: left !important;
+  	    background-attachment: unset;
+  	   }
+  	.divfive {
+  	    height: 50vh !important;
+  	   }
+  	.divsix-col-5{
+  		height: 50vh !important;
+  	}
+  	.divsix-col-5 h6{
+  		padding-top: 80% !important;
+  	}
+  	.divsix-col-7{
+  		height: 50vh !important;
+  	}
+  	.divseven {
+  	    height: 50vh;
+  	}
+  	.divtwo h4 {
+  	    font-size: 26px !important;
+  	}
+  	.divthree-col-5{
+  		height: 50vh !important;
+  	}
+  	.divthree-col-5 h6{
+  		padding-top: 80% !important;
+  	}
+  	.divthree-col-7{
+  		height: 50vh !important;
+  	}
+	.run-banner{
+		height: 60vh !important;
+	}
+	
+}
+@media (width: 800px) and (min-height: 1280px){
+	.pop-cra-text-ontop{
+		top: 65% ;
+		left: 15%;
+		font-size: 65px;
+	}
+	.prop-index-item{
+		width: 60%;
+		margin-left: 20%;
+	}
+	.prop-index-cra-btn-two{
+		right: 7%;
+	}
+	.prop-index-cra-btn-one{
+		left: 7%;
+	}
+	.prop-index-cra-plus{
+		width: 60px;
+		height: 60px;
+		top: 45%;
+		left: 46.3%;
+	}
+	.index-intro{
+		padding-top: 60px;
+	}
+	.pop-slide-btns .active {
+	    width: 8px;
+	    margin: 0 20px;
+	    text-align: center;
+	    align-items: center;
+	    height: 8px;
+	}
+	.pop-slide-btns li{
+		height: 5px;
+		width: 5px;
+		margin: 0 13px;
+	}
+	.pop-slide-btns{
+		right: 3;
+		text-align: right;
+		width: 23%;
+	}
+	.second-under-brand-content h2 {
+		font-size: 25pt !important;
+	}
+	.inside-belowsecond-soluban {
+		margin: -20% 5% 0 5% important;
+		width: 100%;
+	}
+	.under-brand-content h2 {
+		font-size: 25pt !important;
+	}
+	.belowsecond-solubanner h1 {
+		font-size: 120pt !important;
+	}
+	.below-solubanner {
+		height: 500px !important;
+	}
+	.inside-below-soluban {
+		top: 14% !important;
+		margin: 0 5% 0 5% !important;
+	}
+
+	.below-solubanner h1 {
+		font-size: 135pt !important;
+	}
+	.solubanner {
+		height: 50vh !important;
+	}
+	.teamcrabtns {
+	    top: 9% !important;
+	    right: 10% !important;
+	}
+	
+	.team-job {
+	    top: 62%;
+	    left: 10%;
+	}
+	.team-cont {
+	    top: 30% !important;
+	    left: 10% !important;
+	}
+	.team-name {
+	    font-size: 50pt !important;
+	}
+	.under-sobre-txt {
+	    margin-top: 25%;
+	}
+	.client-logo {
+	    padding: 45px 0 !important;
+	}
+	.team-cra-divone{
+		height: 600px !important;
+	}
+	.team-cra-divtwo{
+		height: 600px !important;
+	}
+	.team-cra-divthree{
+		height: 600px !important;
+	}
+	.team-cra-divfour{
+		height: 600px !important;
+	}
+	.team-cra-divfive{
+		height: 600px !important;
+	}
+	.team-cra-divsix{
+		height: 600px !important;
+	}
+	.under-sobre {
+	    height: 45vh !important;
+	}
+	.sobre-div {
+	    height: 45vh !important;
+	}
+	.sobre-div-img-two {
+		height: 350px;
+		right: 5%;
+		bottom: -30%;
+		width: 44%;
+	}
+	.sobre-div-img-one{
+		height: 350px;
+		left: 5%;
+		bottom: -15% ;
+		width: 44%;
+		z-index: 20000;
+	}
+	
+	.empty-crabtns{
+		left: 37.5% !important;
+	}
+	.empty-cra-divone{
+		height: 35vh !important;
+		background-position: center;
+	}
+	.empty-cra-divtwo{
+		height: 35vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divthree{
+		height: 35vh !important;
+		background-position: center;
+
+	}
+	.empty-cra-divfour{
+		height: 35vh !important;
+	}
+	.bannernew {
+		height: 45vh;
+	}
+	.pop-client-p-cont{
+		top: 50% !important;
+		left: 10% !important;
+
+	}
+	.pop-client-h {
+		font-size: 55px !important;
+		left: 10% !important;
+	}
+	.diveight {
+	    padding: 10% 0 0 0 !important;
+	}
+	.divfour {
+	    height: 50vh !important;
+	    background-position: left !important;
+	    background-attachment: unset;
+	   }
+	.divthree-col-7{
+		height: 50vh !important;
+	}
+	.divfive {
+	    height: 50vh !important;
+	   }
+	.divsix-col-5{
+		height: 50vh !important;
+	}
+	.pop-scrool-txt{
+		font-size: 16px;
+	}
+	.divsix-col-5 h6{
+		padding-top: 50% !important;
+	}
+	.divsix-col-7{
+		height: 50vh !important;
+	}
+	.divseven {
+	    height: 45vh !important;
+	}
+	.divtwo h4 {
+	    font-size: 30px !important;
+	}
+	.divthree-col-5{
+		height: 50vh !important;
+	}
+	.divthree-col-5 h6{
+		padding-top: 50% !important;
+	}
+	.run-banner{
+		height: 70vh !important;
+	}
+	.pop-dre-txt{
+		font-size: 70px !important;
+	}
+	.form-group input, textarea{
+		width: 100% !important;
+	}
+	.contact-header{
+		font-size: 10rem !important;
+		margin-top: 8rem !important;
+		margin-bottom: 12rem !important; 
+	}
+	/*.divfoot-part-two{
+		text-align: center !important;
+		margin-top: 5%;
+	}
+	.divfoot-part-one{
+		padding-left: 9em !important;
+	}*/
+	form{
+		margin: 25% 5% 25% 5% !important;
+	}
+	.form-host{
+		width: 100%;
+	}
+	.form-group label{
+		margin-top: 5rem !important;
+	}
+	.enviar-btn{
+		margin-top: 7.5rem;
+	}
+	.pop-nav-line{
+		margin-right: unset;
+	}
+	.nav-link {
+	    margin-top: 30em;
+	}
+	.nav-link li{
+		font-size: 50px !important;
+	}
+	.divfoot{
+		padding-bottom: 10rem !important;
+		padding-top: 10rem !important;
+		margin-top: 5% !important;
+	}
+}
+@media (min-width: 980px) and (min-height: 1280px){
+	
+	.diveight {
+	    padding: 10% 0 0 0 !important;
+	}
+	.inside-belowsecond-soluban {
+	    margin: -16% 5% 0 5% !important;
+	}
+	.divfour {
+	    height: 50vh !important;
+	    background-position: left !important;
+	    background-attachment: unset;
+	   }
+	.divthree-col-7{
+		height: 50vh !important;
+	}
+	.divfive {
+	    height: 50vh !important;
+	   }
+	.divsix-col-5{
+		height: 50vh !important;
+	}
+	.pop-scrool-txt{
+		font-size: 16px;
+	}
+	.divsix-col-5 h6{
+		padding-top: 40% !important;
+	}
+	.divsix-col-7{
+		height: 50vh !important;
+	}
+	.divseven {
+	    height: 45vh;
+	}
+	.divtwo h4 {
+	    font-size: 30px !important;
+	}
+	.divthree-col-5{
+		height: 50vh !important;
+	}
+	.divthree-col-5 h6{
+		padding-top: 40% !important;
+	}
+	.run-banner{
+		height: 60vh !important;
+	}
+	.pop-dre-txt{
+		font-size: 70px !important;
+	}
+	.form-group input, textarea{
+		width: 80% !important;
+	}
+	.contact-header{
+		font-size: 10rem !important;
+		margin-top: 8rem !important;
+		margin-bottom: 12rem !important; 
+	}
+	.divfoot-part-two{
+		text-align: center !important;
+		margin-top: 5%;
+	}
+	.divfoot-part-one{
+		padding-left: 9em !important;
+	}
+	form{
+		margin: 25% 5% 25% 5% !important;
+	}
+	.form-host{
+		width: 100%;
+	}
+	.form-group label{
+		margin-top: 5rem !important;
+	}
+	.enviar-btn{
+		margin-top: 7.5rem;
+	}
+	.pop-nav-line{
+		margin-right: unset;
+	}
+	.nav-link {
+	    margin-top: 30em;
+	}
+	.nav-link li{
+		font-size: 50px !important;
+	}
+	.divfoot{
+		padding-bottom: 10rem !important;
+		padding-top: 10rem !important;
+		margin-top: 5%;
+	}
+}
+@media(width:600px ) and (height: 960px){
+	.below-solubanner {
+		height: 750px;
+	}
+	.prop-index-item{
+  		width: 100%;
+  		margin-left: unset;
+  	}
+  	.scrooldivone {
+  		height: 660px ;
+  	}
+  	.scrooldivtwo {
+  		height: 660px ;
+  	}
+  	.scrooldivthree {
+  		height: 660px ;
+  	}
+  	.scrooldivfour {
+  		height: 660px ;
+  	}
+  	.padded-cra{
+  		padding: 10% 0 !important;
+  	}
+  	.pop-cra-text-ontop{
+  	  margin-left: unset!important;
+  	  left: 13% !important;
+  	  top: 63% !important;
+  	  font-size: 50px !important;
+  	}
+  	.intro{
+  	  padding-top: 70px !important;
+  	  padding-bottom:  70px !important;
+  	}
+  	.intro-text-one{
+  	  font-size: 30px !important;
+  	}
+  	.intro-text-two{
+  	  font-size: 10pt !important;
+  	}
+  	.prop-index-cra-btn-two{
+  		top: unset;
+  		z-index: 50000;
+  		bottom: 5%;
+  		right: 5%;
+  		padding: 12px 16px !important;
+  	}
+  	.prop-index-cra-btn-one{
+  		top: unset;
+  		z-index: 50000;
+  		bottom: 5%;
+  		left: 5%;
+  		padding: 12px 16px !important;
+  	}
+  	.prop-index-cra-plus{
+  		width: 55px;
+  		height: 55px;
+  		top: 45%;
+  		left: 45%;
+  	}
+  	.index-intro{
+  		padding-top: 60px;
+  	}
+  	.pop-slide-btns .active {
+  	    width: 8px;
+  	    margin: 0 23px;
+  	    text-align: center;
+  	    align-items: center;
+  	    height: 8px;
+  	}
+  	.pop-slide-btns li{
+  		height: 5px;
+  		width: 5px;
+  		margin: 0 15px;
+  	}
+  	.pop-slide-btns{
+  		width: 100% !important;
+  		top: unset;
+  		bottom: -8% ;
+  		right: unset;
+  		left: unset;
+  	}	
+  	.prop-cra-divone{
+  		height: 400px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divtwo{
+  		height: 400px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divthree{
+  		height: 400px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.prop-cra-divfour{
+  		height: 400px;
+  		width: 90%;
+  		margin: 2% 5%; 
+  	}
+  	.padded-txt {
+  	  	font-size: 14px;
+  	 }
+  	.under-quote {
+  		height: 400px !important;
+  	}
+  	.s-btn-tweet {
+  	    padding: 1.5rem 1.5rem;
+  	    margin-top: 5px !important;
+  	}
+  	.s-btn-face {
+  	    padding: 1.5rem 2rem;
+  	    margin-bottom: 5px !important;
+  	}
+  	.s-btns {
+  	    top: 15%;
+  	    position: sticky;
+  	    margin: 0 0 0 -7% !important;
+  	}
+  	.under-interact-text{
+  		margin: -10rem 2rem 0 6rem;
+  	}
+  	.under-interact{
+  		padding: 3% 1% 3% 1%;
+  	}
+  	.under-interact-text p {
+  		font-size: 14px;
+  	}
+  	.date{
+  		font-size: 12px !important;
+  	}
+  	.inside-interact h1 {
+  		font-size:40px !important;
+  		margin-top:25rem !important; 
+  	}
+  	.interact-banner {
+  	    height: 550px;
+  	}
+  	.under-daily-img-four {
+  		height: 350px !important;
+  	}
+  	.under-daily-img-three {
+  		height: 350px !important;
+  	}
+  	.under-daily-img-two {
+  		height: 350px !important;
+  	}
+  	.under-daily-img-one {
+  		height: 350px !important;
+  	}
+  	  	.under-daily-img-text div {
+  		font-size: 13px !important;
+  	}
+  	.under-daily-img-text p {
+  		font-size: 16px !important;
+  	}
+  	.under-daily-img-text h1{
+  		font-size: 30px !important;
+  	}
+  	.under-daily-img-text {
+  	    padding: 10px 0 5px 0 !important;
+  	}
+  	.daily{
+  		padding-bottom:  unset !important; 
+  	}
+  	.daily div {
+  		width: 30% !important;
+  		margin-right: 35% !important;
+  		margin-left: 35% !important;
+  	}
+  	.daily p {
+  		font-size: 13pt !important;
+  	}
+  	.daily h1 {
+  		font-size: 4em !important;
+  	}
+  	.second-under-brand-content {
+  		margin: 10px 0 10px !important;
+  	}
+  	.second-under-brand-content h2 {
+  		font-size: 27pt !important;
+  	}
+  	.under-brand-content {
+  		margin: 10px 0 10px !important;
+  	}
+  	.under-brand-content h2 {
+  		font-size: 27pt !important;
+  	}
+  	.under-brand {
+  	    margin-left: 5px;
+  	    margin-right: 5px;
+  	}
+  	.second-under-brand-content p {
+  		margin-top: 20%; 
+  	}
+  	.under-brand-content p {
+  		margin-top: 20%; 
+  	}
+  	.inside-belowsecond-soluban {
+  	    margin:-21% 5% 0 5% !important;
+  	}
+  	.inside-belowsecond-soluban h5 {
+  		font-size: 15px !important;
+  	}
+  	.belowsecond-solubanner h1 {
+  		font-size: 120px !important;
+  		padding-left: 16px !important;
+  	}
+  	/**second*/
+  	.fale-div h4 {
+  	    font-size: 26px !important;
+  	}
+  	.fale-div h1 {
+  	    font-size: 90px !important;
+  	}
+  	.inside-below-soluban {
+  	    top: 6% !important;
+  	    margin: 0 5% 0 5% !important;
+  	}
+  	.inside-below-soluban h5 {
+  		font-size: 18px !important;
+  	}
+  	.below-solubanner h1 {
+  		font-size: 120px !important;
+  	}
+  	.pop-scrool-txt {
+  	    right: 0 !important;
+  	}
+  	.solubanner{
+  		height: 550px !important;
+  	}
+  	.minus-div-foot{
+  		padding: 0 25% !important;
+  	}
+  	.teamcrabtns {
+  	    top: 5% !important;
+  	    right: 2% !important;
+  	}
+  	.teamcrabtns li {
+  	    width: 50px !important;
+  	    height: 50px !important;
+  	}
+
+  	.team-job {
+  	    top: 70%;
+  	    font-size: 22px;
+  	    left: 5%;
+  	}
+  	.team-border {
+  		padding-bottom: 0 !important;
+  	}
+  	.team-cont {
+  	    top: 38% !important;
+  	    left: 5% !important;
+  	}
+  	.team-name {
+  	    font-size: 50px !important;
+  	}
+  	.client-logo {
+  	    padding: 20px 0 !important;
+  	}
+  	.team-cra-divone{
+  		height: 500px !important;
+  	}
+  	.team-cra-divtwo{
+  		height: 500px !important;
+  	}
+  	.team-cra-divthree{
+  		height: 500px !important;
+  	}
+  	.team-cra-divfour{
+  		height: 500px !important;
+  	}
+  	.team-cra-divfive{
+  		height: 500px !important;
+  	}
+  	.team-cra-divsix{
+  		height: 500px !important;
+  	}
+  	.client-cra-div {
+  	    padding: 0 20px 30px !important;
+  	}
+  	.under-sobre {
+  	    height: 600px !important;
+  	}
+  	.under-sobre-txt {
+  		font-size: 16px !important;
+  	}
+  	.under-sobre-txt {
+  	    margin-top: 40% !important;
+  	}
+  	.under-sobre-txt h1{
+  		font-size: 35px !important;
+  	}
+  	.sobre-div {
+  	    height: 500px !important;
+  	}
+  	.sobre-div-img-two {
+  		height: 250px;
+  	}
+  	.sobre-div-img-one{
+  		height: 250px;
+  	}
+  	.sobre-div-txt p{
+  		font-size: 15px !important;
+  	}
+  	.empty-crabtns{
+  		bottom: 3% !important;
+  		left: 29% !important;
+  	}
+  	.empty-cra-divone{
+  		height: 400px !important;
+  		background-position: center;
+  	}
+  	.empty-cra-divtwo{
+  		height:400px !important;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divthree{
+  		height: 400px !important;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divfour{
+  		height: 400px !important;
+  	}
+  	.bannernew {
+  		height: 550px;
+  	}
+  	.pop-client-p{
+  		font-size: 30px !important;
+  	}
+  	.pop-client-p-cont{
+  		top: 63% !important;
+  		left: 7% !important;
+  	}
+  	.pop-scrool-txt{
+  		right: 7% !important;
+  	}
+  	.pop-client-h{
+  		font-size: 40px !important;
+  		top: 25% !important;
+  		left: 7% !important;
+  	}
+  	.reduce-header{
+  		padding: 15px 15px !important;
+  	}
+  	.pop-beat-dre-icon {
+  	    top: 65% !important;
+  	    left: 5.5% !important;
+  	}
+  	.pop-beat-dre-p{
+  		left: 5% !important;
+  	}
+  	.pop-beat-dre-txt{
+  		left: 5% !important;
+  	}
+  	.divcrabtns {
+  		bottom: 15% !important;
+  		right: 2% !important;
+  	}
+  	.diveight {
+    padding: 10% 0 0 0 !important;
+	}
+  	.navbar-header {
+  		margin-top: 10px !important;
+  	}
+  	.form-host form{
+  		margin:5% 10% 5% 10% !important;
+  	}
+	.contact-header{
+		font-size: 8rem; 
+	}
+	.divfoot-part-two{
+		text-align: center;
+		margin-top: 5%;
+	}
+	.divfoot-part-one{
+		padding-left: 4em;
+	}
+  	.pop-scrool-txt{
+  		right: 2% !important;
+  		bottom: 10% !important;
+  	}
+  	.divfour {
+  	    height: 400px !important;
+  	    background-position: left !important;
+  	    background-attachment: unset;
+  	   }
+  	.divfive {
+  	    height: 400px !important;
+  	   }
+  	.divsix-col-5{
+  		height: 400px !important;
+  	}
+  	.divsix-col-5 h6{
+  		padding-top: 30% !important;
+  	}
+  	.divsix-col-7{
+  		height: 400px !important;
+  	}
+  	.divseven {
+  	    height: 350px;
+  	}
+  	.divtwo h4 {
+  	    font-size: 28px !important;
+  	}
+  	.divthree-col-5{
+  		height: 400px !important;
+  	}
+  	.divthree-col-5 h6{
+  		padding-top: 30% !important;
+  	}
+  	.divthree-col-7 {
+  		height: 400px;
+  	}
+  	.run-banner{
+  		height: 580px !important;
+  	}
+  	.pop-dre-txt{
+  		font-size: 70px !important;
+  	}
+    .header-host{
+      padding: 15px 5px !important;
+    }
+    .nav-link li{
+    	font-size: 30px;
+    }
+    .nav-container{
+      width: 50% !important;
+    }
+    .pop-nav-line{
+      padding: 8px 2px !important;
+      margin-right: 0 !important;
+      margin-top: 5px !important;
+      margin-bottom: 0 !important;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px !important;
+      height: unset !important;
+      font-size: 18px !important;
+    }
+    .pop-line{
+          width: 30px !important;
+    }
+
+    .intro-text-one{
+      font-size: 30pt !important;
+    }
+    .intro-text-two{
+      font-size: 12pt !important;
+    }
+    .div-three-text-one{
+      font-size: 15em !important;
+      margin:unset !important;
+    }
+    .div-three-text-two{
+      padding-left: unset !important; 
+      line-height: unset !important;
+      font-size:35px !important;
+    }
+    .div-five{
+      padding: 100px 0 !important;
+    }
+    .div-five h1 {
+        font-size: 50pt !important;
+        padding-top: 20px !important;
+    }
+    .footer{
+      padding: 0 15px !important;
+      text-align: center !important;
+    }
+    .footer-li-host{
+      text-align: center !important;
+    }
+    .footer-li{
+      font-size: 30px !important;
+      padding: 20px 20px !important;
+    }
+    .footer-address-host{
+      float: unset !important;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset !important;
+      padding: 10px 15px !important;
+    }
+    .footer-li-container{
+      float: unset!important;
+      padding-left: 2.5em !important;
+    }
+    .hid-div-part-one{
+      width: 70% !important;
+    }
+    .hid-div-part-two{
+      width: 20% !important;
+    }
+    .nav-plus{
+    	left: 30%;
+    }
+    .hid-div-logo{
+      margin-left: 2em !important;
+    }
+    .nav-link{
+      margin-top:10em !important;
+      margin-left: -10px !important;
+    }
+}
+
+/**Landscape**/
+
+@media (min-width: 500px) 
+  and (max-height: 414px){
+  	.intro-text-one{
+      font-size: 30px ;
+    }
+    .intro-text-two{
+      font-size: 12pt ;
+    }
+    .div-three-text-one{
+      font-size: 12em !important ;
+      margin:unset;
+    }
+    .div-three-text-two{
+      padding-left: unset ; 
+      line-height: unset;
+      font-size:30px;
+    }
+    .divfoot{
+    	padding-top: 4em ;
+    }
+    .divfoot-part-one ul {
+    	padding: unset;
+    	margin-left: 22.5%;
+    	text-align: center;
+    }
+    .divfoot-part-two{
+    	padding-top: 15px;
+    }
+    .bau-cont{
+    	text-align: center;
+    }
+    .jau-cont{
+    	text-align: center;
+    }
+  	.pop-cra-text-ontop {
+  		font-size: 50px ;
+  		left: 10% ;
+  		top: 60%;
+  	}
+  	.prop-index-item{
+  		width: 100%;
+  		margin-left: unset;
+  	}
+  	.prop-index-cra-btn-two{
+  		top: unset;
+  		bottom: 5%;
+  		right: 3%;
+  		z-index: 50000;
+  		padding: 10px 14px;
+  	}
+  	.prop-index-cra-btn-one{
+  		top: unset;
+  		bottom: 5%;
+  		left: 3%;
+  		z-index: 50000;
+  		padding: 10px 14px;
+  	}
+  	.prop-index-cra-plus{
+  		width: 50px;
+  		height: 50px;
+  		top: 45%;
+  		left: 46%;
+  	}
+  	.index-intro{
+  		padding-top: 60px;
+  	}
+  	.pop-slide-btns .active {
+  	    width: 7px;
+  	    margin: 0 10px;
+  	    text-align: center;
+  	    align-items: center;
+  	    height: 7px;
+  	}
+  	.pop-slide-btns li{
+  		height: 5px;
+  		width: 5px;
+  		margin: 0 7px;
+  	}
+  	.pop-slide-btns{
+  		width: 18% !important;
+  		right: 0;
+  		text-align: left;
+  		
+  	}	
+  	.prop-cra-divone{
+  		height: 350px;
+  		width: 80%;
+  		margin: 5% 10%; 
+  	}
+  	.prop-cra-divtwo{
+  		height: 350px;
+  		width: 80%;
+  		margin: 5% 10%; 
+  	}
+  	.prop-cra-divthree{
+  		height: 350px;
+  		width: 80%;
+  		margin: 5% 10%; 
+  	}
+  	.prop-cra-divfour{
+  		height: 350px;
+  		width: 80%;
+  		margin: 5% 10%; 
+  	}
+  	.padded-txt {
+  		font-size: 14px;
+  	}
+  	.under-quote {
+  		height: 350px;
+  	}
+  	.s-btn-tweet {
+  	    padding: 1.5rem 1.5rem;
+  	    margin-top: 5px;
+  	}
+  	.s-btn-face {
+  	    padding: 1.5rem 2rem;
+  	    margin-bottom: 5px;
+  	}
+  	.s-btns {
+  	    top: 15%;
+  	    position: sticky;
+  	    margin: 0 0 0 -7% ;
+  	}
+  	.under-interact-text{
+  		margin: -10rem 2rem 0 6rem;
+  	}
+  	.under-interact{
+  		padding: 3% 1% 3% 1%;
+  	}
+  	.under-interact-text p {
+  		font-size: 14px;
+  	}
+  	.date{
+  		font-size: 10px
+  	}
+  	.inside-interact h1 {
+  		font-size:30px ;
+  		margin-top:20rem ; 
+  	}
+  	.interact-banner {
+  	    height: 400px;
+  	}
+  	.under-daily-img-four {
+  		height: 260px ;
+  	}
+  	.under-daily-img-three {
+  		height: 260px ;
+  	}
+  	.under-daily-img-two {
+  		height: 260px ;
+  	}
+  	.under-daily-img-one {
+  		height: 260px ;
+  	}
+  	.under-daily-img-text div {
+  		font-size: 13px;
+  	}
+  	.under-daily-img-text p {
+  		font-size: 14px ;
+  	}
+  	.under-daily-img-text h1{
+  		font-size: 25px ;
+  	}
+  	.under-daily-img-text {
+  	    padding: 10px 0 5px 0 ;
+  	}
+  	.daily{
+  		padding-bottom:  unset ; 
+  	}
+  	.daily div {
+  		width: 40% ;
+  		margin-right: 30% ;
+  		margin-left: 30% ;
+  	}
+  	.daily p {
+  		font-size: 10pt ;
+  	}
+  	.daily h1 {
+  		font-size: 3em ;
+  	}
+  	.second-under-brand-content {
+  		margin: 10px 0 10px;
+  	}
+  	.second-under-brand-content h2 {
+  		font-size: 25pt ;
+  	}
+  	.under-brand-content {
+  		margin: 10px 0 10px ;
+  	}
+  	.under-brand-content h2 {
+  		font-size: 25pt ;
+  	}
+  	.under-brand {
+  	    margin-left: 5px;
+  	    margin-right: 5px;
+  	}
+  	.under-brand-content p {
+  		margin-top: 20%;
+  	}
+  	.second-under-brand-content p {
+  		margin-top: 20%;
+  	}
+  	.inside-belowsecond-soluban {
+  	    margin: -20% 5% 0 5% ;
+  	}
+  	.inside-belowsecond-soluban h5 {
+  		font-size: 16px ;
+  	}
+  	.belowsecond-solubanner h1 {
+  		font-size: 100px  !important;
+  		padding-left: 15px  !important;
+  	}
+  	.fale-div h4 {
+  	    font-size: 22px ;
+  	}
+  	.fale-div h1 {
+  	    font-size: 70px ;
+  	}
+  	.inside-below-soluban {
+  	    top: 6.5% ;
+  	    margin: 0 5% 0 5% ;
+  	}
+  	.inside-below-soluban h5 {
+  		font-size: 16px ;
+  	}
+  	.below-solubanner h1 {
+  		font-size: 120px ;
+  	}
+  	.pop-scrool-txt {
+  	    right: 0 ;
+  	    font-size: 12px ;
+  	}
+  	.solubanner{
+  		height: 400px ;
+  	}
+  	.below-solubanner {
+  		height: 750px;
+  	}
+  	.teamcrabtns {
+  	    top: 5% ;
+  	    right: 2% ;
+  	}
+  	.teamcrabtns li {
+  	    width: 50px;
+  	    height: 50px ;
+  	}
+  	.team-job {
+  	    top: 65%;
+  	    font-size: 18px;
+  	    left: 5%;
+  	}
+  	.team-border {
+  		padding-bottom: 0 ;
+  	}
+  	.team-cont {
+  	    top: 38% ;
+  	    left: 5% ;
+  	}
+  	.team-name {
+  	    font-size: 40px ;
+  	}
+  	.client-logo {
+  	    padding: 20px 0 ;
+  	}
+  	.team-cra-divone{
+  		height: 500px ;
+  	}
+  	.team-cra-divtwo{
+  		height: 500px ;
+  	}
+  	.team-cra-divthree{
+  		height: 500px ;
+  	}
+  	.team-cra-divfour{
+  		height: 500px ;
+  	}
+  	.team-cra-divfive{
+  		height: 500px ;
+  	}
+  	.team-cra-divsix{
+  		height: 500px ;
+  	}
+  	.client-cra-div {
+  	    padding: 0 20px 30px ;
+  	}
+  	.under-sobre {
+  	    height: 520px;
+  	}
+  	.under-sobre-txt {
+  		font-size: 14px ;
+  	}
+  	.under-sobre-txt {
+  	    margin-top: 30% ;
+  	}
+  	.under-sobre-txt h1{
+  		font-size: 35px;
+  	}
+  	.sobre-div {
+  	    height: 500px;
+  	}
+  	.sobre-div-img-two {
+  		height: 300px;
+	 	right: 5%;
+	 	z-index: 20000;
+	}
+  	.sobre-div-img-one{
+  		height: 300px;
+ 		left: 5%;
+		z-index: 20000;
+  	}
+  	.sobre-div-txt p{
+  		font-size: 15px ;
+  	}
+  	.empty-crabtns{
+  		bottom: 2% ;
+  		left: 33% ;
+  	}
+  	.empty-crabtns .active {
+  		width: 8px ;
+  		height: 8px ;
+  	}
+  	.empty-cra-divone{
+  		height: 300px;
+  		background-position: center;
+  	}
+  	.empty-cra-divtwo{
+  		height: 300px ;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divthree{
+  		height: 300px ;
+  		background-position: center;
+
+  	}
+  	.empty-cra-divfour{
+  		height: 300px;
+  	}
+  	.bannernew {
+  		height: 400px;
+  	}
+  	.pop-client-p{
+  		font-size: 25px ;
+  	}
+  	.pop-client-p-cont{
+  		top: 60% ;
+  		left: 7%;
+  	}
+  	.pop-scrool-txt{
+  		right: 3% ;
+  		bottom: 10% ;
+  	}
+  	.pop-client-h{
+  		font-size: 35px ;
+  		top: 25% ;
+  		left: 7% ;
+  	}
+
+  	.reduce-header{
+  		padding: 15px 15px ;
+  	}
+  	.pop-beat-dre-icon {
+  	    top: 65% ;
+  	    left: 5.5% ;
+  	}
+  	.pop-beat-dre-p{
+  		left: 5% ;
+  	}
+  	.pop-beat-dre-txt{
+  		left: 5% ;
+  	}
+  	.divcrabtns {
+  		bottom: 5% ;
+  		right: 5%;
+  	}
+  	.divcrabtns li {
+  		margin: 4em 0 4em 0;
+
+  	}
+    .scrooldivone {
+    	height: 400px;
+    }
+    .scrooldivtwo {
+    	height: 400px;
+    }
+    .scrooldivthree {
+    	height: 400px;
+    }
+    .scrooldivfour {
+    	height: 400px;
+    }
+  	.divthree-col-7 {
+  		height: 400px ;
+  	}
+  	.divthree-col-5{
+  		height: 350px ;
+  	}
+  	.divthree-col-5 h6 {
+  		padding-top: 15% ;
+  	}
+  	.divsix-col-5 h6 {
+  		padding-top: 15% ;
+  	}
+  	.divsix-col-5{
+  		height: 350px ;
+  	}
+  	.divsix-col-7{
+  		height: 400px ;
+  	}
+  	.divseven {
+  		height: 380px;
+  	}
+    .run-banner{
+    	height: 400px;
+    }
+    .divfour {
+    	height: 380px;
+    }
+    .divfive {
+    	height: 350px;
+    }
+    .header-host{
+      padding: 15px 5px;
+    }
+    .nav-link li{
+    	font-size: 30px;
+    }
+    .nav-container{
+      width: 50%;
+    }
+    .pop-nav-line{
+      padding: 8px 2px ;
+      margin-right: 0 ;
+      margin-top: 5px ;
+      margin-bottom: 0;
+    }
+    .pop-nav-text{
+      padding: 10px 10px 0px;
+      height: unset ;
+      font-size: 14px ;
+    }
+    .pop-line{
+          width: 25px ;
+    }
+    .pop-slide-div{
+      height: 520px ;
+      margin-top: 10px ;
+
+    }
+    
+    
+    .div-five{
+      padding: 100px 0 ;
+    }
+    .div-five h1 {
+        font-size: 50pt;
+        padding-top: 20px ;
+    }
+    .footer{
+      padding: 0 15px;
+      text-align: center ;
+    }
+    .footer-li-host{
+      text-align: center;
+    }
+    .footer-li{
+      font-size: 30px ;
+      padding: 20px 20px ;
+    }
+    .footer-address-host{
+      float: unset;
+      text-align: center;
+    }
+    .footer-address{
+      float: unset ;
+      padding: 10px 15px ;
+    }
+    .footer-li-container{
+      float: unset;
+      padding-left: 2.5em ;
+    }
+    .hid-div-part-one{
+      width: 70% ;
+    }
+    .hid-div-part-two{
+      width: 20% ;
+    }
+    .nav-plus{
+    	left: 30%;
+    }
+    .hid-div-logo{
+      margin-left: 2emt;
+    }
+    .nav-link{
+      margin-top:5em ;
+      margin-left: -10px;
+    }
+}
+@media (width: 960px) and (max-height: 600px){
+	.pop-cra-text-ontop{
+		top: 65% ;
+		left: 15%;
+		font-size: 65px;
+	}
+	.prop-index-cra-btn-two{
+		right: 7%;
+	}
+	.prop-index-cra-btn-one{
+		left: 7%;
+	}
+	.prop-index-cra-plus{
+		width: 60px;
+		height: 60px;
+		top: 45%;
+		left: 47%;
+	}
+	.pop-slide-btns .active {
+	    margin: 0 22px;
+	    text-align: center;
+	    align-items: center;
+	}
+	.pop-slide-btns li{
+		margin: 0 15px;
+	}
+	.pop-slide-btns{
+		right: 5;
+		text-align: right;
+		width: 25%;
+	}
+	.prop-index-item {
+	    width: 50%;
+	    margin-left: 25%;
+	}
+	.under-brand-content h2 {
+		font-size: 30pt !important
+	}
+	.belowsecond-solubanner h1 {
+		font-size: 160pt !important;
+	}
+	.below-solubanner {
+		height: 500px !important;
+	}
+	.inside-below-soluban {
+		top: 18% !important;
+	}
+
+	.below-solubanner h1 {
+		font-size: 160pt !important;
+	}
+	.solubanner {
+		height: 100vh !important;
+	}
+	.under-sobre {
+		height: 110vh !important;
+	}
+	.empty-crabtns {
+		left: 42.5% !important;
+	}
+	.empty-cra-divone {
+		height: 80vh !important;
+	}
+	.empty-cra-divtwo {
+		height: 80vh !important;
+	}
+	.empty-cra-divthree {
+		height: 80vh !important;
+	}
+	.empty-cra-divfour {
+		height: 80vh !important;
+	}
+	.sobre-div-img-two {
+		height: 400px !important;
+	}
+	.sobre-div-img-one {
+		height: 400px !important;
+	}
+	.divthree-col-7 {
+		height: 110vh !important;
+	}
+	.divthree-col-5 h6{
+		padding-top: 30% !important;
+	}
+	.divfour{
+		height: 110vh !important;
+	}
+	.divfive{
+		height: 110vh !important;
+	}
+	.divsix-col-5 h6{
+		padding-top: 30% !important;
+	}
+	.divsix-col-7 {
+		height: 95vh !important;
+	}
+	.divseven {
+	    height: 90vh !important;
+	}
+	.diveight {
+	    padding: 10% 0 0 0 !important;
+	}
+	.divfoot-part-one ul {
+	    padding: 0 !important;
+	}
+	.navbar-toggle{
+		padding: 9px 0 9px 10px !important;
+	}
+	.divcrabtns {
+	    bottom: 15% !important;
+	}
+}
+@media (min-width:1024px ) and (min-height: 800px){
+	.run-banner{
+		height: 700px !important;
+	}
+	.pop-dre-txt {
+		font-size: 90px;
+	}
+	.divthree-col-7 {
+		height: 660px;
+	}
+	.divthree-col-5 {
+		height: 660px;
+	}
+	.divsix-col-7 {
+		height: 660px;
+	}
+	.divsix-col-5 {
+		height: 660px;
+	}
+	.divfour {
+		height: 660px;
+	}
+	.divfive {
+		height: 660px;
+	}
+	.divseven {
+		height: 700px;
+	}
+	.scrooldivone{
+		height: 660px !important;
+	}
+	.scrooldivtwo {
+		height: 660px !important;
+	}
+	.scrooldivthree {
+		height: 660px !important;
+	}
+	.scrooldivfour {
+		height: 660px !important;
+	}
+	.bannernew {
+		height: 660px;
+	}
+	.empty-cra-divone {
+		height: 600px
+	}
+	.empty-cra-divtwo {
+		height: 600px;
+	}
+	.empty-cra-divthree {
+		height: 600px;
+	}
+	.empty-cra-divfour {
+		height: 600px;
+	}
+	.sobre-div {
+		height: 720px;
+	}
+	.under-sobre {
+		height: 850px;
+	}
+	.solubanner {
+		height: 700px;
+	}
+	.below-solubanner h1 {
+		font-size: 180pt !important;
+	}
+	.inside-below-soluban {
+		top: 18%;
+	}
+	.belowsecond-solubanner h1 {
+		font-size: 180pt !important;
+	}
+	.inside-belowsecond-soluban {
+		margin: -19% 6% 0 6%;
+	}
+	.interact-banner {
+		height: 700px;
+	}
+	.under-quote {
+	height: 600px;
+	}
+>>>>>>> 187ea27167616feba4011005604e3ef0ba16a140
 }
